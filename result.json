@@ -45,6 +45,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 369.0,
+      "field_max": 591.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -93,6 +100,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 9.0,
+      "off_field_max": 69.0
     }
   },
   {
@@ -141,6 +155,13 @@
         "note": "СМОТРИТЕ В ЧЁМ ПРИКОЛ. КАК БЫ ДА! БЕСКОНЕЧНОСТЬ НЕ ПРЕДЕЛ ВСЕ ДЕЛА. НО! ЕШКИ И УЛЬТЫ СТАКИ ВСЁ ТАК ЖЕ ТРАТЯТ!\nТАК ВОТ! АЯКА И ГАНЬКА В ГЛАЗА ДАЖЕ ЭТИ СТАКИ НЕ УВИДЯТ. ПОТОМУ ЧТО ВЫ ЖЕ НЕ БУДЕТЕ НЕ НАЖИМАТЬ ЕШКИ И УЛЬТЫ. ЭТО АБСОЛЮТНЫЙ КРИНЖ!\n\nНО ЛАДНО! ЕСТЬ СКИРК И РИЗЛИ! ЧТО УЖЕ ХОТЬ ЧТО-ТО!\nНО ВСЁ РАВНО ЗА 15 сек. ТЫ ОСОБО БОЛЬШЕ УДАРОВ НЕ СДЕЛАЕШЬ. НУ БУДЕТ НЕ 7, а 12 УДАРОВ ПОД БАФФОМ, ПРИБАВКА ОТ ЭТОГО НЕ БЕЗУМИЕ...\n\nПОЭТОМУ В ЧЁМ ПРОБЛЕМА?\nДЛИТЕЛЬНОСТЬ БАФФА И ТО ЧТО СТАКИ ЗАКАНЧИВАЮТСЯ.\nПОЭТОМУ ТОЛКУ ОТ С6 ПОЧТИ НЕТ... ЭТО ВАМ ЛЮБОЙ АДЕКВАТНЫЙ ИГРОК СКАЖЕТ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 50.0,
+      "off_field_max": 61.0
     }
   },
   {
@@ -189,6 +210,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 302.0,
+      "field_max": 392.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -237,6 +265,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 252.0,
+      "field_max": 437.0,
+      "off_field": 0,
+      "off_field_max": 94.0
     }
   },
   {
@@ -285,6 +320,13 @@
         "note": "1,5к ДЛЯ ХИЛЛА. НУ ТАКОЕ...\nА ОТ 200 МС! ДРУГОЕ ДЕЛО!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 20.0,
+      "off_field_max": 24.0
     }
   },
   {
@@ -333,6 +375,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 85.0,
+      "off_field_max": 183.0
     }
   },
   {
@@ -381,6 +430,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 54.0,
+      "off_field_max": 95.0
     }
   },
   {
@@ -429,6 +485,13 @@
         "note": "ПРИМЕРНО СТОЛЬКО ДАСТ КРИТ. УРОН ОДНОМУ ФИЗ. ДД! \n\nА ОТ ДОП. СТАК, РАССКРЫТЬ МОЖНО ТОЛЬКО ПРОТИВ ТОЛПЫ... А ВОТ КАК ЭТО СДЕЛАТЬ? ВОПРОС ОТКРЫТЫЙ...",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 2.0,
+      "field_max": 51.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -477,6 +540,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 67.0,
+      "off_field_max": 109.0
     }
   },
   {
@@ -525,6 +595,13 @@
         "note": "ТАК КАК ВЕСЬ НОЧНОЙ ДУХ СРАЗУ ТРАТИТЬСЯ И НАЧИНАЕТ ПОТРЕБЛЯТЬ ДУХ НИЖЕ 0. ТО ЗНАЧИТ ЕШКА ТУПО ДЛИТСЯ 20 сек.\nЩИТ ЛОМАЕТСЯ САМО СОБОЙ!\n\nБАФФ НАБИРАЕТСЯ ПОСТЕПЕННО! А ЗНАЧИТ РАБОТАЕТ НЕ ОЧЕНЬ СТАБИЛЬНО...",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 29.0,
+      "off_field_max": 128.0
     }
   },
   {
@@ -573,6 +650,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 242.0,
+      "field_max": 426.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -621,6 +705,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 14.0,
+      "off_field_max": 25.0
     }
   },
   {
@@ -669,6 +760,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 50.0,
+      "field_max": 88.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -717,6 +815,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 37.0,
+      "field_max": 161.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -765,6 +870,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 423.0,
+      "field_max": 580.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -813,6 +925,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 361.0,
+      "off_field_max": 520.0
     }
   },
   {
@@ -861,6 +980,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 473.0,
+      "field_max": 1008.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -909,6 +1035,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 371.0,
+      "field_max": 560.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -957,6 +1090,13 @@
         "note": "7% АКТИВНОМУ ПЕРСУ!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 14.0,
+      "field_max": 28.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1005,6 +1145,13 @@
         "note": "Подсчёту к сожалению не поддаётся. Так как вы сами решаете, что будете делать с этой инфузией",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 236.0,
+      "field_max": 357.0,
+      "off_field": 73.0,
+      "off_field_max": 330.0
     }
   },
   {
@@ -1053,6 +1200,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 140.0,
+      "field_max": 552.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1101,6 +1255,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 149.0,
+      "field_max": 219.0,
+      "off_field": 23.0,
+      "off_field_max": 337.0
     }
   },
   {
@@ -1149,6 +1310,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 312.0,
+      "field_max": 456.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1197,6 +1365,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 323.0,
+      "field_max": 735.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1245,6 +1420,13 @@
         "note": "4% ЭТО ПРИБАВКА ДЛЯ ОДНОГО ПИРО ПЕРСА! НАПРИМЕР МАВУИКА ИЛИ СЯНКА!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 275.0,
+      "field_max": 440.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1293,6 +1475,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 404.0,
+      "field_max": 493.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1341,6 +1530,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 446.0,
+      "field_max": 1005.0,
+      "off_field": 210.0,
+      "off_field_max": 464.0
     }
   },
   {
@@ -1389,6 +1585,13 @@
         "note": "21% ЕСЛИ ИГРАТЬ КАК ДД! \nНО ПОНЯТНОЕ ДЕЛО, НЕ СОВЕТУЮ...",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 281.0,
+      "off_field": 30.0,
+      "off_field_max": 41.0
     }
   },
   {
@@ -1437,6 +1640,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 191.0,
+      "off_field_max": 268.0
     }
   },
   {
@@ -1485,6 +1695,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 31.0,
+      "off_field_max": 628.0
     }
   },
   {
@@ -1533,6 +1750,13 @@
         "note": "ТУТ КАК БОГ ДАСТ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 342.0,
+      "field_max": 628.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1581,6 +1805,13 @@
         "note": "18% В СРЕДНЕМ АКТИВНОМУ ПЕРСОНАЖУ! НО ОЧЕВИДНО!\nЧТО НЕКОТОРЫЕ ПЕРСОНАЖИ ПОЛУЧАЮТ ЛИШЬ ОДИН СТАК, КОТОРЫЙ ДАСТ 6% ПРИБАВКИ!\n\nПЛЮС НЕ ЗАБЫВАЕМ ЧТО ХИЛЛ ВСЕМ ТОЖЕ БАФФ ОБНОВИТ ВСЕМ!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 14.0,
+      "field_max": 143.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1629,6 +1860,13 @@
         "note": "В СРЕДНЕМ ДАСТ 5% ПРИБАВКИ КАЖДОМУ ДД ОТ СА!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 45.0,
+      "field_max": 72.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1677,6 +1915,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 165.0,
+      "field_max": 348.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1725,6 +1970,13 @@
         "note": "ЭТО БАФФ ДЛЯ ТЬМЫ!\n\nДЛЯ СВЕТ БУДЕТ 50% ПРИБАВКИ, НУ И ПРИМЕРНО В ДВА РАЗА МЕНЬШЕ ДЛЯ ДД! КОРОЧЕ ОПЯТЬ КОНСТА В ДВА РАЗА СЛАБЕЙ ДЛЯ СВЕТЛОЙ ФОРМЫ...\nНО НЕ ЗАБЫВАЙТЕ ЧТО ОН БАФФАЕТ ВСЕХ ПО 25-30%\nПОЭТОМУ БОЛЕЕ МЕНЕЕ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 370.0,
+      "off_field_max": 706.0
     }
   },
   {
@@ -1773,6 +2025,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 262.0,
+      "field_max": 460.0,
+      "off_field": 0,
+      "off_field_max": 481.0
     }
   },
   {
@@ -1821,6 +2080,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 2.0,
+      "field_max": 416.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1869,6 +2135,13 @@
         "note": "ХИЛЛ ТАМ КОПЕЙКИ. ЛУЧШЕ ПОСТАВЬТЕ МОНУ С ЯНТАРЁМ. И ТО В 10 РАЗ БОЛЬШЕ ДАСТ...",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 57.0,
+      "field_max": 215.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1917,6 +2190,13 @@
         "note": "+10% СКОРОСТИ АТАКИ. ЗВУЧИТ ХОРОШО, А НА ДЕЛЕ ВЫЧИСЛИТЬ ПОЛЬЗУ ПОЧТИ НЕВОЗМОЖНО!\n\nНО В ЛЮБОМ СЛУЧАЕ БАФФ ПРИЯТНЫЙ!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 12.0,
+      "field_max": 18.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -1965,6 +2245,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 249.0,
+      "off_field_max": 315.0
     }
   },
   {
@@ -2013,6 +2300,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 47.0,
+      "off_field_max": 77.0
     }
   },
   {
@@ -2061,6 +2355,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 284.0,
+      "field_max": 329.0,
+      "off_field": 29.0,
+      "off_field_max": 337.0
     }
   },
   {
@@ -2109,6 +2410,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 43.0,
+      "off_field_max": 50.0
     }
   },
   {
@@ -2157,6 +2465,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 383.0,
+      "field_max": 1123.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -2205,6 +2520,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 506.0,
+      "field_max": 727.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -2253,6 +2575,13 @@
         "note": "19% - ЭТО В КАРМАНЕ\n50% - ЭТО НА ПОЛЕ",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 323.0,
+      "off_field": 46.0,
+      "off_field_max": 298.0
     }
   },
   {
@@ -2301,6 +2630,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 92.0,
+      "off_field": 14.0,
+      "off_field_max": 12.0
     }
   },
   {
@@ -2349,6 +2685,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 224.0,
+      "off_field_max": 437.0
     }
   },
   {
@@ -2397,6 +2740,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 204.0,
+      "field_max": 334.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -2445,6 +2795,13 @@
         "note": "ЕСЛИ БУДЕШЬ ПРОСТО СТОЯТЬ И БИТЬ, ТО УРОН СТАНЕТ МЕНЬШЕ...\n\nТАК ЧТО ЛУЧШЕ ДАЛЬШЕ ИГРАТЬ В КАРМАНЕ, ПРОСТО САМОМУ ХИЛИТЬ ПАЧКУ ПЛЮСОМ!\n\n59% ЕСЛИ ВЫ ПРОСТО ДАДИТЕ ПАРУ УДАРОВ ПОСЛЕ ЕШКИ И ДАДИТЕ ХИЛ ОТ СЕБЯ. ВОТ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 288.0,
+      "off_field_max": 568.0
     }
   },
   {
@@ -2493,6 +2850,13 @@
         "note": "12% ЭТО ОДНОМУ ПЕРСОНАЖУ. КОТОРОМУ ЭТИ БАФФЫ ЧТО-ТО ДАЮТ!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 0,
+      "off_field_max": 34.0
     }
   },
   {
@@ -2541,6 +2905,13 @@
         "note": "МОБИЛЬНОСТИ НЕ ВСЕГДА ХВАТАЕТ, ЧТО БЫ ПОЛУЧАТЬ НОЧНОЙ ДУХ И ПЕРЕИЗБЫКЕ.\n\n+3 сек. В УЛЬТУ. НА САМОМ ДЕЛЕ НЕ СИЛЬНО ПОМОГАЮТ. ВЕДЬ ДАЛЕКО НЕ ВСЕ ПЕРСОНАЖИ И ДО ЭТОГО МОГЛИ СТАБИЛЬНО УДЕРЖИВАТЬ БАФФ. А ТЕПЕРЬ ЕЩЁ 3 сек. НАДО ДВИГАТЬСЯ КАК ЧЁРТ! КОРОЧЕ ПАЛКА С ДВУХ СТОРОН...",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 69.0,
+      "field_max": 80.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -2589,6 +2960,13 @@
         "note": "МОЖНО БЕСКОНЕЧНО ПЕРЕМЕЩАТЬСЯ В МИРЕ! ТО ЕСТЬ БЕСКОНЕЧНЫЙ БЕГ В ЕШКЕ",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 415.0,
+      "field_max": 471.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -2637,6 +3015,13 @@
         "note": "9% ЭТО ОДНОМУ ЭЛЕКТРО ПЕРСУ!\n\nВАЖНО ПОНИМАТЬ, ЧТО В МОНО ЭЛЕКТРО БАФФ ТОЛЬКО ДЛЯ НАС. А В 3 ЭЛЕКТРО МЫ ИГРАЕТ ВЕСЬМА РЕДКО! ПОЭТОМУ БАФФ НЕ НАСТОЛЬКО И СИЛЬНЫЙ!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 407.0,
+      "off_field": 123.0,
+      "off_field_max": 168.0
     }
   },
   {
@@ -2685,6 +3070,13 @@
         "note": "СА ЭТО ТАКОЙ БАФФ, ЧТО ТУТ НЕТ СТАБИЛЬНОЙ ПРИБАВКИ. ВСЕМ ПО РАЗНОМУ.\n9% ЭТО ОДНОМУ ПЕРСУ!\nЕСЛИ ОДИН СТАК СЛОВИТ ПЕРС, ТО БУДЕТ 4% В СРЕДНЕМ",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 100.0,
+      "off_field_max": 178.0
     }
   },
   {
@@ -2733,6 +3125,13 @@
         "note": "СЛИШКОМ ВСЁ СИТУАТИВНО, НО ЗАЧАСТУЮ ПОЛЬЗЫ ОЧЕНЬ МАЛО...",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 207.0,
+      "field_max": 823.0,
+      "off_field": 0,
+      "off_field_max": 949.0
     }
   },
   {
@@ -2781,6 +3180,13 @@
         "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 21%",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 721.0,
+      "off_field": 172.0,
+      "off_field_max": 201.0
     }
   },
   {
@@ -2829,6 +3235,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 299.0,
+      "field_max": 418.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -2877,6 +3290,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 253.0,
+      "field_max": 756.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -2925,6 +3345,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 290,
+      "field_max": 748,
+      "off_field": 0,
+      "off_field_max": 34.0
     }
   },
   {
@@ -2973,6 +3400,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "?",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3021,6 +3455,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 99.0,
+      "field_max": 118.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3069,6 +3510,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 45.0,
+      "off_field_max": 114.0
     }
   },
   {
@@ -3117,6 +3565,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 84.0,
+      "off_field_max": 244.0
     }
   },
   {
@@ -3165,6 +3620,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 226.0,
+      "field_max": 429.0,
+      "off_field": 0,
+      "off_field_max": 426.0
     }
   },
   {
@@ -3213,6 +3675,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 246.0,
+      "off_field_max": 512.0
     }
   },
   {
@@ -3261,6 +3730,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 176.0,
+      "field_max": 330.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3309,6 +3785,13 @@
         "note": "6.8к ЗА 1 УДАР ВСЕМ!\nТО ЕСТЬ 1.8к ОДНОМУ",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 9.0,
+      "field_max": 381.0,
+      "off_field": 0,
+      "off_field_max": 22.0
     }
   },
   {
@@ -3357,6 +3840,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 99,
+      "off_field_max": 597
     }
   },
   {
@@ -3405,6 +3895,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 674.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3453,6 +3950,13 @@
         "note": "ПРОБЛЕМА В ТОМ, ЧТО Я НЕ МОГУ В КАЛЬКУЛЯТОРЕ СДЕЛАТЬ ДАБЛ ПИРО, ТАК КАК ТАМ С2 НЕ РАБОТАЕТ. ИЗ-ЗА ЧЕГО Я ИСПОЛЬЗУЮ ДАЛЕКО НЕ ЛУЧШУЮ ПАЧКУ ЧАСКИ. НО ДАЖЕ ТАК. ПОЛУЧИТЬ 102% ПРИБАВКИ ПРИ И ТАК УЖЕ 1кк СВОЕГО УРОНА...\n\nЭТО ПРОСТО БЕЗУМИЕ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 209.0,
+      "field_max": 851.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3501,6 +4005,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "?",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3549,6 +4060,13 @@
         "note": "НА САМОМ ДЕЛЕ ДЛИТЕЛЬНОСТЬ ЕШКИ НАМ ВООБЩЕ НЕ НАДО... ВСЕ ЭТИ БАФФ ТОЛЬКО ДЛЯ ПЕРЕМЕЩЕНИЯ. ПОЭТОМУ С6 РЕАЛИЗОВАТЬ ОЧЕНЬ СЛОЖНО ИМЕННО В БОЮ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 338.0,
+      "field_max": 386.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3597,6 +4115,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 144.0,
+      "off_field_max": 80.0
     }
   },
   {
@@ -3645,6 +4170,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 55.0,
+      "field_max": 247.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3693,6 +4225,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 31.0,
+      "field_max": 185.0,
+      "off_field": 0,
+      "off_field_max": 49.0
     }
   },
   {
@@ -3741,6 +4280,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 66.0,
+      "off_field_max": 97.0
     }
   },
   {
@@ -3789,6 +4335,13 @@
         "note": "НА САМОМ ДЕЛЕ НЕ РАБОТАЕТ НА БОССАХ, А ТОЛПУ МЫ И ТАК РВАЛИ ЧЕРЕЗ ПРЫЖКИ. ТАК ЧТО КОНСТА С РАЗРЯДА СПАСИБО КИТАЙЦАМ ЗА КРУТУЮ КОНСТУ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 291.0,
+      "field_max": 324.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3837,6 +4390,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 20.0,
+      "field_max": 36.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3885,6 +4445,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 106.0,
+      "off_field": 52.0,
+      "off_field_max": 64.0
     }
   },
   {
@@ -3933,6 +4500,13 @@
         "note": "9% ЭТО ДЛЯ АНИМЕШНИКОВ!\n\n9% И ДЛЯ ДРУГИХ СТИХИЙ, НО С ТЕНЬЮ БАФФ ОЧЕВИДНО СЛАБЕЙ. В % САМО СОБОЙ!\n\nЧЕСТНО ЛУЧШЕ БЫ МС ДАВАЛИ!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 23.0,
+      "field_max": 34.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -3981,6 +4555,13 @@
         "note": "УРОН УЛЕТАЕТ В КОСМОС. СТАНОВИТСЯ ЛУЧШИМ ПРЫГУНОМ ИГРЫ! ОНА НА С6 СИЛЬНЕЙ СЯО, И НА РАВНЕ С ВАРЕСОЙ С3, ЭТО ЛЮТАЯ ИМБА!\n\nЭНЕРГИЯ ЗА ЭТИ ЕШКИ НЕ ДАЁТСЯ!\n\n2205% ПРИБАВКА!!!!!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 24.0,
+      "field_max": 27.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4029,6 +4610,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 44.0,
+      "field_max": 270.0,
+      "off_field": 0,
+      "off_field_max": 250.0
     }
   },
   {
@@ -4077,6 +4665,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 55.0,
+      "field_max": 194.0,
+      "off_field": 0,
+      "off_field_max": 38.0
     }
   },
   {
@@ -4125,6 +4720,13 @@
         "note": "11% - ЭТО ЕСЛИ МЫ БАФФАЕТ ОДНОГО ПЕРСОНАЖА.\n21% - ЕСЛИ ДВОИХ. НАПРИМЕР СЯО И ФАРУЗАН | АРЛЕКИНО И СЯНКА и тд.\n\nСАМ ПО СЕБЕ ДЕБАФФ ДЛИТЬСЯ 10 сек. И АКТИВИРУЕТСЯ ОТ КАЖДОГО АНЕМО\\ПОГЛОЩЁННОГО ТИКА!\nЭТО ЗНАЧИТ УЛЬТ 8 сек. + 10 сек. = 18 сек. ДЛИТЕЛЬНОСТЬ ПОРЕЗКИ. НО! НО! НО!\nС КАРМАНА ПОРЕЗКА НЕ РАБОТАЕТ, А ЗНАЧИТ ДЛИТЬСЯ ДЕБАФФ ТАК ЖЕ 10 сек. КАК И ТЕНЬ. ВОТ ТАКИЕ ДЕЛА",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 576.0,
+      "off_field": 40.0,
+      "off_field_max": 99.0
     }
   },
   {
@@ -4173,6 +4775,13 @@
         "note": "ТАК ЖЕ ДАЁТ ХОРОШУЮ ПРИБАВКУ В ПЕРЕМЕЩЕНИИ В МИРЕ. ЗА ЧТО БОЛЬШОЙ РЕСПЕКТ!\n\nКАЖДЫЙ ВЫСТРЕЛ С6 ТАК ЖЕ ХИЛЛИТ КАК И ОБЫЧНЫЕ ПУЛИ! ПО 300 ХП",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 206.0,
+      "field_max": 304.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4221,6 +4830,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "?",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4269,6 +4885,13 @@
         "note": "МАССОВЫЙ ХИЛЛ КАЖДОМУ ПО 3.5к ТРИ РАЗА. ОДИН РАЗ В 15 сек.",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 75.0,
+      "field_max": 386.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4317,6 +4940,13 @@
         "note": "Я ТАК ПОНИМАЮ, ЭТА КОНСТА ЗАТОЧЕНА КАК РАЗ НА ТО ЧТО МЫ ПРЯМ РЕАЛЬНО ГЕО САП ДД!\n\nА ЧЕГО? С4 РЕЖЕТ, ЕШКИ ВЫДАЛ БЫСТРО, УЛЬТ ОБНОВИЛ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 272.0,
+      "field_max": 593.0,
+      "off_field": 0,
+      "off_field_max": 316.0
     }
   },
   {
@@ -4365,6 +4995,13 @@
         "note": "45% ЭТО ПРИБАВКА ВСЕГО ОДНОЙ СЕРИИ УДАРОВ 3 по 2\nТО ЕСТЬ 3 УДАРА ДЭШ 3 УДАРА.\nА ДАЛЬШЕ МЫ ПРОСТО ПЕРЕКЛЮЧАЕМСЯ ОПЯТЬ ЕШКОЙ И ДАМАЖИМ ЖОСКО С КАРМАНА.\nОСТАЛЬНЫЕ 40% ЭТО ПРОДЛЕНИЕ КАРМАНА!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 249.0,
+      "off_field_max": 471.0
     }
   },
   {
@@ -4413,6 +5050,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 177.0,
+      "off_field": 81.0,
+      "off_field_max": 130.0
     }
   },
   {
@@ -4461,6 +5105,13 @@
         "note": "СКОРОСТЬ АТАКИ ВСЕМ ДАЁТ ПО РАЗНОМУ. КОМУ-ТО МНОГО. КОМУ-ТО КОПЕЙКИ.\nКАК ПОВЕЗЁТ!",
         "energy": null
       }
+    },
+    "rarity": "?",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4509,6 +5160,13 @@
         "note": "10% ЭТО ПРИБАВКА ОДНОМУ ГЕО ПЕРСОНАЖУ!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 41.0,
+      "off_field_max": 70.0
     }
   },
   {
@@ -4557,6 +5215,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 411.0,
+      "field_max": 560.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4605,6 +5270,13 @@
         "note": "ВЕРИМ ЧТО БАФФ СТАБИЛЬНЫЙ!\nЗАФИКСИРОВАТЬ ЕГО НЕВОЗМОЖНО! СНЕП-ШОТОМ НАПРИМЕР!\n\nКОРОЧЕ БАФФ 1 ПЕРСА ЗАЧАСТУЮ...",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 153.0,
+      "off_field_max": 391.0
     }
   },
   {
@@ -4653,6 +5325,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 14.0,
+      "off_field_max": 64.0
     }
   },
   {
@@ -4701,6 +5380,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 75.0,
+      "field_max": 192.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4749,6 +5435,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 9.0,
+      "field_max": 360.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4797,6 +5490,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 35.0,
+      "field_max": 41.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -4845,6 +5545,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 414.0,
+      "field_max": 608.0,
+      "off_field": 0,
+      "off_field_max": 229.0
     }
   },
   {
@@ -4893,6 +5600,13 @@
         "note": "НЕ ЗАБЫВАЕМ ЧТО КОЛИЧЕСТВО УДАРОВ ПУШКИ РАСТЁТ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 137.0,
+      "off_field_max": 492.0
     }
   },
   {
@@ -4941,6 +5655,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 184.0,
+      "off_field": 8.0,
+      "off_field_max": 42.0
     }
   },
   {
@@ -4989,6 +5710,13 @@
         "note": "УРОН ПЕРСОНАЖЕЙ ОТ СВОЕГО УРОНА РАСТЁТ НА 5%\n\nЕСЛИ САП ИЛИ ФУЛЛ МС ПЕРСОНАЖ. ТО ДАЖЕ 1% ПРИБАВКИ НЕ БУДЕТ...",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 47.0,
+      "off_field_max": 92.0
     }
   },
   {
@@ -5037,6 +5765,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "?",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -5085,6 +5820,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 185.0,
+      "field_max": 226.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -5133,6 +5875,13 @@
         "note": "ПРОСТО ВЫЙТИ ПОЛУЧИТЬ 3 ЗЕРКАЛА, СДЕЛАТЬ УДАР ВЫКИНУТЬ УЛЬТ! ТАК БУДЕТ МАКСИМАЛЬНО СИЛЬНО!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 325.0,
+      "field_max": 434.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -5181,6 +5930,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 337.0,
+      "off_field": 5.0,
+      "off_field_max": 266.0
     }
   },
   {
@@ -5229,6 +5985,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 65.0,
+      "off_field_max": 155.0
     }
   },
   {
@@ -5277,6 +6040,13 @@
         "note": "ПЕРЕЗАРЯДКА ВЫСТРЕЛА ПОЗВОЛЯЕТ ИГРАТЬ ПО РАЗНОМУ. НЕ ТОЛЬКО ПО СТАНДАРТУ.\nТО ЕСТЬ ДАЖЕ ПРОСТО СТОЯТЬ И СТРЕЛЯТЬ",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 153.0,
+      "field_max": 362.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   },
   {
@@ -5325,6 +6095,13 @@
         "note": "6% ОДНОМУ ПЕРСОНАЖУ!\nЛЮБОЙ ПОДХОДЯЩЕЙ СТИХИИ!",
         "energy": null
       }
+    },
+    "rarity": "4",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 72.0,
+      "off_field_max": 208.0
     }
   },
   {
@@ -5373,6 +6150,13 @@
         "note": "70% ЭТО МЫ С КАРМА ТОЛЬКО ТАМ РАЗГОНЯЕМСЯ.\nА ЕСЛИ СТОЯТЬ И БИТЬ. ТО ТАМ МОЖНО И ЗА 200% ОБЩЕЙ ПРИБАВКИ ПЕРЕБИТЬ!",
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 0,
+      "off_field": 0,
+      "off_field_max": 484.0
     }
   },
   {
@@ -5421,6 +6205,13 @@
         "note": null,
         "energy": null
       }
+    },
+    "rarity": "5",
+    "base_stats": {
+      "field": 0,
+      "field_max": 657.0,
+      "off_field": 0,
+      "off_field_max": 0
     }
   }
 ]
