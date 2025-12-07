@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Созвездия</title>
+    <link rel="icon" href="/favicon.png" type="image/png">
     <style>
         :root {
             --bg-color: #1a1a2e;
@@ -339,7 +340,7 @@
                 const c = char.constellations[key];
                 const highlightStyle = (key === currentSort) ? `background: rgba(78, 204, 163, 0.1); border: 1px solid var(--accent);` : '';
                 
-                // Проверяем, есть ли комментарий
+                // Блок комментария
                 let noteHtml = '';
                 if (c.note) {
                     noteHtml = `
@@ -349,15 +350,30 @@
                     `;
                 }
 
+                // Блок Энергии (Новый)
+                let energyHtml = '';
+                if (c.energy) {
+                    energyHtml = `
+                        <div style="margin-top: 10px; padding-top: 8px; border-top: 1px dashed #444; color: #d48df0; font-weight: bold; display: flex; align-items: center; gap: 6px;">
+                            <span style="font-size: 1.1rem;">⚡</span> 
+                            <span>Энергия: ${c.energy}</span>
+                        </div>
+                    `;
+                }
+
                 html += `
                     <div class="const-row" style="border-left-color: ${elColor}; ${highlightStyle}">
                         <div class="const-header"><span>${key}</span></div>
+                        
                         <div class="stats-grid">
                             <div><span style="color:#aaa">Урон:</span> <span class="stat-val">${c.damage}</span></div>
                             <div><span style="color:#aaa">Саппорт:</span> <span class="stat-val">${c.support}</span></div>
                         </div>
+                        
                         <div style="line-height:1.4; color: #ddd;">${c.description}</div>
-                        ${noteHtml} 
+                        
+                        ${noteHtml}
+                        ${energyHtml} 
                     </div>
                 `;
             });

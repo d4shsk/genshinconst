@@ -7,37 +7,43 @@
         "damage": "18%",
         "support": "-",
         "description": "ЕСЛИ ИГРАТЬ ПРАВИЛЬНО ТО С0 И С1 НЕ ИМЕЮТ РАЗНИЦУ В УРОНЕ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "16%",
         "support": "-",
         "description": "УЛЬТУ НУЖНО НАЖИМАТЬ ПОСЛЕ СЕРИИ УДАРОВ ПОД ЕШКОЙ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "21%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "26%",
         "support": "❌",
         "description": "НУЖНО ДЕЛАТЬ СЕРИЮ ИЗ 5 УДАРОВ. ИНАЧЕ ПОЛЬЗА БУДЕТ МАЛА",
-        "note": "БОНУС ДЛЯ КОМАНДЫ ПОДСЧИТАТЬ НЕВОЗМОЖНО!\nПОТОМУ ЧТО ВСЁ ЗАВИСИТ ОТ ТОГО, С КЕМ ТЫ ИГРАЕШЬ И КАК ЧАСТО НАЖИМАЕШЬ УДАРЫ"
+        "note": "БОНУС ДЛЯ КОМАНДЫ ПОДСЧИТАТЬ НЕВОЗМОЖНО!\nПОТОМУ ЧТО ВСЁ ЗАВИСИТ ОТ ТОГО, С КЕМ ТЫ ИГРАЕШЬ И КАК ЧАСТО НАЖИМАЕШЬ УДАРЫ",
+        "energy": null
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "71%",
         "support": "-",
         "description": "У СОСУЛЬКИ ЕСТЬ СВОЙ СТАТУС = 1 СС(БЕЗ КД)",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -49,37 +55,43 @@
         "damage": "-",
         "support": "9к - 36к",
         "description": "9к ХИЛЛА В ОДНУ ЦЕЛЬ. ЗА УЛЬТ МОЖНО НА ВСЮ КОМАНДУ ДАТЬ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "2,7 - 8%",
         "support": "2к",
         "description": "НА БОССЕ +2.7%, ПРОТИВ ТОЛПЫ +8%. +2к ХИЛЛ ИЗ-ЗА СА",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "17к",
         "description": "СИЛЬНЕЕ ХИЛЛ СУММАРНО ПАЧКЕ НА 17к, а ОДНУ ЦЕЛЬ 5к",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "3%",
         "support": "-",
         "description": "ДАЁТ 10 ЭНЕРГИИ ЗА УЛЬТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "15%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "38%",
         "support": "3к",
         "description": "3к ХИЛЛ в ОДНУ ЦЕЛЬ. УДАР ИМЕЕТ = 1 СС(БЕЗ КД)",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -91,37 +103,43 @@
         "damage": "37%",
         "support": "14%",
         "description": "ПЕРЬЯ НЕ СУММИРУЮТСЯ. ПОЭТОМУ НЕ НАЖИМАЕМ СРАЗУ ДВЕ!",
-        "note": "ТУТ ПО РАЗНОМУ КОНЕЧНО БЫВАЕТ. НО ПЕРВАЯ РОТАЦИЯ ТОЧНО БУДЕТ ГУД!\n14% КАЖДОМУ КРИО НАКИНЕТ! \n5-7 ПЁРИШЕК! ТОП!"
+        "note": "ТУТ ПО РАЗНОМУ КОНЕЧНО БЫВАЕТ. НО ПЕРВАЯ РОТАЦИЯ ТОЧНО БУДЕТ ГУД!\n14% КАЖДОМУ КРИО НАКИНЕТ! \n5-7 ПЁРИШЕК! ТОП!",
+        "energy": null
       },
       "С2": {
         "damage": "21%",
         "support": "4%",
         "description": "ДОП. УДАРЫ УЛЬТЫ + БАФФ = ХОРОШАЯ КОНСТА!",
-        "note": "15% КРИО УРОНА, НЕ ТАК УЖ МНОГО ДАЮТ... 4% ЭТО ОДНОМУ!"
+        "note": "15% КРИО УРОНА, НЕ ТАК УЖ МНОГО ДАЮТ... 4% ЭТО ОДНОМУ!",
+        "energy": null
       },
       "С3": {
         "damage": "16%",
         "support": "6%",
         "description": "И УРОН РАСТЁТ И БАФФ СИЛЬНЕЙ. НЕ ПЛОХО!",
-        "note": "6% ЭТО КАЖДОМУ КРИО ДД!"
+        "note": "6% ЭТО КАЖДОМУ КРИО ДД!",
+        "energy": null
       },
       "С4": {
         "damage": "15%",
         "support": "-",
         "description": "НА САМОМ ДЕЛЕ БАФФ НЕ ПЛОХОЙ! ЕШКА ХОТЬ НЕМНОГО УРОН ДАЁТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "13%",
         "support": "-",
         "description": "ПОРЕЗКА УЖЕ НЕ СТАНОВИТЬСЯ ЛУЧШЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "8%",
         "description": "КОРОЧЕ ТУТ ВСЁ СЛОЖНО... ЗНАЧИТ ПИШУ В ЗАМЕТКИ!",
-        "note": "СМОТРИТЕ В ЧЁМ ПРИКОЛ. КАК БЫ ДА! БЕСКОНЕЧНОСТЬ НЕ ПРЕДЕЛ ВСЕ ДЕЛА. НО! ЕШКИ И УЛЬТЫ СТАКИ ВСЁ ТАК ЖЕ ТРАТЯТ!\nТАК ВОТ! АЯКА И ГАНЬКА В ГЛАЗА ДАЖЕ ЭТИ СТАКИ НЕ УВИДЯТ. ПОТОМУ ЧТО ВЫ ЖЕ НЕ БУДЕТЕ НЕ НАЖИМАТЬ ЕШКИ И УЛЬТЫ. ЭТО АБСОЛЮТНЫЙ КРИНЖ!\n\nНО ЛАДНО! ЕСТЬ СКИРК И РИЗЛИ! ЧТО УЖЕ ХОТЬ ЧТО-ТО!\nНО ВСЁ РАВНО ЗА 15 сек. ТЫ ОСОБО БОЛЬШЕ УДАРОВ НЕ СДЕЛАЕШЬ. НУ БУДЕТ НЕ 7, а 12 УДАРОВ ПОД БАФФОМ, ПРИБАВКА ОТ ЭТОГО НЕ БЕЗУМИЕ...\n\nПОЭТОМУ В ЧЁМ ПРОБЛЕМА?\nДЛИТЕЛЬНОСТЬ БАФФА И ТО ЧТО СТАКИ ЗАКАНЧИВАЮТСЯ.\nПОЭТОМУ ТОЛКУ ОТ С6 ПОЧТИ НЕТ... ЭТО ВАМ ЛЮБОЙ АДЕКВАТНЫЙ ИГРОК СКАЖЕТ!"
+        "note": "СМОТРИТЕ В ЧЁМ ПРИКОЛ. КАК БЫ ДА! БЕСКОНЕЧНОСТЬ НЕ ПРЕДЕЛ ВСЕ ДЕЛА. НО! ЕШКИ И УЛЬТЫ СТАКИ ВСЁ ТАК ЖЕ ТРАТЯТ!\nТАК ВОТ! АЯКА И ГАНЬКА В ГЛАЗА ДАЖЕ ЭТИ СТАКИ НЕ УВИДЯТ. ПОТОМУ ЧТО ВЫ ЖЕ НЕ БУДЕТЕ НЕ НАЖИМАТЬ ЕШКИ И УЛЬТЫ. ЭТО АБСОЛЮТНЫЙ КРИНЖ!\n\nНО ЛАДНО! ЕСТЬ СКИРК И РИЗЛИ! ЧТО УЖЕ ХОТЬ ЧТО-ТО!\nНО ВСЁ РАВНО ЗА 15 сек. ТЫ ОСОБО БОЛЬШЕ УДАРОВ НЕ СДЕЛАЕШЬ. НУ БУДЕТ НЕ 7, а 12 УДАРОВ ПОД БАФФОМ, ПРИБАВКА ОТ ЭТОГО НЕ БЕЗУМИЕ...\n\nПОЭТОМУ В ЧЁМ ПРОБЛЕМА?\nДЛИТЕЛЬНОСТЬ БАФФА И ТО ЧТО СТАКИ ЗАКАНЧИВАЮТСЯ.\nПОЭТОМУ ТОЛКУ ОТ С6 ПОЧТИ НЕТ... ЭТО ВАМ ЛЮБОЙ АДЕКВАТНЫЙ ИГРОК СКАЖЕТ!",
+        "energy": null
       }
     }
   },
@@ -133,37 +151,43 @@
         "damage": "8%",
         "support": "-",
         "description": "ТИПА ВТОРАЯ ЕШКА, НО ПО СВОЕМУ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "24%",
         "support": "-",
         "description": "ЧАСТЕНЬКО МАЛЫШИ УЛЕТАЮ ВПЕРЁД. НО А ТАК ТОП КОНСТА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "15%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "23%",
         "support": "8%",
         "description": "ПОРЕЗКА КОНЕЧНО ТОП ПОСЛЕ УЛЬТЫ, НО ДЛИТСЯ НЕ ВЕЧНО...",
-        "note": "8%  ЭТО ОДНОМУ ПЕРСОНАЖУ.\nТАМ КОНЕЧНО У ВСЕХ ПО РАЗНОМУ! НО В СРЕДНЕМ ТАК!"
+        "note": "8%  ЭТО ОДНОМУ ПЕРСОНАЖУ.\nТАМ КОНЕЧНО У ВСЕХ ПО РАЗНОМУ! НО В СРЕДНЕМ ТАК!",
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "10%",
         "support": "-",
         "description": "ЕСЛИ ДЕЛАТЬ 2 ЗАРЯЖ. ПОД БАФФОМ ТО БУДЕТ +20% ПРИБАВКИ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -175,37 +199,43 @@
         "damage": "12%",
         "support": "6%",
         "description": "ПОРЕЗКА + ЕНЕРГИЯ! ЗВУЧИТ ХОРОШО! ЖАЛЬ НЕ СРАЗУ ПРОКАЕТ...",
-        "note": "ДАЁТ 6% ЛЮБОМУ КРИО ДД!"
+        "note": "ДАЁТ 6% ЛЮБОМУ КРИО ДД!",
+        "energy": null
       },
       "С2": {
         "damage": "14%",
         "support": "-",
         "description": "ДВЕ ЕШКИ - ВЕЧНАЯ КЛАССИКА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "5%",
         "support": "6%",
         "description": "НЕ ПЛОХОЙ БАФФ! НО СНЕП-ШОТ НЕ РАБОТАЕТ НА НЕГО!",
-        "note": "ДАЁТ СУММАРНО ЗА БАФФ!"
+        "note": "ДАЁТ СУММАРНО ЗА БАФФ!",
+        "energy": null
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "45%",
         "support": "-",
         "description": "СРАЗУ 2 ЗАРЯЖКИ. ЗВУЧИТ ВКУСНО! +2 сек. РОТАЦИИ СТОЯТ ТОГО!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -214,40 +244,46 @@
     "element": "❄",
     "constellations": {
       "С1": {
-        "damage": "15Е",
+        "damage": "-",
         "support": "-",
         "description": "ДЛЯ ДИОНЫ ВЗРЫВ СТИХИЙ - ЭТО ВСЁ! ОЧЕНЬ ПОЛЕЗНО!",
-        "note": null
+        "note": null,
+        "energy": "15Е"
       },
       "С2": {
         "damage": "-",
         "support": "1,1к",
         "description": "КООП ЩИТОК И +1к КРЕПКОСТЬ. СИЛЬНО КОНЕЧНО...",
-        "note": "ЩИТ КРЕПЧЕ НА 1,1к"
+        "note": "ЩИТ КРЕПЧЕ НА 1,1к",
+        "energy": null
       },
       "С3": {
         "damage": "12%",
         "support": "1к",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": "КАЖДЫЙ ТИК ПОЛУЧАЕТСЯ +1к\nВСЕГО: 6к"
+        "note": "КАЖДЫЙ ТИК ПОЛУЧАЕТСЯ +1к\nВСЕГО: 6к",
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "СПАСИБА БОГУ ЗА БЫСТРУЮ ЗАРЯЖЕННУЮ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "6%",
         "support": "1,1к",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": "ЩИТ КРЕПЧЕ НА 1,1к"
+        "note": "ЩИТ КРЕПЧЕ НА 1,1к",
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "18%",
         "description": "200 МС ЭТО ХОРОШО! НО! МАЛО КОМУ ЭТО МОЖНО РЕАЛИЗОВАТЬ...",
-        "note": "1,5к ДЛЯ ХИЛЛА. НУ ТАКОЕ...\nА ОТ 200 МС! ДРУГОЕ ДЕЛО!"
+        "note": "1,5к ДЛЯ ХИЛЛА. НУ ТАКОЕ...\nА ОТ 200 МС! ДРУГОЕ ДЕЛО!",
+        "energy": null
       }
     }
   },
@@ -259,37 +295,43 @@
         "damage": "-",
         "support": "-",
         "description": "ФИЗУ В МАССЫ! НО НЕ ТАКУЮ КОНЕЧНО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ТОЛПА РВЁТСЯ, ЛЕДИШКИ КРУТЯТЬСЯ! НУ А ТАК НА БОССАХ ТАКОЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "6,5к",
         "description": "ЩИТ РАБОТАЕТ НА ВСЕХ. НО ПО ФАКТУ НЕ НУЖЕН...",
-        "note": "6,5к ЭТО ПРОЧНОСТЬ ЩИТА"
+        "note": "6,5к ЭТО ПРОЧНОСТЬ ЩИТА",
+        "energy": null
       },
       "С5": {
         "damage": "15%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "27%",
         "support": "-",
         "description": "ДОП. СОСУЛЬКА ЭТО ХОРОШО! ЭТО УРОН \\ СТАТУС = ИМБА!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -301,37 +343,43 @@
         "damage": "-",
         "support": "2.5к",
         "description": "ПРОЧНОСТЬ ЩИТА ХОРОШО РАСТЁТ! ТАК ЖЕ ЩИТ В КООП",
-        "note": "ЩИТ КРЕПЧЕ НА 2500"
+        "note": "ЩИТ КРЕПЧЕ НА 2500",
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "8-12 ЭНЕРГИИ В СРЕДНЕМ ЗА 1 ЕШКУ! ЭТО ОЧЕНЬ ПРИЯТНО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "1%",
         "support": "3.5к",
         "description": "ПРОЧНОСТЬ ЩИТА РАСТЁТ СИЛЬНЕЕ ЧЕМ ОТ С1",
-        "note": "ЩИТ КРЕПЧЕ НА 3500"
+        "note": "ЩИТ КРЕПЧЕ НА 3500",
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "3.5%",
         "description": "БАФФ СЛАБОВАТЫЙ. И АКТИВИРУЕТСЯ ВСЕГО 3 РАЗ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "15%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "51%",
         "support": "-",
         "description": "ХОТЬ КАК-ТО РАСТЁТ УРОН! И УЛУЧШАЕТ С2 и С4 ОТ ЧАСТОЙ ЕШКИ",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -343,37 +391,43 @@
         "damage": "-",
         "support": "5к",
         "description": "В ТЕОРИИ КОЛИЧЕСТВО ТИКОВ ХИЛЛА СТАНЕТ НА 2 БОЛЬШЕ!",
-        "note": "ДВА ТИКА АКТИВНОМУ ПО 2,5к"
+        "note": "ДВА ТИКА АКТИВНОМУ ПО 2,5к",
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "4%",
         "description": "ПРОСТО +1 СТАК П1",
-        "note": "ЛЮБОЙ ФИЗ ДД ПОЛУЧАЕТСЯ В СРЕДНЕМ 4%"
+        "note": "ЛЮБОЙ ФИЗ ДД ПОЛУЧАЕТСЯ В СРЕДНЕМ 4%",
+        "energy": null
       },
       "С3": {
         "damage": "-",
         "support": "13,5к",
         "description": "ДОП. ХИЛЛ И НИЧЕГО БОЛЬШЕ!",
-        "note": "+2,5к ВСЕХ\n+500 АКТИВНОМУ\nВСЕГО: 13,5к"
+        "note": "+2,5к ВСЕХ\n+500 АКТИВНОМУ\nВСЕГО: 13,5к",
+        "energy": null
       },
       "С4": {
         "damage": "-",
-        "support": "15Е",
+        "support": "-",
         "description": "15Е КОМУ-ТО. НУ ЧАЩЕ КОНЕЧНО ДД, НО ВСЕМ ПО ЧУТЬ-ЧУТЬ!",
-        "note": null
+        "note": null,
+        "energy": "15Е"
       },
       "С5": {
         "damage": "1%",
         "support": "-",
         "description": "3% СКОРОСТИ ВООБЩЕ НЕ ЧУСТВУЕШЬ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "17%",
         "description": "ФИЗ. КРИТ КОНЕЧНО ТОП! НО 5й СТАК ПРОТИВ БОССА НЕ ПОЛУЧИТЬ!",
-        "note": "ПРИМЕРНО СТОЛЬКО ДАСТ КРИТ. УРОН ОДНОМУ ФИЗ. ДД! \n\nА ОТ ДОП. СТАК, РАССКРЫТЬ МОЖНО ТОЛЬКО ПРОТИВ ТОЛПЫ... А ВОТ КАК ЭТО СДЕЛАТЬ? ВОПРОС ОТКРЫТЫЙ..."
+        "note": "ПРИМЕРНО СТОЛЬКО ДАСТ КРИТ. УРОН ОДНОМУ ФИЗ. ДД! \n\nА ОТ ДОП. СТАК, РАССКРЫТЬ МОЖНО ТОЛЬКО ПРОТИВ ТОЛПЫ... А ВОТ КАК ЭТО СДЕЛАТЬ? ВОПРОС ОТКРЫТЫЙ...",
+        "energy": null
       }
     }
   },
@@ -385,37 +439,43 @@
         "damage": "-",
         "support": "-",
         "description": "УДАРЫ БЫСТРЕЕ ПОСЛЕ КРИТОВ? ВОПРОС ЗАЧЕМ?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "20%",
         "support": "-",
         "description": "ДЛИТЕЛЬНОСТИ УЛЬТЫ = УРОН \\ СТАТУС = ТОП!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "5Е",
+        "damage": "-",
         "support": "-",
         "description": "5Е ЗА ЕШКУ ЗВУЧИТ ВКУСНО. ОСОБЕННО В БЫСТРЫХ РОТАЦИЯХ!",
-        "note": null
+        "note": null,
+        "energy": "5Е"
       },
       "С5": {
         "damage": "20%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "7%",
         "description": "ПОРЕЗКА КОНЕЧНО ХОРОШО, НО ПРОВОДНИК СРАЗУ РЕЖЕТ БАФФ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -427,37 +487,43 @@
         "damage": "-",
         "support": "16%",
         "description": "БАФФ ОСОБО НЕ СИЛЬНЫЙ, ТА И ПЕРЕМЕЩЕНИЕ ОСОБО НЕ ЛУЧШЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "9%",
         "support": "35%",
         "description": "БАФФ ЛЮТАЯ ИМБА! ЧТО СЕБЯ БАФФАЕТ, ЧТО ДРУГИХ!",
-        "note": "35% ЭТО ПРИБАВКА ОДНОМУ ТОЛЬКО! А ТАМ ЕЩЁ ОСТАЛЬНЫЕ ГИДРО\\ПИРО СТАНУТ СИЛЬНЕЙ НА 11%\nТАК ЧТО СИЛЬНО!\n\nЩИТ СТАНЕТ КРЕПЧЕ НА 1к"
+        "note": "35% ЭТО ПРИБАВКА ОДНОМУ ТОЛЬКО! А ТАМ ЕЩЁ ОСТАЛЬНЫЕ ГИДРО\\ПИРО СТАНУТ СИЛЬНЕЙ НА 11%\nТАК ЧТО СИЛЬНО!\n\nЩИТ СТАНЕТ КРЕПЧЕ НА 1к",
+        "energy": null
       },
       "С3": {
         "damage": "2%",
         "support": "3к",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": "ЩИТ СТАНЕТ КРЕПЧЕ НА 3к"
+        "note": "ЩИТ СТАНЕТ КРЕПЧЕ НА 3к",
+        "energy": null
       },
       "С4": {
         "damage": "63%",
         "support": "-",
         "description": "ДОП. УДАР УЛЬТЫ + ДЛИТЕЛЬНОСТЬ ЕШКИ, ХОТЯ ЗАЧЕМ?",
-        "note": "ВЕДЬ У НАС И ТАК НА С6 ВЕЧНЫЙ СТАТУС... МОЖЕТ ПРОСТО ДЛЯ КОЛИЧЕСТА НОЧНОГО ДУХА?"
+        "note": "ВЕДЬ У НАС И ТАК НА С6 ВЕЧНЫЙ СТАТУС... МОЖЕТ ПРОСТО ДЛЯ КОЛИЧЕСТА НОЧНОГО ДУХА?",
+        "energy": null
       },
       "С5": {
         "damage": "7%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "36%",
         "support": "18%",
         "description": "РАБОТАЕТ СТРАННО... НО! ПО ИДЕЕ ДАЁТ ВЕЧНЫЙ СТАТУС!",
-        "note": "ТАК КАК ВЕСЬ НОЧНОЙ ДУХ СРАЗУ ТРАТИТЬСЯ И НАЧИНАЕТ ПОТРЕБЛЯТЬ ДУХ НИЖЕ 0. ТО ЗНАЧИТ ЕШКА ТУПО ДЛИТСЯ 20 сек.\nЩИТ ЛОМАЕТСЯ САМО СОБОЙ!\n\nБАФФ НАБИРАЕТСЯ ПОСТЕПЕННО! А ЗНАЧИТ РАБОТАЕТ НЕ ОЧЕНЬ СТАБИЛЬНО..."
+        "note": "ТАК КАК ВЕСЬ НОЧНОЙ ДУХ СРАЗУ ТРАТИТЬСЯ И НАЧИНАЕТ ПОТРЕБЛЯТЬ ДУХ НИЖЕ 0. ТО ЗНАЧИТ ЕШКА ТУПО ДЛИТСЯ 20 сек.\nЩИТ ЛОМАЕТСЯ САМО СОБОЙ!\n\nБАФФ НАБИРАЕТСЯ ПОСТЕПЕННО! А ЗНАЧИТ РАБОТАЕТ НЕ ОЧЕНЬ СТАБИЛЬНО...",
+        "energy": null
       }
     }
   },
@@ -469,37 +535,43 @@
         "damage": "5.5%",
         "support": "-",
         "description": "15% ШК КОНЕЧНО ГУД, НО! БАЛАНСИТЬ ЕГО УЖАСНО СЛОЖНО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
-        "damage": "12Е",
+        "damage": "-",
         "support": "-",
         "description": "ПРИ ЛУЧШИХ РАССКЛАДАХ ДАЁТ 12Е, ЧТО ДЛЯ ДД ВЕСЬМА ПОЛЕЗНО!",
-        "note": null
+        "note": null,
+        "energy": "12Е"
       },
       "С3": {
         "damage": "5.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "7%",
         "support": "-",
         "description": "СА ЛИШНЯЯ НЕ БЫВАЕТ, ТЕМ БОЛЕЕ АКТИВАЦИЯ ЛЕГКАЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "12%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "12%",
         "support": "-",
         "description": "КУ ЛИШНИМ НЕ БЫВАЕТ, ТЕМ БОЛЕЕ АКТИ... СТОП!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -508,40 +580,46 @@
     "element": "❄",
     "constellations": {
       "С1": {
-        "damage": "16Е",
+        "damage": "-",
         "support": "-",
         "description": "16Е ЭТО В ИДЕАЛЕ. ТАК-ТО ДАЙ БОГ ПРОСТО УЛЬТ НАЖАТЬ...",
-        "note": null
+        "note": null,
+        "energy": "16Е"
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "АГА! УДАРЫ! КРИТЫ! УСЛЫШАЛ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "9%",
         "support": "1,5к",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": "1,5к ЗА ТИК В УЛЬТЕ!\n\nХИЛЛА МНОГО МОЖЕТ, А МОЖЕТ И НЕ МОЖЕТ...\nКОРОЧЕ РАНДОМ!"
+        "note": "1,5к ЗА ТИК В УЛЬТЕ!\n\nХИЛЛА МНОГО МОЖЕТ, А МОЖЕТ И НЕ МОЖЕТ...\nКОРОЧЕ РАНДОМ!",
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "20% СА ЗАБРАТЬ У ПРОТИВНИКА ЭТО МНОГО. НО... ЗАЧЕМ?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "9%",
         "support": "4к",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": "1к ХИЛА АКТИВНОМУ ЗА ТИК.\n150 ХИЛА ЗА УДАР ВСЕМ!"
+        "note": "1к ХИЛА АКТИВНОМУ ЗА ТИК.\n150 ХИЛА ЗА УДАР ВСЕМ!",
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "ВОСКРЕШАЕТ ВСЕХ ПОСЛЕ УЛЬТЫ... ВОТ БЫ УЛЬТ НАЖАТЬ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -553,37 +631,43 @@
         "damage": "-",
         "support": "-",
         "description": "БИТЬ? ЕЩЁ И ПОСЛЕДНИЙ УДАР СДЕЛАТЬ? ПОНЯЛ! МУСОР...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ПОЛЬЗУ НЕ ПОСЧИТАТЬ, НО 15% КД ЭТО ПРЯМ ИМБА! НО В РУКАХ!",
-        "note": "ТУТ ВАЖНО ИМЕННО ПРАВИЛЬНО ЕШКУ НАЖИМАТЬ И ПРАВИЛЬНЫХ ПЕРСОВ БРАТЬ. ЯСНОЕ ДЕЛО, ЧТО КАКОЙ-ТО РИЗЛИ ОТ 15% НИЧЕГО НЕ ПОЛУЧИТ. НО ЗАТО СЯНКА ИЛИ БЕННЕТ! ОГО-ГО-ГО!\n\nПЛЮС ЦЕРЕМОНИЯ(МЕЧ) СЕБЯ ЕЩЁ ЛУЧШЕ ПОКАЗЫВАЕТ. НУ А ЧТО?! ДЛЯ НЕГО ЖЕ И ДЕЛАЛИ"
+        "note": "ТУТ ВАЖНО ИМЕННО ПРАВИЛЬНО ЕШКУ НАЖИМАТЬ И ПРАВИЛЬНЫХ ПЕРСОВ БРАТЬ. ЯСНОЕ ДЕЛО, ЧТО КАКОЙ-ТО РИЗЛИ ОТ 15% НИЧЕГО НЕ ПОЛУЧИТ. НО ЗАТО СЯНКА ИЛИ БЕННЕТ! ОГО-ГО-ГО!\n\nПЛЮС ЦЕРЕМОНИЯ(МЕЧ) СЕБЯ ЕЩЁ ЛУЧШЕ ПОКАЗЫВАЕТ. НУ А ЧТО?! ДЛЯ НЕГО ЖЕ И ДЕЛАЛИ",
+        "energy": null
       },
       "С3": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "1Е",
+        "damage": "-",
         "support": "-",
         "description": "1Е ЗА КРИО УРОН. НУ ПРЯМ БЛАГОДАТЬ КИТАЙСКАЯ!",
-        "note": null
+        "note": null,
+        "energy": "1Е"
       },
       "С5": {
         "damage": "10%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "24%",
         "support": "-",
         "description": "РАБОТАЕТ СТАБИЛЬНО И УРОН ПОЧТИ ПОЯВИЛСЯ! ПОЧТИ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -595,37 +679,43 @@
         "damage": "-",
         "support": "-",
         "description": "А ГДЕ?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "НЕ! РЕАЛЬНО ГДЕ?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "-",
         "support": "-",
         "description": "КИТАЙЦЫ БУДУТ ЧТО-ТО ДЕЛАТЬ?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "ДАЙТЕ ЗВЁЗДЫ! ЧЕРТИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "-",
         "support": "-",
         "description": "ТОЛЬКО ЛЕГЕНДЫ ДОЖДУТЬСЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "А ЗАЧЕМ ТЫ ЭТО ЧИТАЕШЬ?",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -637,37 +727,43 @@
         "damage": "12%",
         "support": "-",
         "description": "ПРОСТО АФФИКС. ПРОСТО НОРМАЛЬНО",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "НУ ПРИМЕРНО! НИЧЕГО НЕ ДАЁТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "17%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "3.5%",
         "support": "-",
         "description": "БАФФ ПЫЛЬ. РАБОТАЕТ РЕДКО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "1%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "43%",
         "support": "-",
         "description": "В СРЕДНЕМ ДАЁТ МНОГО! А МОЖЕТ ЕЩЁ БОЛЬШЕ ДАТЬ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -679,37 +775,43 @@
         "damage": "19%",
         "support": "20-60%",
         "description": "УСИЛЯЕТ ТОЛЬКО КРИО УРОН! ГИДРО НИКАК НЕ БАФФАЕТСЯ!",
-        "note": "ЕСЛИ ФУЛЛ ПАЧКА СОСТОИТ ИЗ КРИО, ЧТО В ЦЕЛОМ ПОЗВОЛЯЕТ НАМ П2, ТО МЫ ПОЛУЧАЕМ ЦЕЛЫХ 60% ПРИБАВКИ\n\nЭСКОФЬЕ НЕ УЧИТЫВАЕТСЯ!"
+        "note": "ЕСЛИ ФУЛЛ ПАЧКА СОСТОИТ ИЗ КРИО, ЧТО В ЦЕЛОМ ПОЗВОЛЯЕТ НАМ П2, ТО МЫ ПОЛУЧАЕМ ЦЕЛЫХ 60% ПРИБАВКИ\n\nЭСКОФЬЕ НЕ УЧИТЫВАЕТСЯ!",
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "12%",
         "description": "ЕСТЬ УСЛОВИЯ БИТЬ КРИО УРОНОМ, ПРИ ЧЁМ ДРУГИМ ПЕРСАМ",
-        "note": "РАБОТАЕТ ТОЛЬКО НА ОДНОГО АКТИВНОГО ПЕРСА!"
+        "note": "РАБОТАЕТ ТОЛЬКО НА ОДНОГО АКТИВНОГО ПЕРСА!",
+        "energy": null
       },
       "С3": {
         "damage": "19%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "39к",
         "description": "14 ЭНЕРГИ + КУЧА ДОП. ХИЛЛА В ОДНУ ЦЕЛЬ",
-        "note": "ХИЛЛ НА П1 ПОЛУЧАЕТ КРИТЫ И ДЛИТЕЛЬНОСТЬ +6сек.\n\n7 КРИТОВ - ПО +3,3к\n6 ТИКОВ - ПО +3,3к"
+        "note": "ХИЛЛ НА П1 ПОЛУЧАЕТ КРИТЫ И ДЛИТЕЛЬНОСТЬ +6сек.\n\n7 КРИТОВ - ПО +3,3к\n6 ТИКОВ - ПО +3,3к",
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "8к",
         "description": "ЧУТЬ-ЧУТЬ УРОНА \\ ЧУТЬ-ЧУТЬ ХИЛЛА",
-        "note": "2к КАЖДОМУ ИЗ УЛЬТЫ"
+        "note": "2к КАЖДОМУ ИЗ УЛЬТЫ",
+        "energy": null
       },
       "С6": {
         "damage": "69%",
         "support": "-",
         "description": "ХОРОШИЙ КАРМАННЫЙ УРОН И СТАТУС / ОГРАНИЧЕНИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -721,37 +823,43 @@
         "damage": "18%",
         "support": "-",
         "description": "ДОП. КРИО СТАТУС НЕ РЕШАЕТ. ПРИБАВКА ХОРОШАЯ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "28%",
         "support": "-",
         "description": "УВЕЛИЧИВАЕТ УРОН ИЛИ УЛЬТЫ, ИЛИ УДАРОВ!",
-        "note": "ЕСЛИ УЛЬТ ВЗРЫВНОЙ ТО ДАСТ 28%\n\nЕСЛИ УЛЬТ УСИЛЯЕТ СТОЙКУ ЕШКИ ТО ЭТО ДАСТ 14%"
+        "note": "ЕСЛИ УЛЬТ ВЗРЫВНОЙ ТО ДАСТ 28%\n\nЕСЛИ УЛЬТ УСИЛЯЕТ СТОЙКУ ЕШКИ ТО ЭТО ДАСТ 14%",
+        "energy": null
       },
       "С3": {
         "damage": "14%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "26%",
         "support": "-",
         "description": "СА ЛИШНЯЯ НЕ БЫВАЕТ! НЕ ЗАБЫВАЙТЕ ПРО БАЛАНС АРТОВ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "11%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "61%",
         "support": "-",
         "description": "ТЕПЕРЬ МЫ МОЖЕМ ПРОЙТИ ВЕСЬ КОНТЕНТ УЛЬТОЙ)))",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -763,37 +871,43 @@
         "damage": "23%",
         "support": "-",
         "description": "УРОН ТОП + СТОЙКОСТЬ ТОП = ИМБА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "16%",
         "support": "-",
         "description": "РОТАЦИЯ СТАНЕТ ПРОЩЕ, НО НЕ БОЛЕЕ. НУ И УРОН...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "17%",
         "support": "-",
         "description": "ПРИБАВКА ТОП! ОСОБЕННО КАК ДЛЯ +3 ТАЛАНТА",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "15Е",
+        "damage": "-",
         "support": "-",
         "description": "НУ МОЖНО УЛЬТ НАЖИМАТЬ КОНЕЧНО! НО ВСЁ РАВНО НЕ ФАКТ...",
-        "note": null
+        "note": null,
+        "energy": "15Е"
       },
       "С5": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "73%",
         "support": "-",
         "description": "ПОСТОЯННЫЙ КРИТ + УЛЬТ ТЕПЕРЬ СИЛЬНЫЙ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -805,37 +919,43 @@
         "damage": "4%",
         "support": "5%",
         "description": "ЭТО БАЗА! ЭТО ЗНАТЬ НАДО!",
-        "note": "5% АКТИВНОМУ ПЕРСУ!"
+        "note": "5% АКТИВНОМУ ПЕРСУ!",
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "30% ВЭ МАЛОВАТО, ТА И АКТИВАЦИЯ ОЧЕНЬ РЕДКАЯ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "НУ... ТЕПЕРЬ У НАС ЕСТЬ КРУТАЯ ЕШКА! А ЕЩЁ ЧАСТИЦ ТОЧНО 3 БУДЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "19%",
         "support": "4.5%",
         "description": "ХИЛЛ СТАНЕТ НЕМНОГО ЛУЧШЕ+БАФФ",
-        "note": "4,5% АКТИВНОМУ ПЕРСУ!"
+        "note": "4,5% АКТИВНОМУ ПЕРСУ!",
+        "energy": null
       },
       "С6": {
         "damage": "32%",
         "support": "7%",
         "description": "С6 РАБОТАЕТ НА ВСЕХ ПИРО, НЕ ТОЛЬКО БЛИЖНИКОВ!",
-        "note": "7% АКТИВНОМУ ПЕРСУ!"
+        "note": "7% АКТИВНОМУ ПЕРСУ!",
+        "energy": null
       }
     }
   },
@@ -847,37 +967,43 @@
         "damage": "-",
         "support": "3-8%",
         "description": "БАФФ В ЦЕЛОМ НЕ ПЛОХОЙ! ОСОБЕННО ПОД НАТЛАНЦА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "21%",
         "support": "-",
         "description": "ДАЁТ +4 сек. ДЛИТЕЛЬНОСТИ ЕШКИ, ЧТО ВАЖНО ДЛЯ НАС!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "12%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "6%",
         "support": "-",
         "description": "БАФФ РАБОТАЕТ НЕ НА ВСЮ НАШУ РОТАЦИЮ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "11%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "ПОМОГАЕТ ВЗРЫВАЕТЬ БУТОНЫ ИЛИ ИГРАТЬ ЧЕРЕЗ ПРЫЖКИ",
-        "note": "Подсчёту к сожалению не поддаётся. Так как вы сами решаете, что будете делать с этой инфузией"
+        "note": "Подсчёту к сожалению не поддаётся. Так как вы сами решаете, что будете делать с этой инфузией",
+        "energy": null
       }
     }
   },
@@ -889,37 +1015,43 @@
         "damage": "4%",
         "support": "-",
         "description": "БАФФ НЕ ОЧЕНЬ СТАБИЛЬНЫЙ... ТА И ДАЮТ МАЛО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "7%",
         "support": "-",
         "description": "ТАКОЙ ЖЕ КАК С1, ТОЛЬКО ЧУТЬ БОЛЬШЕ ДАЁТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "5%",
         "support": "-",
         "description": "ЗВУЧИТ НЕ ПЛОХО! НО... ТОЛКУ МАЛО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "13%",
         "support": "-",
         "description": "УРОН КОНЕЧНО РАСТЁТ НЕ ПЛОХО, НО ВАЖНЕЙ НЕ ПРЕРЫВАНИЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -931,37 +1063,43 @@
         "damage": "30%",
         "support": "-",
         "description": "БАФФ ЛЮТЫЙ! БЕЗ ЕГО УРОНА КОНЕЧНО МАЛОВАТО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "11%",
         "support": "-",
         "description": "ЕШКА ТЕПЕРЬ АДЕКВАТНА + ЦВЕТЕНИЕ ТОЖЕ ХОРОШО ВЗРЫВАЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "9%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "15Е",
+        "damage": "-",
         "support": "-",
         "description": "ЭНЕРГИИ ВСЁ РАВНО НЕ ХВАТЕТ, А ХИЛА И ТАК КУЧА БЫЛО...",
-        "note": null
+        "note": null,
+        "energy": "15Е"
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "ЧУТЬ ЛУЧШЕ ЩИТ БУДЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "62%",
         "support": "-",
         "description": "15 УДАРОВ ТЕПЕРЬ! С4 СТАЛО ЛУЧШЕ И УРОНА КУЧА!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -973,37 +1111,43 @@
         "damage": "9%",
         "support": "-",
         "description": "ЕСЛИ УБИТЬ ХОТЬ КОГО-ТО, ТО % БУДЕТ БОЛЬШЕ! А ТАК УЖЕ ТОП!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "15%",
         "support": "-",
         "description": "СТАБИЛЬНО И СИЛЬНО! ДАЖЕ С УЛЬТЫ ДАЁТ БАФФ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "МАКСИМУ ПРИГОДИТСЯ В ДАБЛ ДД. И ТО... СОМНИТЕЛЬНО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "21%",
         "support": "-",
         "description": "ДОП. УДАРЫ БУДУТ МЕШАТЬ В ПАРЕ, ЗНАЧИТ ЛУЧШЕ ПЕРЕГРУЗ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1015,37 +1159,43 @@
         "damage": "17к",
         "support": "-",
         "description": "ПРИЯТНЫЙ ХИЛЛ ЛИШНИМ НЕ БУДЕТ. ПОД ФУРУ И ОХОТНИК ТОП!",
-        "note": "2.8к ЗА ЕШКУ ПОД УЛЬТОЙ!"
+        "note": "2.8к ЗА ЕШКУ ПОД УЛЬТОЙ!",
+        "energy": null
       },
       "С2": {
         "damage": "8.5%",
         "support": "-",
         "description": "АКТИВАЦИЯ ЛЕГКАЯ, РАБОТАЕТ СТАБИЛЬНО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "18%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "12Е",
+        "damage": "-",
         "support": "-",
         "description": "12-14Е ЗА РОТАЦИЮ! ДЛЯ КАМИНА ЭТО ПРЯМ МНОГО!",
-        "note": null
+        "note": null,
+        "energy": "12Е"
       },
       "С5": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "37%",
         "support": "-",
         "description": "УРОН ДИКИЙ! НО ВАЖНЕЙ ТО, ЧТО РАУДИС ПРЫЖКА БОЛЬШЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1057,37 +1207,43 @@
         "damage": "16%",
         "support": "-",
         "description": "В СРЕДНЕМ БУДЕТ 10 АКТИВАЦИЙ+ТАМ СВОЙ СТАТУС!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "15%",
         "support": "11%",
         "description": "ТЕПЕРЬ МОЖНО ИГРАТЬ КАК САП! И УЛЬТ НЕ НАДО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "3.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "15%",
         "support": "-",
         "description": "ГЛАВНОЕ ВОВРЕМЯ ПЕРЕКЛЮЧИТЬСЯ, А ТО НЕ БУДЕТ ВЗРЫВ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "7.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "7.5%",
         "support": "4%",
         "description": "9Е ВСЕМ КРОМЕ КЛИ! В ЦЕЛОМ НЕ ПЛОХО, НО НЕ ДЛЯ ДД...",
-        "note": "4% ЭТО ПРИБАВКА ДЛЯ ОДНОГО ПИРО ПЕРСА! НАПРИМЕР МАВУИКА ИЛИ СЯНКА!"
+        "note": "4% ЭТО ПРИБАВКА ДЛЯ ОДНОГО ПИРО ПЕРСА! НАПРИМЕР МАВУИКА ИЛИ СЯНКА!",
+        "energy": null
       }
     }
   },
@@ -1099,37 +1255,43 @@
         "damage": "9%",
         "support": "-",
         "description": "ДВОЙНАЯ ИГРУШКА НЕ ПЛОХО, А ТАК + СТАК В ЕШКУ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "13%",
         "support": "-",
         "description": "НА САМОМ ДЕЛЕ ПОЛУЧИТЬ БАФФ НЕ ТАК СЛОЖНО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "13%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "21.5%",
         "support": "10%",
         "description": "ПОРЕЗКА БУДЕТ ХУЖЕ, ВЕДЬ ЭТО БЕЗ ПОРЕЗКИ ДРУГИХ ПЕРСОВ!",
-        "note": "КАЖДЫЙ ПИРО ПЕРСОНАЖ ПОЛУЧАЕТ 10% ПРИБАВКИ!"
+        "note": "КАЖДЫЙ ПИРО ПЕРСОНАЖ ПОЛУЧАЕТ 10% ПРИБАВКИ!",
+        "energy": null
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "38%",
         "support": "-",
         "description": "ПРОСТО ХОРОШАЯ С6. НИ ВАУ, НИ ФУ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1141,37 +1303,43 @@
         "damage": "15.5%",
         "support": "-",
         "description": "ТЕПЕРЬ МОЖНО ИГРАТЬ СПОКОЙНО БЕЗ НАТЛАН ПЕРСОВ",
-        "note": "НУ И ПЕРЕМЕЩЕНИЕ ДОЛЖЕН!\nЧТО ТОЖЕ ИМБА!"
+        "note": "НУ И ПЕРЕМЕЩЕНИЕ ДОЛЖЕН!\nЧТО ТОЖЕ ИМБА!",
+        "energy": null
       },
       "С2": {
         "damage": "41%",
         "support": "11%",
         "description": "ПОРЕЗКА БРОНИ РАБОТАЕТ ТОЛЬКО С КАРМАНА",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "15.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "17%",
         "support": "14%",
         "description": "БАФФ СТАНОВИТСЯ ИДЕАЛЬНЫМ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "12.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "48%",
         "support": "11%",
         "description": "ПОРЕЗКА ТЕПЕРЬ РАБОТАЕТ И НА ПОЛЕ БОЯ! ТОП 1 КОНСТА ИГРЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1183,37 +1351,43 @@
         "damage": "-",
         "support": "-",
         "description": "ЕЕЕ! ВЕНТЕЛЬ КРУТИТЬСЯ, ДАМАГ МУТИТЬСЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "❌",
         "support": "-",
         "description": "МОЖНО ПОЛУЧИТЬ 100% ЩИТ! НУ 100% КРИТ... ЭТО ТАКОЕ!",
-        "note": "ПРИБАВКУ ВЫЧИСЛИТЬ СЛОЖНО, ТАК КАК ШК АБСОЛЮТНО У ВСЕХ РАЗНЫЙ!"
+        "note": "ПРИБАВКУ ВЫЧИСЛИТЬ СЛОЖНО, ТАК КАК ШК АБСОЛЮТНО У ВСЕХ РАЗНЫЙ!",
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "1,3к",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": "ЩИТ НЕМНОГО СИЛЬНЕЙ БУДЕТ!"
+        "note": "ЩИТ НЕМНОГО СИЛЬНЕЙ БУДЕТ!",
+        "energy": null
       },
       "С4": {
         "damage": "6%",
         "support": "7%",
         "description": "Я ВЕРЮ! ЧТО ОНА БУДЕТ ФИЗ. САПОМ!",
-        "note": "6% ЕСЛИ ТЫ САМ ДАМАЖИШЬ!"
+        "note": "6% ЕСЛИ ТЫ САМ ДАМАЖИШЬ!",
+        "energy": null
       },
       "С5": {
         "damage": "12%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "21%",
         "support": "-",
         "description": "НУ! УРОН ПРИБАВИЛСЯ, ХОТЬ И ТОЛКУ СТАЛО НЕ БОЛЬШЕ!",
-        "note": "21% ЕСЛИ ИГРАТЬ КАК ДД! \nНО ПОНЯТНОЕ ДЕЛО, НЕ СОВЕТУЮ..."
+        "note": "21% ЕСЛИ ИГРАТЬ КАК ДД! \nНО ПОНЯТНОЕ ДЕЛО, НЕ СОВЕТУЮ...",
+        "energy": null
       }
     }
   },
@@ -1225,37 +1399,43 @@
         "damage": "13%",
         "support": "13%",
         "description": "ПОРЕЗКА ТАК ЕЩЁ И ДЛИТЬСЯ ХОРОШО! ТОП!",
-        "note": "ПОРЕЗКА КРУТАЯ, ПОКА НЕ ПОСТАВИШЬ ЕЩЁ ОДНУ ПОРЕЗКУ, КОТОРАЯ УЖЕ УМЕНЬШИТ ЭФФЕКТ ОТ ЭТОЙ!\n6% ЭТО ПРИ НАЛИИЧИ ПОРЕЗКИ!"
+        "note": "ПОРЕЗКА КРУТАЯ, ПОКА НЕ ПОСТАВИШЬ ЕЩЁ ОДНУ ПОРЕЗКУ, КОТОРАЯ УЖЕ УМЕНЬШИТ ЭФФЕКТ ОТ ЭТОЙ!\n6% ЭТО ПРИ НАЛИИЧИ ПОРЕЗКИ!",
+        "energy": null
       },
       "С2": {
         "damage": "❌",
         "support": "-",
         "description": "МОЖЕТ ПОКАЗАТЬСЯ ЛИШНИМ! НО ИНОГДА ПРИГОЖДАЕТСЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "17%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "19%",
         "support": "-",
         "description": "ДЛИТЕЛЬНОСТЬ +4 сек. УЛЬТЫ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "11%",
         "support": "6%",
         "description": "ПИРО ПЕРСЫ ДОВАЛЬНЫ! В МОНО ПИРО ТОП!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1267,37 +1447,43 @@
         "damage": "-",
         "support": "-",
         "description": "УПРОЩАЕТ РОТАЦИЮ НА ТОМЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "10%",
         "support": "-",
         "description": "ТЕПЕРЬ У НАС КОМФОРТНЫЙ ВЕЧНЫЙ ЩИТ!",
-        "note": "10% - ЭТО ДЛЯ ЧИСТОГО УРОНА\n18% - ЭТО В ЦВЕТЕНИИ"
+        "note": "10% - ЭТО ДЛЯ ЧИСТОГО УРОНА\n18% - ЭТО В ЦВЕТЕНИИ",
+        "energy": null
       },
       "С3": {
         "damage": "1%",
         "support": "-",
         "description": "ЩИТ СТАНЕТ КРЕПЧЕ ИМЕННО ОТ ЛВЛ ТАЛАНТА, ЧЕМ ХП!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "15Е",
+        "damage": "-",
         "support": "-",
         "description": "ДЛЯ ТОМЫ УЛЬТ ЭТО ВСЁ! ПОЭТОМУ 15Е ЭТО ТОП!",
-        "note": null
+        "note": null,
+        "energy": "15Е"
       },
       "С5": {
         "damage": "1%",
         "support": "-",
         "description": "ЩИТ СТАНЕТ КРЕПЧЕ ИМЕННО ОТ ЛВЛ ТАЛАНТА, ЧЕМ ХП!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "5%",
         "description": "ПРИЯТНЫЙ БАФФ, НО НЕ БОЛЕЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1309,37 +1495,43 @@
         "damage": "❌",
         "support": "-",
         "description": "ЧИСТО КОМФОРТ И НЕ БОЛЕЕ!",
-        "note": "КАК БЫ ПОЛЬЗА ЗАВИСИТ СУГУБО ОТ ИГРОКА!"
+        "note": "КАК БЫ ПОЛЬЗА ЗАВИСИТ СУГУБО ОТ ИГРОКА!",
+        "energy": null
       },
       "С2": {
         "damage": "11%",
         "support": "-",
         "description": "НЕ ЗАБЫВАЕМ ПРО ДОП. СТАТУС ПОСЛЕ УЛЬТЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "10%",
         "support": "-",
         "description": "УРОН РАСТЁТ У ВСЕГО СРАЗУ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "10%",
         "description": "БАФФ КРУТОЙ! ЖАЛЬ ТОЛЬКО САМОЙ СЕБЕ НЕ ДАЁТ ШК!",
-        "note": "10% ОДНОМУ ДД! БАФФ ДЛИТЬСЯ СТАБИЛЬНО! В ОТЛИЧИИ ОТ П1."
+        "note": "10% ОДНОМУ ДД! БАФФ ДЛИТЬСЯ СТАБИЛЬНО! В ОТЛИЧИИ ОТ П1.",
+        "energy": null
       },
       "С5": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "❌",
         "support": "-",
         "description": "АКТИВАЦИЯ С РАЗРЯДА ФАНТАСТИКИ! ТА И ЕСЛИ СМОЖЕТ ТОЛКУ 0",
-        "note": "ТУТ КАК БОГ ДАСТ!"
+        "note": "ТУТ КАК БОГ ДАСТ!",
+        "energy": null
       }
     }
   },
@@ -1349,39 +1541,45 @@
     "constellations": {
       "С1": {
         "damage": "-",
-        "support": "12Е",
+        "support": "-",
         "description": "ДАЁТ 6Е КОМУ-ТО ПРИ ПЕРЕГРУЗЕ! В ЦЕЛОМ 12Е НЕ ЛИШНИЕ!",
-        "note": null
+        "note": null,
+        "energy": "12Е"
       },
       "С2": {
         "damage": "13%",
         "support": "-",
         "description": "ДАЮТ СВОЙ СТАТУС! ЧТО АКТИВИРУЕТ ПЕРЕГРУЗ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "-",
         "description": "ХИЛЛ НЕМНОГО СТАНЕТ ЛУЧШЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "56%",
         "support": "-",
         "description": "ДВЕ ЕШКИ В ЦЕЛОМ НЕ ПЛОХО, НО НЕ МАСТ ХЭВ НАЖИМАТЬ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "13%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "5%",
         "support": "18%",
         "description": "БАФФ В РЕАЛЬНОСТИ ДЛИТЬСЯ 20 сек! А НЕ 8 сек...",
-        "note": "18% В СРЕДНЕМ АКТИВНОМУ ПЕРСОНАЖУ! НО ОЧЕВИДНО!\nЧТО НЕКОТОРЫЕ ПЕРСОНАЖИ ПОЛУЧАЮТ ЛИШЬ ОДИН СТАК, КОТОРЫЙ ДАСТ 6% ПРИБАВКИ!\n\nПЛЮС НЕ ЗАБЫВАЕМ ЧТО ХИЛЛ ВСЕМ ТОЖЕ БАФФ ОБНОВИТ ВСЕМ!"
+        "note": "18% В СРЕДНЕМ АКТИВНОМУ ПЕРСОНАЖУ! НО ОЧЕВИДНО!\nЧТО НЕКОТОРЫЕ ПЕРСОНАЖИ ПОЛУЧАЮТ ЛИШЬ ОДИН СТАК, КОТОРЫЙ ДАСТ 6% ПРИБАВКИ!\n\nПЛЮС НЕ ЗАБЫВАЕМ ЧТО ХИЛЛ ВСЕМ ТОЖЕ БАФФ ОБНОВИТ ВСЕМ!",
+        "energy": null
       }
     }
   },
@@ -1393,37 +1591,43 @@
         "damage": "-",
         "support": "-",
         "description": "ДВОЙНОЙ ПРИЦЕЛ! СИЛЬНО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ВЗОРВАТЬ ИГРУШКУ? НУ А ТЫ ПОПРОБУЙ! УДАЧИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "13%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "14%",
         "support": "-",
         "description": "2 ИГРУШКИ УЖЕ НЕ ПЛОХО! ВОТ БЫ ВЗРЫВ ЕЩЁ ПОПАЛ ПО ВРАГУ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "7%",
         "support": "5%",
         "description": "НА САМОМ ДЕЛЕ ДЛИТЕЛЬНОСТЬ НЕМНОГО НЕ ХВАТАЕТ!",
-        "note": "В СРЕДНЕМ ДАСТ 5% ПРИБАВКИ КАЖДОМУ ДД ОТ СА!"
+        "note": "В СРЕДНЕМ ДАСТ 5% ПРИБАВКИ КАЖДОМУ ДД ОТ СА!",
+        "energy": null
       }
     }
   },
@@ -1435,37 +1639,43 @@
         "damage": "-",
         "support": "-",
         "description": "НЕМНОГО КОМФОРТА И НЕ БОЛЕЕ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "5%",
         "support": "-",
         "description": "БАФФ КОПЕЙКИ И РАБОТАЕТ РЕДКО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "1%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "8,5к",
         "support": "-",
         "description": "ЩИТОК ХОРОШИЙ, НО СЛЕТАЕТ СРАЗУ, ТАК КАК ЗАЩИТЫ МАЛО...",
-        "note": "ЩИТ ПО КРЕПКОСТИ НЕ ПЛОХОЙ! НО ИЗ-ЗА ТОГО, ЧТО У ЕЁ МАЛО ЗАЩИТЫ, СЛЕТАЕТ ОН БЫСТРО!"
+        "note": "ЩИТ ПО КРЕПКОСТИ НЕ ПЛОХОЙ! НО ИЗ-ЗА ТОГО, ЧТО У ЕЁ МАЛО ЗАЩИТЫ, СЛЕТАЕТ ОН БЫСТРО!",
+        "energy": null
       },
       "С5": {
         "damage": "3.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "9%",
         "support": "-",
         "description": "ПО ФАКТУ КЛЮЧЕВАЯ МЕХАНИКА, НО ТОЛКУ ВСЁ РАВНО МАЛО...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1477,37 +1687,43 @@
         "damage": "33%",
         "support": "20-30%",
         "description": "ХОРОШИЙ БАФФ СЕБЕ ВО ТЬМЕ И СИЛЬНЫЙ БАФФ КОМАНДЕ В СВЕТЕ",
-        "note": "33% В ФОРМЕ ТЬМЫ\n\nВ СВЕТЛОЙ ФОРМЕ НЕ ПРИБАВКИ"
+        "note": "33% В ФОРМЕ ТЬМЫ\n\nВ СВЕТЛОЙ ФОРМЕ НЕ ПРИБАВКИ",
+        "energy": null
       },
       "С2": {
         "damage": "40%",
         "support": "35%",
         "description": "ЛЮТАЯ ИМБА ВСЕЙ ПАЧКЕ! УРОВЕНЬ С2 ШИЛО",
-        "note": "В СВЕТЛОЙ ФОРМЕ ПРИБАВКА НИЖЕ!"
+        "note": "В СВЕТЛОЙ ФОРМЕ ПРИБАВКА НИЖЕ!",
+        "energy": null
       },
       "С3": {
         "damage": "30%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "63%",
         "support": "-",
         "description": "ДЛЯ ФОРМЫ ТЬМЫ, ИМБА ЛЮТАЯ! НО ВОТ СВЕТЛАЯ ФОРМА ТАКОЕ...",
-        "note": "ЭТО ИМЕННО ДЛЯ ФОРМЫ ТЬМЫ! ТАКОЙ БУСТ. А ДЛЯ ФОРМЫ СВЕТА В РАЗА ДВА СЛАБЕЙ ВЕДЬ ПОЛУЧАЕТ ЧИСТО 40% В УЛЬТУ"
+        "note": "ЭТО ИМЕННО ДЛЯ ФОРМЫ ТЬМЫ! ТАКОЙ БУСТ. А ДЛЯ ФОРМЫ СВЕТА В РАЗА ДВА СЛАБЕЙ ВЕДЬ ПОЛУЧАЕТ ЧИСТО 40% В УЛЬТУ",
+        "energy": null
       },
       "С5": {
         "damage": "1%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "142%%",
         "support": "25-30%",
         "description": "ОЧЕРДНАЯ ИМБА ДЛЯ ТЬМЫ. НУ И КРУТАЯ ДЛЯ СВЕТА!",
-        "note": "ЭТО БАФФ ДЛЯ ТЬМЫ!\n\nДЛЯ СВЕТ БУДЕТ 50% ПРИБАВКИ, НУ И ПРИМЕРНО В ДВА РАЗА МЕНЬШЕ ДЛЯ ДД! КОРОЧЕ ОПЯТЬ КОНСТА В ДВА РАЗА СЛАБЕЙ ДЛЯ СВЕТЛОЙ ФОРМЫ...\nНО НЕ ЗАБЫВАЙТЕ ЧТО ОН БАФФАЕТ ВСЕХ ПО 25-30%\nПОЭТОМУ БОЛЕЕ МЕНЕЕ!"
+        "note": "ЭТО БАФФ ДЛЯ ТЬМЫ!\n\nДЛЯ СВЕТ БУДЕТ 50% ПРИБАВКИ, НУ И ПРИМЕРНО В ДВА РАЗА МЕНЬШЕ ДЛЯ ДД! КОРОЧЕ ОПЯТЬ КОНСТА В ДВА РАЗА СЛАБЕЙ ДЛЯ СВЕТЛОЙ ФОРМЫ...\nНО НЕ ЗАБЫВАЙТЕ ЧТО ОН БАФФАЕТ ВСЕХ ПО 25-30%\nПОЭТОМУ БОЛЕЕ МЕНЕЕ!",
+        "energy": null
       }
     }
   },
@@ -1519,37 +1735,43 @@
         "damage": "6%",
         "support": "-",
         "description": "АКТИВАЦИЯ ТАКОЕ СЕБЕ... БАФФ ТОЖЕ КОПЕЙКИ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "11%",
         "support": "-",
         "description": "ВОТ ЭТО УЖЕ ПОЛУЧШЕ! ОМУТ СТАНОВИТЬСЯ СИГНОЙ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "15%",
         "support": "-",
         "description": "ЛУЧШЕ ЧЕМ С1 и С2! НАЙС КОНСТЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "19%",
         "support": "❌",
         "description": "НЕОЖИДАННО ТОП КОНСТА. ВТОРАЯ С6",
-        "note": "КАК ВСЕГДА, БАФФ НА СКОРОСТЬ АТАКИ РАССЧИТАТЬ ОЧЕНЬ СЛОЖНО ИМЕННО ДЛЯ ДРУГИХ ДД. ТАК ЧТО ТУТ ВСЁ ОТ ИГРОКОВ ЗАВИСИТ!"
+        "note": "КАК ВСЕГДА, БАФФ НА СКОРОСТЬ АТАКИ РАССЧИТАТЬ ОЧЕНЬ СЛОЖНО ИМЕННО ДЛЯ ДРУГИХ ДД. ТАК ЧТО ТУТ ВСЁ ОТ ИГРОКОВ ЗАВИСИТ!",
+        "energy": null
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "20%",
         "support": "-",
         "description": "ДОП. СТАТУС\\УРОН = КАЧЕСТВЕННО, НО СЛАБОВАТО...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1558,40 +1780,46 @@
     "element": "💧",
     "constellations": {
       "С1": {
-        "damage": "2Е",
+        "damage": "-",
         "support": "-",
         "description": "КОНСТА ДЛЯ ОТКРЫТОГО МИРА! В БОЮ 2Е ДАСТ...",
-        "note": null
+        "note": null,
+        "energy": "2Е"
       },
       "С2": {
         "damage": "1%",
         "support": "7.5%",
         "description": "БАФФ КРУТОЙ ДЛЯ ГИДРО ДД, НАМ ТАКОЕ...",
-        "note": "7,5% АКТИВНОМУ ГИДРО ДД!"
+        "note": "7,5% АКТИВНОМУ ГИДРО ДД!",
+        "energy": null
       },
       "С3": {
         "damage": "-",
         "support": "-",
         "description": "ЕЩЁ БЫ ЭТОТ УЛЬТ НАЖИМАТЬ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "4Е",
+        "damage": "-",
         "support": "-",
         "description": "4Е ЗА 4 ЗАРЯЖЕН. НЕ НУ ПРОТИВ ТОЛПЫ ТОП. ЕЩЁ БЫ УЛЬТ НАДО БЫЛ!",
-        "note": null
+        "note": null,
+        "energy": "4Е"
       },
       "С5": {
         "damage": "-",
         "support": "-",
         "description": "ХИЛ СТАНЕТ НА 20% ЛУЧШЕ. ТУТ ОН ХОТЯ БЫ НАМ НУЖЕН",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "СТРАХОВОЧКА РАЗ В 15 МИНУТ. ЛУЧШЕ ЧЕМ У ЦИ ЦИ ИЛИ ДАЛИЯ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1600,40 +1828,46 @@
     "element": "💧",
     "constellations": {
       "С1": {
-        "damage": "8Е",
+        "damage": "-",
         "support": "-",
         "description": "8Е В ИДЕАЛЬНОМ МИРЕ, ДЛЯ БЕСПОЛЕЗНОЙ УЛЬТЫ! НАЙС!",
-        "note": null
+        "note": null,
+        "energy": "8Е"
       },
       "С2": {
         "damage": "18%",
         "support": "-",
         "description": "УЛЬТ СТАНОВИТЬСЯ ЧУТЬ ЛУЧШЕ. 0 х 1 = 0",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "11%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "2к",
         "support": "-",
         "description": "ПОШЁЛ ЖОСКИЙ ЩИТ! ДАЛИЯ ЗАВИДУЕТ ТАКОМУ ГИДРО ЩИТУ!",
-        "note": "ЩИТ ПО 2к КОТОРЫЙ ПОСТОЯННО ПОЯВЛЯЕТСЯ И ОБНОВЛЯЕТСЯ!"
+        "note": "ЩИТ ПО 2к КОТОРЫЙ ПОСТОЯННО ПОЯВЛЯЕТСЯ И ОБНОВЛЯЕТСЯ!",
+        "energy": null
       },
       "С5": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "НУ И РЕШИЛИ НА С6 НИЧЕГО НЕ ДАТЬ! ОТЛИЧНОЕ РЕШЕНИЕ КИТАЙЦЫ!",
-        "note": "ХИЛЛ ТАМ КОПЕЙКИ. ЛУЧШЕ ПОСТАВЬТЕ МОНУ С ЯНТАРЁМ. И ТО В 10 РАЗ БОЛЬШЕ ДАСТ..."
+        "note": "ХИЛЛ ТАМ КОПЕЙКИ. ЛУЧШЕ ПОСТАВЬТЕ МОНУ С ЯНТАРЁМ. И ТО В 10 РАЗ БОЛЬШЕ ДАСТ...",
+        "energy": null
       }
     }
   },
@@ -1645,37 +1879,43 @@
         "damage": "-",
         "support": "-",
         "description": "ДАЁТ В СРЕДНЕМ 15Е, НО МОЖЕТ ДАТЬ ДАЖЕ 20Е, НО ЭТО РЕДКО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "2,5к",
         "description": "ЩИТ ЛУЧШЕ НА 850, ЩИТОВ В СРЕДНЕМ БУДЕТ 2-3",
-        "note": "В СРЕДНЕМ ЩИТ СУММАРНО СТАНЕТ ЛУЧШЕ НА 2,5к"
+        "note": "В СРЕДНЕМ ЩИТ СУММАРНО СТАНЕТ ЛУЧШЕ НА 2,5к",
+        "energy": null
       },
       "С3": {
         "damage": "13%",
         "support": "2,4к",
         "description": "ЩИТ ЛУЧШЕ НА 800, ЩИТОВ В СРЕДНЕМ 2-3",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "ДОЛЬШЕ УЛЬТА, ДОЛЬШЕ БАФФ, ДОЛЬШЕ ЩИТЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УРОН ОСОБО НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "❌",
         "description": "ВОСКРЕШАЛКА РАБОТАЕТ ТОЛЬКО В УЛЬТЕ... БАФФ ПРИЯТНЫЙ!",
-        "note": "+10% СКОРОСТИ АТАКИ. ЗВУЧИТ ХОРОШО, А НА ДЕЛЕ ВЫЧИСЛИТЬ ПОЛЬЗУ ПОЧТИ НЕВОЗМОЖНО!\n\nНО В ЛЮБОМ СЛУЧАЕ БАФФ ПРИЯТНЫЙ!"
+        "note": "+10% СКОРОСТИ АТАКИ. ЗВУЧИТ ХОРОШО, А НА ДЕЛЕ ВЫЧИСЛИТЬ ПОЛЬЗУ ПОЧТИ НЕВОЗМОЖНО!\n\nНО В ЛЮБОМ СЛУЧАЕ БАФФ ПРИЯТНЫЙ!",
+        "energy": null
       }
     }
   },
@@ -1687,37 +1927,43 @@
         "damage": "8%",
         "support": "-",
         "description": "НАКОНЕЦ-ТО СТАБИЛЬНЫЙ УЛЬТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "29%",
         "support": "-",
         "description": "ТЕПЕРЬ ПО СТАТУСУ НЕ УСТУПАЕТ СИНЕМУ, ЧТО КРУТО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "15%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "12%",
         "support": "8%",
         "description": "КРОМЕ ФУРИНЫ НЕ КОМУ. БОЛЬШЕ ОТ ХП НИКТО НЕ ИГРАЕТ С НЕЙ",
-        "note": "8% ЭТО ИМЕННО ДЛЯ ФУРИНЫ"
+        "note": "8% ЭТО ИМЕННО ДЛЯ ФУРИНЫ",
+        "energy": null
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "34%",
         "support": "-",
         "description": "МОЖНО ТЕПЕРЬ ИГРАТЬ КАК ДД! ПОЧТИ НЁВИК И МУЛАТКА. ПОЧТИ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1729,37 +1975,43 @@
         "damage": "-",
         "support": "-",
         "description": "3 сек. УЛЬТЫ КОНЕЧНО ПОЛЕЗНО, НО МЕХАНИКА БАЗОВАЯ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "2%",
         "support": "-",
         "description": "20% ХП ПОСЛЕ ЕШКИ ЭТО СЛИШКОМ МАЛО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "БЫСТРЕЕ КД ЕШКИ, НИЧЕГО НАМ НЕ ДАЁТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "-",
         "description": "БАФФ НЕ СТАНОВИТСЯ СИЛЬНЕЙ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "127%",
         "support": "-",
         "description": "С6 МЕШАЕТ ПРИ ИГРЕ С МУАЛАНИ. А ТАК УРОН ХОРОШО БУСТИТ",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1771,37 +2023,43 @@
         "damage": "15%",
         "support": "-",
         "description": "У РЫБЫ СВОЙ СТАТУС 1 СС! В СРЕДНЕМ БУДЕТ 6 АКТИВАЦИЙ",
-        "note": "У СТАТУСА НЕТ КД.\n\nА ТАК ЖЕ НЕ ЗАБЫВАЙТЕ, ЧТО НАДО ДЕЛАТЬ ИМЕННО 3 УДАР ИЗ СЕРИИ. ТАК ЧТО ЗАКАНЧИВАЙТЕ УДАРЫ ВСЕГДА!"
+        "note": "У СТАТУСА НЕТ КД.\n\nА ТАК ЖЕ НЕ ЗАБЫВАЙТЕ, ЧТО НАДО ДЕЛАТЬ ИМЕННО 3 УДАР ИЗ СЕРИИ. ТАК ЧТО ЗАКАНЧИВАЙТЕ УДАРЫ ВСЕГДА!",
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ПОЧТИ НИКОГДА НЕ АКТИВИРУЕТСЯ, ИЗ-ЗА ЧЕГО КОНСТА МУСОР",
-        "note": "ТАМ СМЕШНО В ЧЁМ?\nКОРОЧЕ МЫ ЖЕ ИГРАЕМ С ФУРИНОЙ, А КОГДА ИГРАЕМ С ФУРИНОЙ, ТО НЕ МОЖЕМ ОПУСКАТЬ ХП НИЖЕ 50%, А КОНСТА ТОЛЬКО ПРИ НИЖЕ 50% И РАБОТАЕТ... АХАХАХ!"
+        "note": "ТАМ СМЕШНО В ЧЁМ?\nКОРОЧЕ МЫ ЖЕ ИГРАЕМ С ФУРИНОЙ, А КОГДА ИГРАЕМ С ФУРИНОЙ, ТО НЕ МОЖЕМ ОПУСКАТЬ ХП НИЖЕ 50%, А КОНСТА ТОЛЬКО ПРИ НИЖЕ 50% И РАБОТАЕТ... АХАХАХ!",
+        "energy": null
       },
       "С3": {
         "damage": "5%",
         "support": "❌",
         "description": "ХИЛЛ НЕ НУЖЕН...",
-        "note": "ХИЛЛ И ТАК В ПЕРЕИЗБЫТКЕ!"
+        "note": "ХИЛЛ И ТАК В ПЕРЕИЗБЫТКЕ!",
+        "energy": null
       },
       "С4": {
         "damage": "11%",
         "support": "-",
         "description": "ДАЁМ НА ОДНУ СЕРИЮ БОЛЬШЕ УДАРОВ. ЭНЕРГИЯ НЕ НУЖНА...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "1%",
         "support": "❌",
         "description": "ХИЛЛ НЕ НУЖЕН...",
-        "note": "ХИЛЛ И ТАК В ПЕРЕИЗБЫТКЕ!"
+        "note": "ХИЛЛ И ТАК В ПЕРЕИЗБЫТКЕ!",
+        "energy": null
       },
       "С6": {
         "damage": "21%",
         "support": "-",
         "description": "РАБОТАЕТ СТАБИЛЬНО, НО ИГРАЯ С ФУРИНОЙ ПРИБАВКА МЕНЬШЕ",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1813,37 +2071,43 @@
         "damage": "-",
         "support": "8%",
         "description": "ПРОСТО ЛЁГКИЙ БАФФ ВСЕМ ГИДРО РЕАКЦИЯМ, КРОМЕ БУТОНОВ...",
-        "note": "8% ДАЁТ ОДНОМУ ЛЮБОМУ ДД ОТ ГИДРО РЕАКЦИЙ"
+        "note": "8% ДАЁТ ОДНОМУ ЛЮБОМУ ДД ОТ ГИДРО РЕАКЦИЙ",
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "БИТЬ УДАРАМИ? ГДЕ? ДРАЙВ? ЗАЧЕМ? ПОЧЕМУ? НИКТО НЕ ЗНАЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "12%",
         "support": "-",
         "description": "НУ ЧИСТО КОРОНКУ СЭКОНОМИТЬ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "7%",
         "description": "15 ШК НА 6 сек. ЗВУЧИТ ГОДНО! НА УРОВНЕ ЭПИКА...",
-        "note": "БАФФ НЕ БОЛЬШОЙ, ВЕДЬ ДЛИТЬСЯ ТАК СЕБЕ...\n\n7% ЭТО КАЖДОМУ ДД В ПАЧКЕ!"
+        "note": "БАФФ НЕ БОЛЬШОЙ, ВЕДЬ ДЛИТЬСЯ ТАК СЕБЕ...\n\n7% ЭТО КАЖДОМУ ДД В ПАЧКЕ!",
+        "energy": null
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "96%",
         "support": "-",
         "description": "ЕСЛИ НЕЧЕМ ЗАНЯТЬСЯ, ТО МОЖНО И В ШИФТЕ 3 сек. ПРОВЕСТИ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1855,37 +2119,43 @@
         "damage": "19%",
         "support": "-",
         "description": "КРУТОЙ БАФФ УРОНА И ПЕРЕМЕЩЕНИЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "23%",
         "support": "-",
         "description": "МОЖНО ИЛИ ДАТЬ УЛЬТ БЕЗ ПОТЕРЬ, ИЛИ 4 УДАР АКУЛЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "16%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "15%",
         "support": "-",
         "description": "СТАБИЛЬНЫЙ И СИЛЬНЫЙ УЛЬТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "57%",
         "support": "-",
         "description": "ПРОСТАЯ И КРУТАЯ КОНСТА! ЛАЙК!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1897,37 +2167,43 @@
         "damage": "23%",
         "support": "-",
         "description": "МАСТ ХЭВ ДЛЯ НЕВИКА! УРОН\\СТОЙКОСТЬ = ИМБА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "12%",
         "support": "-",
         "description": "ПРОСТО ПРИЯТНЫЕ КРИТЫ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "15%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "НУ ЧИСТО КОНСТА ПОД С6, ЧТО БЫ ГИДРАНТ НЕ ОСТАНАВЛИВАЛСЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "12%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "65%",
         "support": "-",
         "description": "РОТАЦИЯ 15 сек. + ВЕЧНЫЙ ГИДРАНТ",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -1939,37 +2215,43 @@
         "damage": "15%",
         "support": "-",
         "description": "ДЛИТЕЛЬНОСТЬ ЕШКИ ДАЁТ СТАТУС, А ДД ЧУТЬ БОЛЬШЕ ДАМАЖИТ!",
-        "note": "15% - ЭТО НА ПОЛЕ\n6% - ЭТО С КАРМАНА"
+        "note": "15% - ЭТО НА ПОЛЕ\n6% - ЭТО С КАРМАНА",
+        "energy": null
       },
       "С2": {
         "damage": "29%",
         "support": "20%",
         "description": "НУ БАФФ БАЗА! МОЩЬ! ТУПО ВСЮ ПАЧКУ ЛЮТО БАФФАЕТ...",
-        "note": "29% - ЕСЛИ НА ПОЛЕ\n27% - ЕСЛИ С КАРМАНА"
+        "note": "29% - ЕСЛИ НА ПОЛЕ\n27% - ЕСЛИ С КАРМАНА",
+        "energy": null
       },
       "С3": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": "3% - ЕСЛИ НА ПОЛЕ\n2% - ЕСЛИ С КАРМАНА"
+        "note": "3% - ЕСЛИ НА ПОЛЕ\n2% - ЕСЛИ С КАРМАНА",
+        "energy": null
       },
       "С4": {
         "damage": "8%",
         "support": "-",
         "description": "ТЕПЕРЬ УЛЬТ ПО КД И ДАМАЖИТ СОЛИДНО!",
-        "note": "8% - ЭТО НА ПОЛЕ\n9% - ЭТО С КАРМАНА"
+        "note": "8% - ЭТО НА ПОЛЕ\n9% - ЭТО С КАРМАНА",
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": "10% - ЭТО НА ПОЛЕ\n1% - ЭТО С КАРМАНА"
+        "note": "10% - ЭТО НА ПОЛЕ\n1% - ЭТО С КАРМАНА",
+        "energy": null
       },
       "С6": {
         "damage": "50%",
         "support": "-",
         "description": "КУЧА КРИТОВ С КАРМАНА МНОГО НЕ ДАСТ! А ТАК ТОП!",
-        "note": "19% - ЭТО В КАРМАНЕ\n50% - ЭТО НА ПОЛЕ"
+        "note": "19% - ЭТО В КАРМАНЕ\n50% - ЭТО НА ПОЛЕ",
+        "energy": null
       }
     }
   },
@@ -1981,37 +2263,43 @@
         "damage": "6%",
         "support": "34%",
         "description": "КАЗАЛОСЬ БЫ! БОЛЬШЕ ХИЛЛА, ЕЩЁ БОЛЬШЕ БАФФА! НУ ТОП! НО...",
-        "note": "3 ПРЫЖКА ПУЗЫРЯ ЭТО +5к ВСЕМ 3 РАЗА. КРОМЕ СИДЖИ!\n(3х5к)х3 = 45к ХИЛА\n\nПО ПОВОДУ БАФФА! НУ ТАМ ПО РАЗНОМУ МЫ ДАЁМ. КОМУ-ТО 25%, КОМУ-ТО 44%. ПОТОМУ ЧТО УРОН ЧИСТЫЙ ДАЁТСЯ. А ЗНАЧИТ, ЧЕМ ВЫШЕ САМОСТОЯТЕЛЬНЫЙ УРОН ДД, ТЕМ МЕНЬШЕ %\nВОТ ТАКИЕ ДЕЛА! НО В СРЕДНЕМ 34% БУДЕТ ПРИМЕРНО!"
+        "note": "3 ПРЫЖКА ПУЗЫРЯ ЭТО +5к ВСЕМ 3 РАЗА. КРОМЕ СИДЖИ!\n(3х5к)х3 = 45к ХИЛА\n\nПО ПОВОДУ БАФФА! НУ ТАМ ПО РАЗНОМУ МЫ ДАЁМ. КОМУ-ТО 25%, КОМУ-ТО 44%. ПОТОМУ ЧТО УРОН ЧИСТЫЙ ДАЁТСЯ. А ЗНАЧИТ, ЧЕМ ВЫШЕ САМОСТОЯТЕЛЬНЫЙ УРОН ДД, ТЕМ МЕНЬШЕ %\nВОТ ТАКИЕ ДЕЛА! НО В СРЕДНЕМ 34% БУДЕТ ПРИМЕРНО!",
+        "energy": null
       },
       "С2": {
         "damage": "22%",
         "support": "25%",
         "description": "МОНО ГИДРО ПОД ЭСКО... ЖЕСТЬ! ПОРЕЗКА ВСЕГДА ДАЁТ МНОГО!",
-        "note": "25% ЭТО ОДНОМУ ГИДРО ПЕРСОНАЖУ СТОЛЬКО ДАЁТ!\nТО ЕСТЬ В МОНО ГИДРО, ЭТО 25%х2 и 22% СЕБЕ. \nНУ БУСТ СИЛЬНЫЙ!\n\nЕСЛИ В ПАЧКЕ БУДЕТ ЭСКО ИЛИ КАЗАХ\\ШИЛО, ТО КОНЕЧНО % БУДЕТ НИЖЕ!\nГДЕ-ТО НА 10% ТОЧНО НИЖЕ БУДЕТ! ТО ЕСТЬ В СРЕДНЕМ 15% ГИДРО ПЕРСУ"
+        "note": "25% ЭТО ОДНОМУ ГИДРО ПЕРСОНАЖУ СТОЛЬКО ДАЁТ!\nТО ЕСТЬ В МОНО ГИДРО, ЭТО 25%х2 и 22% СЕБЕ. \nНУ БУСТ СИЛЬНЫЙ!\n\nЕСЛИ В ПАЧКЕ БУДЕТ ЭСКО ИЛИ КАЗАХ\\ШИЛО, ТО КОНЕЧНО % БУДЕТ НИЖЕ!\nГДЕ-ТО НА 10% ТОЧНО НИЖЕ БУДЕТ! ТО ЕСТЬ В СРЕДНЕМ 15% ГИДРО ПЕРСУ",
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "21к",
         "description": "ХИЛЛА ДАЁТ НЕ МНОГО, УРОН ПОЧТИ НЕ РАСТЁТ... ТАКОЕ СЕБЕ!",
-        "note": "1к КАЖДОМУ ТИКУ.\n(1х7)х3 = 21к ХИЛЛА"
+        "note": "1к КАЖДОМУ ТИКУ.\n(1х7)х3 = 21к ХИЛЛА",
+        "energy": null
       },
       "С4": {
         "damage": "122%",
         "support": "-",
         "description": "ПОШЁЛ УРОН! ПЛЮС 6 ТИКОВ УЛЬТЫ = СТАТУС \\ ДАМАГ = ТОП!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "38%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "152%",
         "support": "-",
         "description": "КУЧА КРИТОВ! ПО КЛАССИКЕ НИЛУ ПОШЛИ! ОДОБРЯЕМ САП ДД!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2023,37 +2311,43 @@
         "damage": "-",
         "support": "1к",
         "description": "ВАЖНО ЧТО ЭТОТ 4 МЕЧ ДАЁТ ТОЖЕ СТАТУС! НО ВСЁ РАВНО КД",
-        "note": "ПЛЮС ИХ ОТ МЕЧА!"
+        "note": "ПЛЮС ИХ ОТ МЕЧА!",
+        "energy": null
       },
       "С2": {
         "damage": "22%",
         "support": "9%",
         "description": "ДЛИТЕЛЬНОСТЬ + ПОРЕЗКА! ИМБА!",
-        "note": "9% ОДНОМУ ГИДРО ПЕРСОНАЖУ!"
+        "note": "9% ОДНОМУ ГИДРО ПЕРСОНАЖУ!",
+        "energy": null
       },
       "С3": {
         "damage": "17%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "7%",
         "support": "-",
         "description": "НАЖАТИЕ ЕШКИ ПРОДЛЕВАЕТ ДЛИТЕЛЬНОСТЬ УЛЬТЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "33%",
         "support": "-",
         "description": "СТАТУС\\УРОН\\ЭНЕРНГИЯ = ИМБА ЛЮТАЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2065,37 +2359,43 @@
         "damage": "-",
         "support": "-",
         "description": "РОТАЦИЯ СТАНОВИТЬСЯ ЛУЧШЕ! ПРИЯТНЕЙ ИГРАТЬ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ЭНЕРГИЯ ПО ПРАЗДНИКАМ?! ВСЁ ЛУЧШЕЕ ТОРТУ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "12%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "5%",
         "support": "-",
         "description": "ДОП. СТАТУС И УРОН. ТЕПЕРЬ МЫ ЕЩЁ КРУЧЕ КАК ДРАЙВЕР?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "КД СПАДАЕТ И БЛИЖНЕЙ СТОЙКЕ! ТЕПЕРЬ МОЖНО БЫТЬ ДРАЙВЕРОМ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2107,37 +2407,43 @@
         "damage": "9%",
         "support": "8.5%",
         "description": "ТЕПЕРЬ МОЖНО ИГРАТЬ АДЕКВАТНО В СОЛО ХИЛ",
-        "note": "ДАЁТ 8,5% АКТИВНОМУ ДД НА ФУЛЛ ФАНФАРАХ!\n\nКАРМАН ГДЕ-ТО 8%"
+        "note": "ДАЁТ 8,5% АКТИВНОМУ ДД НА ФУЛЛ ФАНФАРАХ!\n\nКАРМАН ГДЕ-ТО 8%",
+        "energy": null
       },
       "С2": {
         "damage": "45%",
         "support": "-",
         "description": "БАФФ КОНЕЧНО СТАЛ УДОБНЕЙ, НО ГЛАВНОЕ ЭТО НАШ УРОН!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "14%",
         "support": "8.5%",
         "description": "БАФФ ЧУТЬ ЛУЧШЕ!",
-        "note": "ДАЁТ 8,5% АКТИВНОМУ ДД НА ФУЛЛ ФАНФАРАХ!\n\nКАРМАН ГДЕ-ТО 8%"
+        "note": "ДАЁТ 8,5% АКТИВНОМУ ДД НА ФУЛЛ ФАНФАРАХ!\n\nКАРМАН ГДЕ-ТО 8%",
+        "energy": null
       },
       "С4": {
-        "damage": "16Е",
+        "damage": "-",
         "support": "-",
         "description": "16Е ЗА РОТАЦИЮ! В ЦЕЛОМ НЕ ПЛОХО!",
-        "note": null
+        "note": null,
+        "energy": "16Е"
       },
       "С5": {
         "damage": "31%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "59%",
         "support": "РОТАЦИЯ",
         "description": "НАКОНЕЦ-ТО МОЖНО ИГРАТЬ КАК ДД, НО НА СВОЙ РИСК!",
-        "note": "ЕСЛИ БУДЕШЬ ПРОСТО СТОЯТЬ И БИТЬ, ТО УРОН СТАНЕТ МЕНЬШЕ...\n\nТАК ЧТО ЛУЧШЕ ДАЛЬШЕ ИГРАТЬ В КАРМАНЕ, ПРОСТО САМОМУ ХИЛИТЬ ПАЧКУ ПЛЮСОМ!\n\n59% ЕСЛИ ВЫ ПРОСТО ДАДИТЕ ПАРУ УДАРОВ ПОСЛЕ ЕШКИ И ДАДИТЕ ХИЛ ОТ СЕБЯ. ВОТ!"
+        "note": "ЕСЛИ БУДЕШЬ ПРОСТО СТОЯТЬ И БИТЬ, ТО УРОН СТАНЕТ МЕНЬШЕ...\n\nТАК ЧТО ЛУЧШЕ ДАЛЬШЕ ИГРАТЬ В КАРМАНЕ, ПРОСТО САМОМУ ХИЛИТЬ ПАЧКУ ПЛЮСОМ!\n\n59% ЕСЛИ ВЫ ПРОСТО ДАДИТЕ ПАРУ УДАРОВ ПОСЛЕ ЕШКИ И ДАДИТЕ ХИЛ ОТ СЕБЯ. ВОТ!",
+        "energy": null
       }
     }
   },
@@ -2149,37 +2455,43 @@
         "damage": "4%",
         "support": "5%",
         "description": "КРУТОЙ БАФФ СЕБЕ И АКТИВНОМУ, ЧИСТО ПОСЛЕ ЕШКИ! КРУТО!",
-        "note": "5% ОДНОМУ ПЕРСОНАЖУ, КОТОРЫЙ УСИЛЯЕТСЯ ОТ МС"
+        "note": "5% ОДНОМУ ПЕРСОНАЖУ, КОТОРЫЙ УСИЛЯЕТСЯ ОТ МС",
+        "energy": null
       },
       "С2": {
         "damage": "13%",
         "support": "-",
         "description": "ДОП. СТАТУС. И КОПЕЙКИ УРОНА. ПОЧЕМУ НЕТ? +3 СС ГИДРО",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "10Е",
+        "damage": "-",
         "support": "-",
         "description": "ДОП. ЕНЕРГИЯ ПОСЛЕ ЕШКИ. НУ ПОЙДЁТ!",
-        "note": null
+        "note": null,
+        "energy": "10Е"
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "5%",
         "support": "12%",
         "description": "НЕ ПЛОХОЙ БАФФ ФЛИНСА\\ИНЕФФЫ. НУ И БУТОНЫ И НЕФЕРПИТО",
-        "note": "12% ЭТО ОДНОМУ ПЕРСОНАЖУ. КОТОРОМУ ЭТИ БАФФЫ ЧТО-ТО ДАЮТ!"
+        "note": "12% ЭТО ОДНОМУ ПЕРСОНАЖУ. КОТОРОМУ ЭТИ БАФФЫ ЧТО-ТО ДАЮТ!",
+        "energy": null
       }
     }
   },
@@ -2189,39 +2501,45 @@
     "constellations": {
       "С1": {
         "damage": "-",
-        "support": "15Е",
+        "support": "-",
         "description": "СИЛЬНО УПРОЩАЕТ НАБОР ЭНЕРГИИ!",
-        "note": null
+        "note": null,
+        "energy": "15Е"
       },
       "С2": {
         "damage": "-",
         "support": "15%",
         "description": "ЭКОНОМИТ ВРЕМЯ НА КАСТ ПРЫЖКА ПОСЛЕ ЕШКИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "7%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "8НД",
         "description": "ДАЁТ ЗА РОТАЦИЮ 8 НОЧНОГО ДУХА ПОД УЛЬТУ",
-        "note": "УЛЬТА БУДЕТ ДЛИТЬСЯ СТАБИЛЬНЕЙ НА 1.5 СЕКУНДЫ"
+        "note": "УЛЬТА БУДЕТ ДЛИТЬСЯ СТАБИЛЬНЕЙ НА 1.5 СЕКУНДЫ",
+        "energy": null
       },
       "С5": {
         "damage": "11%",
         "support": "4%",
         "description": "ЛИМИТ РАСТЁТ С 690 ДО 810 ПРИ КОРОНКЕ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "19.5%",
         "description": "РАБОТАЕТ СТАБИЛЬНО ТОЛЬКО С НАТЛАНЦАМИ!!!",
-        "note": "МОБИЛЬНОСТИ НЕ ВСЕГДА ХВАТАЕТ, ЧТО БЫ ПОЛУЧАТЬ НОЧНОЙ ДУХ И ПЕРЕИЗБЫКЕ.\n\n+3 сек. В УЛЬТУ. НА САМОМ ДЕЛЕ НЕ СИЛЬНО ПОМОГАЮТ. ВЕДЬ ДАЛЕКО НЕ ВСЕ ПЕРСОНАЖИ И ДО ЭТОГО МОГЛИ СТАБИЛЬНО УДЕРЖИВАТЬ БАФФ. А ТЕПЕРЬ ЕЩЁ 3 сек. НАДО ДВИГАТЬСЯ КАК ЧЁРТ! КОРОЧЕ ПАЛКА С ДВУХ СТОРОН..."
+        "note": "МОБИЛЬНОСТИ НЕ ВСЕГДА ХВАТАЕТ, ЧТО БЫ ПОЛУЧАТЬ НОЧНОЙ ДУХ И ПЕРЕИЗБЫКЕ.\n\n+3 сек. В УЛЬТУ. НА САМОМ ДЕЛЕ НЕ СИЛЬНО ПОМОГАЮТ. ВЕДЬ ДАЛЕКО НЕ ВСЕ ПЕРСОНАЖИ И ДО ЭТОГО МОГЛИ СТАБИЛЬНО УДЕРЖИВАТЬ БАФФ. А ТЕПЕРЬ ЕЩЁ 3 сек. НАДО ДВИГАТЬСЯ КАК ЧЁРТ! КОРОЧЕ ПАЛКА С ДВУХ СТОРОН...",
+        "energy": null
       }
     }
   },
@@ -2233,37 +2551,43 @@
         "damage": "13%",
         "support": "-",
         "description": "ЗНАЧИТЕЛЬНО УЛУЧШАЕТ ПЕРЕМЕЩЕНИЕ В МИРЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "20%",
         "support": "-",
         "description": "ДАЁТ 3-ю АКТИВАЦИЮ БЫСТРОЙ УЛЬТЫ",
-        "note": "ЕСЛИ ВЫ БУДЕТЕ ИГРАТЬ В ДАБЛ ЭЛЕКТРО(НАПРИМЕР: ИАНСАН ИЛИ ФИШЛЬ), А ТАК ЖЕ ИМЕТЬ 140% ВЭ. ТО!\nМОЖНО ДЕЛАТЬ ДАЖЕ 4 УЛЬТЫ!"
+        "note": "ЕСЛИ ВЫ БУДЕТЕ ИГРАТЬ В ДАБЛ ЭЛЕКТРО(НАПРИМЕР: ИАНСАН ИЛИ ФИШЛЬ), А ТАК ЖЕ ИМЕТЬ 140% ВЭ. ТО!\nМОЖНО ДЕЛАТЬ ДАЖЕ 4 УЛЬТЫ!",
+        "energy": null
       },
       "С3": {
         "damage": "9%",
         "support": "-",
         "description": "ЧЕМ БОЛЬШЕ РАЗ НАЖИМАЕТЕ УЛЬТ, ТЕМ БОЛЬШЕ ПРИБАВКА",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "27%",
         "support": "-",
         "description": "ПОЗВОЛЯЕТ ДЕЛАТЬ РАЗНОБРАЗИЕ С УЛЬТАМИ В РОТАЦИЯХ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "104%",
         "support": "-",
         "description": "ЛЮТАЯ ИМБА! СТАБИЛЬНЫХ 4 БЫСТРЫХ УЛЬТЫ. МОЖНО ДАЖЕ 5!",
-        "note": "МОЖНО БЕСКОНЕЧНО ПЕРЕМЕЩАТЬСЯ В МИРЕ! ТО ЕСТЬ БЕСКОНЕЧНЫЙ БЕГ В ЕШКЕ"
+        "note": "МОЖНО БЕСКОНЕЧНО ПЕРЕМЕЩАТЬСЯ В МИРЕ! ТО ЕСТЬ БЕСКОНЕЧНЫЙ БЕГ В ЕШКЕ",
+        "energy": null
       }
     }
   },
@@ -2275,37 +2599,43 @@
         "damage": "-",
         "support": "4к",
         "description": "ЩИТ ОЧЕНЬ СЛАБЫЙ И ПО ФАКТУ ОСОБО НЕ ПОМОГАЕТ!",
-        "note": "ПРОЧНОСТЬ ЩИТА"
+        "note": "ПРОЧНОСТЬ ЩИТА",
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ЕСТЬ НЬЮАНС! ЗА СЧЁТ С2 ЦЕПНАЯ ПРЫГАЕТ МЕЖДУ 2х ВРАГОВ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "-",
         "description": "ЩИТ ПАРКИ СТАНОВИТСЯ ЛУЧШЕ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "❌",
         "support": "-",
         "description": "ВЕГЕТАЦИЮ ЭТИ УДАРЫ НЕ АКТИВИРУЮТ",
-        "note": "БОНУС СЛИШКОМ АДАПТИВНЫЙ.\nТО ЕСТЬ У ВСЕХ РАЗНЫЙ!"
+        "note": "БОНУС СЛИШКОМ АДАПТИВНЫЙ.\nТО ЕСТЬ У ВСЕХ РАЗНЫЙ!",
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "-",
         "description": "ЩИТ ПОГЛОЩАЕТ НА 3% БОЛЬШЕ УРОНА",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "13%",
         "support": "9%",
         "description": "ПРИБАВКА ДЛЯ КОМАНДЫ ЗАВИСИТ ОТ ПАЧКИ!!!",
-        "note": "9% ЭТО ОДНОМУ ЭЛЕКТРО ПЕРСУ!\n\nВАЖНО ПОНИМАТЬ, ЧТО В МОНО ЭЛЕКТРО БАФФ ТОЛЬКО ДЛЯ НАС. А В 3 ЭЛЕКТРО МЫ ИГРАЕТ ВЕСЬМА РЕДКО! ПОЭТОМУ БАФФ НЕ НАСТОЛЬКО И СИЛЬНЫЙ!"
+        "note": "9% ЭТО ОДНОМУ ЭЛЕКТРО ПЕРСУ!\n\nВАЖНО ПОНИМАТЬ, ЧТО В МОНО ЭЛЕКТРО БАФФ ТОЛЬКО ДЛЯ НАС. А В 3 ЭЛЕКТРО МЫ ИГРАЕТ ВЕСЬМА РЕДКО! ПОЭТОМУ БАФФ НЕ НАСТОЛЬКО И СИЛЬНЫЙ!",
+        "energy": null
       }
     }
   },
@@ -2317,37 +2647,43 @@
         "damage": "8%",
         "support": "-",
         "description": "ХОТЬ АПТАЙМ НЕ ИДЕАЛЬНЫЙ! НО РАБОТАЕТ СТАБИЛЬНО!",
-        "note": "3 сек. РАЗНИЦЫ С БАФФОМ МЕЖДУ ЕШКОЙ И УЛЬТОЙ, МОЖЕТ СВОЁ ДАТЬ, НО ВЫ ЭТО НЕ ОЩУТИТЕ!"
+        "note": "3 сек. РАЗНИЦЫ С БАФФОМ МЕЖДУ ЕШКОЙ И УЛЬТОЙ, МОЖЕТ СВОЁ ДАТЬ, НО ВЫ ЭТО НЕ ОЩУТИТЕ!",
+        "energy": null
       },
       "С2": {
         "damage": "4-8%",
         "support": "-",
         "description": "НА БОССАХ ДАЁТ 2 СТАКА, ПРОТИВ ТОЛПЫ(3 ЮНИТА) 4 СТАКА",
-        "note": "БОСС - 4%\nТОЛПА - 8%"
+        "note": "БОСС - 4%\nТОЛПА - 8%",
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "8%",
         "support": "-",
         "description": "ЭНЕРГИЯ ХОРОШО. НО СТАТУСА ДОПОЛНИТЕЛЬНО НЕ ДАЁТ...",
-        "note": "8Е ПРИ НАЖАТИЕ ДАЁТ КОНЕЧНО МНОГО! НО!\n\n25% СКОРОСТИ УЛЬТЫ. НИКАК НЕ РЕЖУТ НАШИ ЛИМИТЫ. ИЗ-ЗА ЧЕГО КОЛИЧЕСТВО СТАТУСА НИКАК НЕ МЕНЯЕТСЯ! КОРОЧЕ С4 ПОЛЕЗНАЯ, НО МОГЛА БЫТЬ НАМНОГО ЛУЧШЕ!"
+        "note": "8Е ПРИ НАЖАТИЕ ДАЁТ КОНЕЧНО МНОГО! НО!\n\n25% СКОРОСТИ УЛЬТЫ. НИКАК НЕ РЕЖУТ НАШИ ЛИМИТЫ. ИЗ-ЗА ЧЕГО КОЛИЧЕСТВО СТАТУСА НИКАК НЕ МЕНЯЕТСЯ! КОРОЧЕ С4 ПОЛЕЗНАЯ, НО МОГЛА БЫТЬ НАМНОГО ЛУЧШЕ!",
+        "energy": null
       },
       "С5": {
         "damage": "1.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "14%",
         "support": "9%",
         "description": "3% ЗА 1 СТАК АКТИВНОМУ | В СРЕДНЕМ СУММАРНО 5 СТАКОВ ПАЧКЕ",
-        "note": "СА ЭТО ТАКОЙ БАФФ, ЧТО ТУТ НЕТ СТАБИЛЬНОЙ ПРИБАВКИ. ВСЕМ ПО РАЗНОМУ.\n9% ЭТО ОДНОМУ ПЕРСУ!\nЕСЛИ ОДИН СТАК СЛОВИТ ПЕРС, ТО БУДЕТ 4% В СРЕДНЕМ"
+        "note": "СА ЭТО ТАКОЙ БАФФ, ЧТО ТУТ НЕТ СТАБИЛЬНОЙ ПРИБАВКИ. ВСЕМ ПО РАЗНОМУ.\n9% ЭТО ОДНОМУ ПЕРСУ!\nЕСЛИ ОДИН СТАК СЛОВИТ ПЕРС, ТО БУДЕТ 4% В СРЕДНЕМ",
+        "energy": null
       }
     }
   },
@@ -2359,37 +2695,43 @@
         "damage": "8%",
         "support": "-",
         "description": "В ТЕОРИИ ДАЁТ МНОГО! НО НА ДЕЛЕ ЕСТЬ МНОГО НЬЮАНСОВ!",
-        "note": "ПО ФАКТУ 8% ЭТО ТОЛЬКО ЕСЛИ МЫ ИГРАЕМ ОТ СВОЕГО УРОНА\n\nЕСЛИ ЖЕ БУДЕТ ИГРАТЬ ОТ РЕАКЦИЙ, НАПРИМЕР ДАЖЕ В НАЦИОНАЛКЕ, ТО УЖЕ БУДЕТ 6%\n\nА В ВЕГЕТАЦИИ ТАК ВООБЩЕ 2%\n\nКОРОЧЕ НОРМАЛЬНАЯ КОНСТА, НО СИЛЬНО ЗАВИСИТ ОТ ТОГО КАК ВЫ ИГРАЕТЕ"
+        "note": "ПО ФАКТУ 8% ЭТО ТОЛЬКО ЕСЛИ МЫ ИГРАЕМ ОТ СВОЕГО УРОНА\n\nЕСЛИ ЖЕ БУДЕТ ИГРАТЬ ОТ РЕАКЦИЙ, НАПРИМЕР ДАЖЕ В НАЦИОНАЛКЕ, ТО УЖЕ БУДЕТ 6%\n\nА В ВЕГЕТАЦИИ ТАК ВООБЩЕ 2%\n\nКОРОЧЕ НОРМАЛЬНАЯ КОНСТА, НО СИЛЬНО ЗАВИСИТ ОТ ТОГО КАК ВЫ ИГРАЕТЕ",
+        "energy": null
       },
       "С2": {
         "damage": "37%",
         "support": "-",
         "description": "ТОЖЕ САМОЕ ЧТО И С1",
-        "note": "ВСЁ ТОЖЕ САМОЕ. 37% ЭТО ЕСЛИ ОТ СВОЕГО УРОНА\nЕСЛИ ИГРАТЬ В НАЦИОНАЛКЕ, ТО ДАСТ 25%\n\nА ЕСЛИ В ВЕГЕТАЦИИ ТО ВООБЩЕ 12%\n\nВСЁ ОПЯТЬ УПАРИВАЕТСЯ В ТО, КАК ВЫ ИГРАЕТЕ"
+        "note": "ВСЁ ТОЖЕ САМОЕ. 37% ЭТО ЕСЛИ ОТ СВОЕГО УРОНА\nЕСЛИ ИГРАТЬ В НАЦИОНАЛКЕ, ТО ДАСТ 25%\n\nА ЕСЛИ В ВЕГЕТАЦИИ ТО ВООБЩЕ 12%\n\nВСЁ ОПЯТЬ УПАРИВАЕТСЯ В ТО, КАК ВЫ ИГРАЕТЕ",
+        "energy": null
       },
       "С3": {
         "damage": "22%",
         "support": "-",
         "description": "ТОЖЕ САМОЕ ЧТО И С1\\С2",
-        "note": "ВСЁ ТОЖЕ САМОЕ. 22% ЭТО ЕСЛИ ОТ СВОЕГО УРОНА\nЕСЛИ ИГРАТЬ В НАЦИОНАЛКЕ, ТО ДАСТ 14%\n\nА ЕСЛИ В ВЕГЕТАЦИИ ТО ВООБЩЕ 5%\n\nВСЁ ОПЯТЬ УПАРИВАЕТСЯ В ТО, КАК ВЫ ИГРАЕТЕ"
+        "note": "ВСЁ ТОЖЕ САМОЕ. 22% ЭТО ЕСЛИ ОТ СВОЕГО УРОНА\nЕСЛИ ИГРАТЬ В НАЦИОНАЛКЕ, ТО ДАСТ 14%\n\nА ЕСЛИ В ВЕГЕТАЦИИ ТО ВООБЩЕ 5%\n\nВСЁ ОПЯТЬ УПАРИВАЕТСЯ В ТО, КАК ВЫ ИГРАЕТЕ",
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "12-20%",
         "description": "БАФФ НЕДООЦЕНЁН. ДАЁТ МНОГО, ХОТЬ НЕ ВСЕГДА",
-        "note": "12-20% ЭТО НЕ КАЖДОМУ, А СУМАРРНЫЙ БАФФ ВСЕМ\n\nЧАЩЕ ВСЕГО БАФФАЕТ 1-2 ПЕРСОНАЖЕЙ. САМА РАЙДЭН БАФФА НЕ ПОЛУЧАЕТ.\n\nОСОБО КРУТО РАБОТАЕТ С ФИШКОЙ И СЯНКОЙ, ПОТОМУ ЧТО ОНИ ФИКСИРУЮТ БАФФЫ\n\nСИТУАЦИЙ ГДЕ МЫ НЕ ПОЛУЧАЕМ ПРИБАВКИ, В ЦЕЛО И НЕТ ДАЖЕ"
+        "note": "12-20% ЭТО НЕ КАЖДОМУ, А СУМАРРНЫЙ БАФФ ВСЕМ\n\nЧАЩЕ ВСЕГО БАФФАЕТ 1-2 ПЕРСОНАЖЕЙ. САМА РАЙДЭН БАФФА НЕ ПОЛУЧАЕТ.\n\nОСОБО КРУТО РАБОТАЕТ С ФИШКОЙ И СЯНКОЙ, ПОТОМУ ЧТО ОНИ ФИКСИРУЮТ БАФФЫ\n\nСИТУАЦИЙ ГДЕ МЫ НЕ ПОЛУЧАЕМ ПРИБАВКИ, В ЦЕЛО И НЕТ ДАЖЕ",
+        "energy": null
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "НА 9 ЛВЛ УЖЕ ПИК БАФФА, ПОЭТОМУ ПРИБАВКА МАЛАЯ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "❌",
         "description": "5 сек. С УЛЬТЫ СРЕЗАТЬ ЗВУЧИТ ХОРОШО, НО НА ДЕЛЕ ТАКОЕ СЕБЕ",
-        "note": "СЛИШКОМ ВСЁ СИТУАТИВНО, НО ЗАЧАСТУЮ ПОЛЬЗЫ ОЧЕНЬ МАЛО..."
+        "note": "СЛИШКОМ ВСЁ СИТУАТИВНО, НО ЗАЧАСТУЮ ПОЛЬЗЫ ОЧЕНЬ МАЛО...",
+        "energy": null
       }
     }
   },
@@ -2398,40 +2740,46 @@
     "element": "⚡",
     "constellations": {
       "С1": {
-        "damage": "24Е",
+        "damage": "-",
         "support": "-",
         "description": "ПРОБЛЕМУ СО СТАБИЛЬНОСТЬ ВСЁ РАВНО НЕ РЕШАЕТ!",
-        "note": "24Е ЗА 3 ТОТЕМА, НО МОЖЕТ НЕ ПОВЕСТИ И БУДЕТ 0 ТОТЕМОВ...\nЧТО МИНУС КОНСТА..."
+        "note": "24Е ЗА 3 ТОТЕМА, НО МОЖЕТ НЕ ПОВЕСТИ И БУДЕТ 0 ТОТЕМОВ...\nЧТО МИНУС КОНСТА...",
+        "energy": "24Е"
       },
       "С2": {
         "damage": "16%",
         "support": "-",
         "description": "УВЕЛИЧИВАЕТ РАДУС ПОПАДАНИЯ ЕШКОЙ, ЧТО ОЧЕНЬ УДОБНО!",
-        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 8%"
+        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 8%",
+        "energy": null
       },
       "С3": {
         "damage": "14%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 7%"
+        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 7%",
+        "energy": null
       },
       "С4": {
         "damage": "11%",
         "support": "10%",
         "description": "ПОЧТИ ВСЕГДА КОГО-ТО БАФФАЕТ ЕЩЁ, А ЗНАЧИТ 21% СУММАРКИ",
-        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 5%"
+        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 5%",
+        "energy": null
       },
       "С5": {
         "damage": "7%",
         "support": "-",
         "description": "УЛЬТА ТО КОНЕЧНО ДАМАЖИТ, ВОТ ТОЛЬКО НАЖАТЬ ЕЁ...",
-        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 3%"
+        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 3%",
+        "energy": null
       },
       "С6": {
         "damage": "43%",
         "support": "-",
         "description": "ПОРЕЗКА БАФФАЕТ ПРИЛИЧНО!",
-        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 21%"
+        "note": "ПРИБАВКА КОГДА МЫ КАК ДРАЙВЕР ВЕГЕТАЦИИ В 2 РАЗА СЛАБЕЙ, ТО ЕСТЬ 21%",
+        "energy": null
       }
     }
   },
@@ -2443,37 +2791,43 @@
         "damage": "1%",
         "support": "-",
         "description": "ЭТИХ ВЫСТРЕЛОВ ТОЛКОМ И НЕТ... УЛЬТ НАЖАТЬ НАДО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "15%",
         "support": "-",
         "description": "РАБОТАЕТ ХОРОШО И СТАБИЛЬНО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "-",
         "description": "НА С6 ЛУЧШЕ РАБОТАЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "10%",
         "support": "5%",
         "description": "10% ЭТО ЕСЛИ АКТИВИРОВАТЬ, А ТУТ УЖЕ КАК ПОВЕЗЁТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "13%",
         "support": "-",
         "description": "ПЛЮС 1 ЗАРЯЖКА - ЭТО ХОРОШАЯ ПРИБАВКА!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2485,37 +2839,43 @@
         "damage": "16%",
         "support": "-",
         "description": "НА С1 СЕТ ПОДНОШЕНИЕ СТАНОВИТЬСЯ ЗАМЕТНО ХУЖЕ ФРАГМЕНТА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "26%",
         "support": "-",
         "description": "НА С2 3к СА ТЕПЕРЬ НАДО ВСЕГДА НАБИРАТЬ! +СТОЙКОСТЬ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "21%",
         "support": "-",
         "description": "ТЕПЕРЬ УЛЬТ СТАЛ МАСТ ХЭВ К НАЖАТИЮ! УРОН ПРИЛИЧНЫЙ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "6.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "77%",
         "support": "-",
         "description": "ЛЮТАЯ ИМБА! УРОН, СТОЙКОСТЬ, БЕССМЕРТИЕ! ТОП 2 КОНСТА ИГРЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2527,37 +2887,43 @@
         "damage": "6%",
         "support": "-",
         "description": "ПРОЩЕ ВЫПОЛНЯТЬ СЕРИЮ УДАРОВ И ПЕРСОНАЖ ПРИЯТНЕЙ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "17%",
         "support": "-",
         "description": "РАБОТАЕТ СТАБИЛЬНО! ДАЁТ МНОГО",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
-        "support": "15Е",
+        "support": "-",
         "description": "15Е ВСЕМ, КРОМЕ САЙНО! КОГДА ЕМУ НАДО БОЛЬШЕ ВСЕХ... УМНО!",
-        "note": null
+        "note": null,
+        "energy": "15Е"
       },
       "С5": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "19%",
         "support": "-",
         "description": "ЗВУЧИТ ХОРОШО! НО НА ДЕЛЕ ПРИБАВКА НЕ БОЛЬШАЯ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2569,37 +2935,43 @@
         "damage": "-",
         "support": "-",
         "description": "ОБЛАСТЬ УЛЬТЫ БОЛЬШЕ? ВОТ ЭТО МУСОР!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "39%",
         "support": "-",
         "description": "ВЕГАТАЦИЯ\\СТИМУЛЯЦИЯ\\ЭНЕРГИЯ ВСЁ БОЛЬШЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "0.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "6.5%",
         "support": "-",
         "description": "СТИМУЛЯЦИЯ\\ЭНЕРГИЯ ВСЁ БОЛЬШЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "1%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "9%",
         "support": "-",
         "description": "АКТИВАЦИЯ НЕ ОЧЕНЬ ЧАСТАЯ! НО В ЛЮБОМ СЛУЧАЕМ БЫВАЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2611,37 +2983,43 @@
         "damage": "-",
         "support": "-",
         "description": "ЕШКА БЫСТРЕЕ КД, НУ ТАКОЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "24%",
         "support": "-",
         "description": "ЭКОНОМИТ ВРЕМЯ НА РОТАЦИЮ. ЧТО КРУТО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "13%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "17.5%",
         "support": "-",
         "description": "МОЖЕТ ПОКАЗАТЬСЯ ДЛЯ КООПа! НО УРОН РАСТЁТ ДАЖЕ В СОЛО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "7%",
         "support": "4%",
         "description": "БАФФ СТАНОВИТЬСЯ ЧУТЬ ЛУЧШЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "26%",
         "support": "20%",
         "description": "БАФФ СЕБЕ И РАЙДЭН! ДА, ТОЛЬКО РАЙДЭН...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2651,39 +3029,45 @@
     "constellations": {
       "С1": {
         "damage": "-",
-        "support": "4Е",
+        "support": "-",
         "description": "КОМУ-ТО ДАСТ 4Е И 20% ВЭ! В ЦЕЛОМ НЕ ПЛОХО",
-        "note": null
+        "note": null,
+        "energy": "4Е"
       },
       "С2": {
         "damage": "8%",
         "support": "6.5%",
         "description": "СИТУАЦИЯ КАК С БЭЙ ДОУ С6, МОНО ЭЛЕКТРО ПОКА НЕ В ТРЕНДЕ!",
-        "note": "6,5% ОДНОМУ ЭЛЕКТРО ПЕРСОНАЖУ!"
+        "note": "6,5% ОДНОМУ ЭЛЕКТРО ПЕРСОНАЖУ!",
+        "energy": null
       },
       "С3": {
         "damage": "7%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
-        "support": "12Е",
+        "support": "-",
         "description": "НУ х2 ЭНЕРГИЯ С ЕШКИ. СОМНИТЕЛЬНАЯ АКТИВАЦИЯ!",
-        "note": null
+        "note": null,
+        "energy": "12Е"
       },
       "С5": {
         "damage": "2.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "12.5%",
         "support": "-",
         "description": "4Е ЭНЕРГИИ СЕБЕ И НЕМНОГО УРОНА",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2692,40 +3076,46 @@
     "element": "⚡",
     "constellations": {
       "С1": {
-        "damage": "2Е",
+        "damage": "-",
         "support": "-",
         "description": "10Е ПРОТИВ ТОЛПЫ... НУ НУ! ТОЛПА И ГЕНШИН. ДЛЯ ИВЕНТ МОЖЕТ?",
-        "note": null
+        "note": null,
+        "energy": "2Е"
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ПРОСТО ЕШКА СТАНОВИТСЯ ИГРАБЕЛЬНА! ВОТ И ВСЁ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "15%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "ПРОТИВ ТОЛПЫ КОНЕЧНО ТОП! НО В ОДНУ ЦЕЛЬ НЕТ ИЗМЕНЕНИЙ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "11%",
         "support": "-",
         "description": "ЕШКУ НАЖИМАТЬ НАДО, А ПОСЛЕ С6 ТОЧНО!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2737,37 +3127,43 @@
         "damage": "6%",
         "support": "-",
         "description": "АКТИВАЦИЯ ЛЕГКАЯ, ДАЁТ УРОНА НЕ ПЛОХО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "6%",
         "support": "-",
         "description": "АКТИВАЦИЯ РЕДКАЯ, НО ПРИБАВКА ВСЁ РАВНО БОЛЬШАЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "5%",
         "support": "8%",
         "description": "ПО ФАКТУ КЛЮЧЕВАЯ КОНСТА. БЕЗ ЕЁ МНОГО ТЕРЯЕТ!",
-        "note": "8% ЛЮБОМУ ПЕРСОНАЖУ У КОТОРОГО ЕСТЬ СВОЙ УРОН!\nУРОН БУТОНОВ НЕ РАСТЁТ!"
+        "note": "8% ЛЮБОМУ ПЕРСОНАЖУ У КОТОРОГО ЕСТЬ СВОЙ УРОН!\nУРОН БУТОНОВ НЕ РАСТЁТ!",
+        "energy": null
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "2.5%",
         "support": "-",
         "description": "ВЫГЛЯДИТ КРУТО, А НА ДЕЛЕ НИ СТАТУС НЕ НАДО, НИ УРОНА НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2779,37 +3175,43 @@
         "damage": "-",
         "support": "-",
         "description": "ДА! ФИЗА! ГОУ ГОУ ФИЗУ В МАССЫ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "3.5%",
         "support": "-",
         "description": "ПРОЩЕ ПОПАСТЬ ПО БУТОНАМ. А ТАК УРОНА НЕ ОЧЕНЬ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "2.5%",
         "support": "-",
         "description": "УЛЬТА ТЕПЕРЬ БУТОНЫ ЦЕПЛЯЕТ! ЧТО УЖЕ ХОРОШО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "1%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "28%",
         "support": "-",
         "description": "2 УДАРА + ДОП. УДАРЫ = ЛЮТАЯ ИМБА ВО ВСЕХ ПЛАНАХ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2821,37 +3223,43 @@
         "damage": "1.5%",
         "support": "-",
         "description": "ПОПАСТЬ НЕ ТАК ЛЕГКО, УРОН КОПЕЙКИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "2ч.",
         "support": "-",
         "description": "ДАЁТ 2 ЧАСТИЦЫ  ЗА РОТАЦИЮ. ЭТО В СРЕДНЕМ 8Е СЕБЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "12%",
         "support": "-",
         "description": "РАБОТАЕТ СТАБИЛЬНО, ДАЁТ МНОГО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "11%",
         "support": "-",
         "description": "ХОТЬ РАБОТАЕТ НЕ СУПЕР СТАБИЛЬНО, НО ДАЁТ НОРМ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2863,37 +3271,43 @@
         "damage": "3%",
         "support": "-",
         "description": "ЛОЛ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "19%",
         "support": "-",
         "description": "ВЫГЛЯДИТ 19% ПРИБАВКИ ХОРОШО, НО УРОНА ТАМ НЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "ИЛИ ЖОСКИЙ ХИЛЛ, ИЛИ 30% ВЭ АКТИНОМУ ПЕРСУ! НЕ ПЛОХО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "9к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "1,5к ЗА ТИК. ТИКОВ 6\nВСЕГО 9к ХИЛ СИЛЬНЕЙ"
+        "note": "1,5к ЗА ТИК. ТИКОВ 6\nВСЕГО 9к ХИЛ СИЛЬНЕЙ",
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "6,8к",
         "description": "ТЕПЕРЬ МОЖНО С ФУРИНОЙ В БУТОНАХ ИГРАТЬ!",
-        "note": "6.8к ЗА 1 УДАР ВСЕМ!\nТО ЕСТЬ 1.8к ОДНОМУ"
+        "note": "6.8к ЗА 1 УДАР ВСЕМ!\nТО ЕСТЬ 1.8к ОДНОМУ",
+        "energy": null
       }
     }
   },
@@ -2905,37 +3319,43 @@
         "damage": "17%",
         "support": "14%",
         "description": "В ЦЕЛОМ ЛУННЫЙ ЗАРЯД СТАНЕТ ЛУЧШЕ ДЛЯ ВСЕЙ ПАЧКИ НА 17%",
-        "note": "РАБОТАЕТ ТАК ЖЕ И НА П1."
+        "note": "РАБОТАЕТ ТАК ЖЕ И НА П1.",
+        "energy": null
       },
       "С2": {
         "damage": "30%",
         "support": "-",
         "description": "ЩИТ ДЛЯ КООПА!? НО ЗАТО УРОНА ДАЛИ КУЧА)",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "20Е",
+        "damage": "-",
         "support": "-",
         "description": "20Е ЗА РОТАЦИЮ. ПОСЛЕ НАТЛАНА РАССЛАБИЛИСЬ? ГДЕ БАФФ УЛЬТЫ?",
-        "note": null
+        "note": null,
+        "energy": "20Е"
       },
       "С5": {
         "damage": "1%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "79%",
         "support": "-",
         "description": "5 МОЩНЫХ УДАРОВ С КАРМАНА ДОПОМ. МОЩНАЯ ШТУКА!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2947,37 +3367,43 @@
         "damage": "33%",
         "support": "-",
         "description": "ДАЁТ 3й БЫСТРЫЙ УЛЬТ И ЕШКУ + ДЕЛАЕТ КРУЧЕ СИГНУ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "44%",
         "support": "19%",
         "description": "ДОП. ЛУННЫЙ УДАР + ПОРЕЗКА ЛЮТАЯ! ЧТО ИМБА...",
-        "note": "ПРИБАВКА ТОЛЬКО ОДНУ ЭЛЕКТРО В ПАЧКЕ!\n\nЕСЛИ 2 ПЕРСА ТО СУММА БУДЕТ 38%"
+        "note": "ПРИБАВКА ТОЛЬКО ОДНУ ЭЛЕКТРО В ПАЧКЕ!\n\nЕСЛИ 2 ПЕРСА ТО СУММА БУДЕТ 38%",
+        "energy": null
       },
       "С3": {
         "damage": "21%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "24%",
         "support": "-",
         "description": "ПРОСТО ПРИЯТНЫЙ БОНУС! КОТОРЫЙ РАБОТАЕТ ВСЕГДА",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "НЕ ВЛИЯЕТ НА С2",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "90%",
         "support": "8%",
         "description": "СИЛЬНЫЙ БАФФ СЕБЕ И ВСЕЙ ПАЧКЕ ОТ ЛУННЫХ ЗАРЯЖЕННЫХ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -2989,37 +3415,43 @@
         "damage": "13%",
         "support": "РОТАТИЯ",
         "description": "МОЖНО УЖЕ ИГРАТЬ В ДАБЛ СТИХИИ!",
-        "note": "ПЛЮС В МИРЕ ПРЯМ КЛАССНО ПЕРЕМЕЩАТЬСЯ МОЖНО!"
+        "note": "ПЛЮС В МИРЕ ПРЯМ КЛАССНО ПЕРЕМЕЩАТЬСЯ МОЖНО!",
+        "energy": null
       },
       "С2": {
         "damage": "13%",
         "support": "РОТАЦИЯ",
         "description": "ПОЛНОСТЬЮ МЕНЯЕТСЯ РОТАЦИЯ! ТЕПЕРЬ ДАБЛ УЖЕ ЛУЧШЕ!",
-        "note": "13% ЭТО БЕЗ ДАБЛ! В ДАБЛ БУДЕТ В РАЗА ДВА БОЛЬШЕ ПОЛЬЗЫ!"
+        "note": "13% ЭТО БЕЗ ДАБЛ! В ДАБЛ БУДЕТ В РАЗА ДВА БОЛЬШЕ ПОЛЬЗЫ!",
+        "energy": null
       },
       "С3": {
         "damage": "17%",
         "support": "-",
         "description": "УДИВИТЕЛЬНО КАК +3 ДАЮТ БОЛЬШЕ С1 И С2!",
-        "note": "НУ КАК БОЛЬШЕ... ЕСЛИ НА С2 НАЧАТЬ ИГРАТЬ В ДАБЛ, ТО ТОГДА С3 СЛАБЕЙ БУДЕТ!"
+        "note": "НУ КАК БОЛЬШЕ... ЕСЛИ НА С2 НАЧАТЬ ИГРАТЬ В ДАБЛ, ТО ТОГДА С3 СЛАБЕЙ БУДЕТ!",
+        "energy": null
       },
       "С4": {
         "damage": "3%",
         "support": "РОТАЦИЯ",
         "description": "9Е + ДОП. УРОН ПО ПЛОЩАДИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "3.5%",
         "support": "-",
         "description": "НЕ УВЕЛИЧИВАЕТ УРОН С4",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "102%",
         "support": "-",
         "description": "ПОШЛА ВОЗЬНЯ! ТОП 1 КОНСТА ИГРЫ!",
-        "note": "ПРОБЛЕМА В ТОМ, ЧТО Я НЕ МОГУ В КАЛЬКУЛЯТОРЕ СДЕЛАТЬ ДАБЛ ПИРО, ТАК КАК ТАМ С2 НЕ РАБОТАЕТ. ИЗ-ЗА ЧЕГО Я ИСПОЛЬЗУЮ ДАЛЕКО НЕ ЛУЧШУЮ ПАЧКУ ЧАСКИ. НО ДАЖЕ ТАК. ПОЛУЧИТЬ 102% ПРИБАВКИ ПРИ И ТАК УЖЕ 1кк СВОЕГО УРОНА...\n\nЭТО ПРОСТО БЕЗУМИЕ!"
+        "note": "ПРОБЛЕМА В ТОМ, ЧТО Я НЕ МОГУ В КАЛЬКУЛЯТОРЕ СДЕЛАТЬ ДАБЛ ПИРО, ТАК КАК ТАМ С2 НЕ РАБОТАЕТ. ИЗ-ЗА ЧЕГО Я ИСПОЛЬЗУЮ ДАЛЕКО НЕ ЛУЧШУЮ ПАЧКУ ЧАСКИ. НО ДАЖЕ ТАК. ПОЛУЧИТЬ 102% ПРИБАВКИ ПРИ И ТАК УЖЕ 1кк СВОЕГО УРОНА...\n\nЭТО ПРОСТО БЕЗУМИЕ!",
+        "energy": null
       }
     }
   },
@@ -3031,37 +3463,43 @@
         "damage": "-",
         "support": "-",
         "description": "СТЯЖКА СЛАБАЯ. ТОЛКУ МАЛО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "15%",
         "support": "-",
         "description": "ДОП. СТАТУС ОТ УЛЬТЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "15%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "16%",
         "support": "-",
         "description": "ДВЕ ЕШКИ ЭТО ХОРОШО, НО ТУТ УРОНА НЕ МНОГО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "7%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "61%",
         "support": "-",
         "description": "МОЖНО ТЕПЕРЬ КАК ДРАЙВЕР ИГРАТЬ! НО 20% АНЕМО ТОЖЕ ПРИЯТНО!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3073,37 +3511,43 @@
         "damage": "10%",
         "support": "-",
         "description": "ЧУТЬ БОЛЬШЕ УРОНА. Я БЫ СКАЗАЛ ЗАМЕНА СИГНЫ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "21%",
         "support": "-",
         "description": "УЛЬТ ТЕПЕРЬ НАЧАЛ НАВАЛИВАТЬ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "7%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "19%",
         "support": "-",
         "description": "РАНДОМ ЛЮТЫЙ, ПОЭТОМУ ДАВАЙТЕ ПО ПОРЯДКУ:",
-        "note": "ЭТО ПИРО ПРИБАВКА!"
+        "note": "ЭТО ПИРО ПРИБАВКА!",
+        "energy": null
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "3 В ОБЫЧНЫЕ УДАРЫ БЫЛО БЫ ЛУЧШЕ... КАК У РИЗЛИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "36%",
         "support": "-",
         "description": "КУЧА АНЕМО УДАРОВ! + ДЛИТЕЛЬНОСТЬ ОПЯТЬ ДОЛЬШЕ... ДЛЯ МИРА!",
-        "note": "НА САМОМ ДЕЛЕ ДЛИТЕЛЬНОСТЬ ЕШКИ НАМ ВООБЩЕ НЕ НАДО... ВСЕ ЭТИ БАФФ ТОЛЬКО ДЛЯ ПЕРЕМЕЩЕНИЯ. ПОЭТОМУ С6 РЕАЛИЗОВАТЬ ОЧЕНЬ СЛОЖНО ИМЕННО В БОЮ!"
+        "note": "НА САМОМ ДЕЛЕ ДЛИТЕЛЬНОСТЬ ЕШКИ НАМ ВООБЩЕ НЕ НАДО... ВСЕ ЭТИ БАФФ ТОЛЬКО ДЛЯ ПЕРЕМЕЩЕНИЯ. ПОЭТОМУ С6 РЕАЛИЗОВАТЬ ОЧЕНЬ СЛОЖНО ИМЕННО В БОЮ!",
+        "energy": null
       }
     }
   },
@@ -3115,37 +3559,43 @@
         "damage": "-",
         "support": "-",
         "description": "АХААХ! СЮДА ДВЕ ЗАРЯЖКИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ДЛИТЕЛЬНОСТЬ ПРОСТО ЕСТЬ... НА С6 ОПЯТЬ ЖЕ РАСКРЫВАЕТСЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "7%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "14Е",
+        "damage": "-",
         "support": "-",
         "description": "14Е НА С6! ДО С6 КОСНТА МУСОР...",
-        "note": null
+        "note": null,
+        "energy": "14Е"
       },
       "С5": {
         "damage": "10%",
         "support": "2.5%",
         "description": "БАФФ СТАНЕТ СИЛЬНЕЙ НЕМНОГО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "136%",
         "support": "37%",
         "description": "ЭТО БАЗА! БЕЗ С6 НЕИГРАБЕЛЬНЫЙ ПЕРСОНАЖ ВООБЩЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3157,37 +3607,43 @@
         "damage": "❌",
         "support": "-",
         "description": "ПО ФАКТУ УСКОРЯЕТ РОТАЦИЮ! ЧТО ДАЁТ НЕ МАЛО!",
-        "note": "ПОДСЧИТАТЬ НЕВОЗМОЖНО! ВЕДЬ ПО РАЗНОМУ БЫВАЕТ! ВСЁ ЗАВИСИТ ОТ ИГРОКА!"
+        "note": "ПОДСЧИТАТЬ НЕВОЗМОЖНО! ВЕДЬ ПО РАЗНОМУ БЫВАЕТ! ВСЁ ЗАВИСИТ ОТ ИГРОКА!",
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "СТЯЖКА И ТАК БЫЛА ОК! НО ТЕПЕРЬ ОНА СТЯГИВАЕТ ПРЕДМЕТЫ?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "7%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "10,5Е",
+        "damage": "-",
         "support": "-",
         "description": "10Е ПОСЛЕ УЛЬТЫ. УЛЬТ НЕ ДОРОГОЙ. НАЖАТЬ ЛЕГКО!",
-        "note": null
+        "note": null,
+        "energy": "10,5Е"
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "11%",
         "support": "-",
         "description": "КРИТЫ В ЕШКУ ЗВУЧАТ ХОРОШО, А НА ДЕЛЕ ТОЛКУ НЕ МНОГО...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3199,37 +3655,43 @@
         "damage": "-",
         "support": "-",
         "description": "НА САМОМ ДЕЛЕ ОНА НЕ БЕН И ДАЖЕ НЕ МИДЗУКИ. МОЖНО И БЕЗ С1",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "2.5%",
         "support": "-",
         "description": "КОЛЕСО КАТИЛОСЬ И РАЗБИЛОСЬ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "1%",
         "support": "12к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "ХИЛЛ СТАНЕТ НЕМНОГО ВЫШЕ!"
+        "note": "ХИЛЛ СТАНЕТ НЕМНОГО ВЫШЕ!",
+        "energy": null
       },
       "С4": {
-        "damage": "7,2Е",
+        "damage": "-",
         "support": "",
         "description": "7Е КОГДА ИГРАЕМ КАК ДРАЙВЕР! ИГРАЯ С КАРМАНА 1Е, НУ ТАКОЕ...",
-        "note": null
+        "note": null,
+        "energy": "7,2Е"
       },
       "С5": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "8%",
         "support": "-",
         "description": "В ДРАЙВЕ МЫ ТЕПЕРЬ ХИЛИМ СИЛЬНО! НУ И УРОН НЕМНОГО БОЛЬШЕ",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3241,37 +3703,43 @@
         "damage": "18%",
         "support": "-",
         "description": "РЕШАЕТ ПРОБЛЕМА СО СТАБИЛЬНОСТЬЮ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "6%",
         "support": "19%",
         "description": "КЛЮЧЕВОЙ БАФФ! НО ЛУЧШЕ СИГНУ ЗАБРАТЬ...",
-        "note": "19% ЭТО АКТИНОМУ ПЕРСОНАЖУ ОТ РЕАКЦИЙ!\nНЕ ТОЛЬКО ОТ 200 МС, А 8% АФФИКСА ОТ КАЗАХА!\n\nЕСЛИ ВЫ БУДУТЕ БАФФАТЬ МОНО ПАЧКУ, ТО ЭТИ 200 МС НИЧЕГО НЕ ДАЮТ... НУ 8 АФФИКСА ОТ КАДЗУХИ. ВОТ!"
+        "note": "19% ЭТО АКТИНОМУ ПЕРСОНАЖУ ОТ РЕАКЦИЙ!\nНЕ ТОЛЬКО ОТ 200 МС, А 8% АФФИКСА ОТ КАЗАХА!\n\nЕСЛИ ВЫ БУДУТЕ БАФФАТЬ МОНО ПАЧКУ, ТО ЭТИ 200 МС НИЧЕГО НЕ ДАЮТ... НУ 8 АФФИКСА ОТ КАДЗУХИ. ВОТ!",
+        "energy": null
       },
       "С3": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "7Е",
+        "damage": "-",
         "support": "-",
         "description": "7Е ЗА ДВЕ ЕШКИ? НУ... ПОЙДЁТ! НО ЗАЧЕМ ПОСЛЕ С1?",
-        "note": null
+        "note": null,
+        "energy": "7Е"
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "67%",
         "support": "-",
         "description": "НА САМОМ ДЕЛЕ БАФФ БОЛЬШЕ ДЛЯ ПРЫЖКОВ ЕШКИ, А НЕ ДРАЙВА!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3283,37 +3751,43 @@
         "damage": "6%",
         "support": "-",
         "description": "ДВЕ ЕШКИ ВСЕГДА ХОРОШО! НО В КД НЕМНОГО НЕ ВПИСЫВАЕМСЯ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "БЕСПЛАТНАЯ КОНСТА У АНЕМО ГГ ДАЁТ БОЛЬШЕ ДАЖЕ... СПАСИБО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "ЗАЩИТА?! СПАСИБА КИТАЙЦАМ ЗА ТАКИЕ КЛАССНЫЕ КОНСТЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "ДА, УРОН ПОЧТИ НЕ РАСТЁТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "❌",
         "support": "-",
         "description": "ТОЛПУ РВЁТ! ХОТЯ ОН И ТАК РВАЛ... НУ... ТОГДА ПРОСТО КРУТО!",
-        "note": "НА САМОМ ДЕЛЕ НЕ РАБОТАЕТ НА БОССАХ, А ТОЛПУ МЫ И ТАК РВАЛИ ЧЕРЕЗ ПРЫЖКИ. ТАК ЧТО КОНСТА С РАЗРЯДА СПАСИБО КИТАЙЦАМ ЗА КРУТУЮ КОНСТУ!"
+        "note": "НА САМОМ ДЕЛЕ НЕ РАБОТАЕТ НА БОССАХ, А ТОЛПУ МЫ И ТАК РВАЛИ ЧЕРЕЗ ПРЫЖКИ. ТАК ЧТО КОНСТА С РАЗРЯДА СПАСИБО КИТАЙЦАМ ЗА КРУТУЮ КОНСТУ!",
+        "energy": null
       }
     }
   },
@@ -3325,37 +3799,43 @@
         "damage": "10%",
         "support": "-",
         "description": "ЕШКА СТАЛА ЧУТЬ ЛУЧШЕ, НО НЕ БОЛЕЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "❌",
         "description": "ДЛЯ ПЕРЕМЕЩЕНИЯ ТОП! А В БОЮ ТОЖЕ НЕ ПЛОХО...",
-        "note": "БАФФ НА СКОРОСТЬ АТАКИ ПОСЧИТАТЬ НЕВОЗМОЖНО!\nВСЕ ПОЛУЧАЮТ СИЛЬНО ПО РАЗНОМУ! ПОЭТОМУ БАФФ КОНЕЧНО ПОЛЕЗНЫЙ, ТА И РАБОТАЕТ СТАБИЛЬНО. НО ВСЁ ЖЕ ТОЧНЫХ ЦИФЕР ТУТ НЕТ..."
+        "note": "БАФФ НА СКОРОСТЬ АТАКИ ПОСЧИТАТЬ НЕВОЗМОЖНО!\nВСЕ ПОЛУЧАЮТ СИЛЬНО ПО РАЗНОМУ! ПОЭТОМУ БАФФ КОНЕЧНО ПОЛЕЗНЫЙ, ТА И РАБОТАЕТ СТАБИЛЬНО. НО ВСЁ ЖЕ ТОЧНЫХ ЦИФЕР ТУТ НЕТ...",
+        "energy": null
       },
       "С3": {
         "damage": "11%",
         "support": "12к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "ХИЛ СТАНЕТ НЕМНОГО ЛУЧШЕ!"
+        "note": "ХИЛ СТАНЕТ НЕМНОГО ЛУЧШЕ!",
+        "energy": null
       },
       "С4": {
         "damage": "30%",
         "support": "27%",
         "description": "ЗАМЕНЯЕМ ТЕНЬ ДЛЯ АНИМЕШНИКОВ! ТАК СЕБЕ ПО СТАБИЛЬНОСТИ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "СТОЙКОСТЬ НЕ ДАЁТ, ТАК ЧИСТО ВЫЖИВАЕМОСТЬ! ЧТО ТАКОЕ СЕБЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3367,37 +3847,43 @@
         "damage": "6%",
         "support": "-",
         "description": "ДВЕ ЕШКИ КРУТО КОНЕЧНО, НО БЕЗ С4 ИЛИ ЦЕРЕМОНА, ТАКОЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "5%",
         "support": "-",
         "description": "БАЗОВАЯ МЕХАНИКА, НЕ БОЛЕЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "❌",
         "support": "-",
         "description": "ИГРАЯ КАК ДРАЙВЕР, ТЫ УЖЕ ПОДГОТАВЛИВАЕШЬ ВТОРУЮ ЕШКУ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "1%",
         "support": "8.5%",
         "description": "БАФФ КРУТОЙ, НО РЕАЛИЗОВАТЬ ТЯЖКО...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3409,37 +3895,43 @@
         "damage": "-",
         "support": "-",
         "description": "СТЯЖКА? СЛАБАЯ? Я ГОВОРЮ ДА! ДАЙТЕ ДВЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ВЭ ЛИШНЕЙ НЕ БУДЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "9%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "ПРОЩЕ ЖИТЬ В ЕШКЕ? ЗВУЧИТ КАК СПАСИБО КИТАЙЦЫ!",
-        "note": "Я КСТАТИ ТОЛЬКО ЧТО ЗАМЕТИЛ, ЧТО С2 и С4 СИЛЬНО ПОХОЖИ НА СЯО... ТАКИЕ ЖЕ КРУТЫЕ И НЕНУЖНЫЕ..."
+        "note": "Я КСТАТИ ТОЛЬКО ЧТО ЗАМЕТИЛ, ЧТО С2 и С4 СИЛЬНО ПОХОЖИ НА СЯО... ТАКИЕ ЖЕ КРУТЫЕ И НЕНУЖНЫЕ...",
+        "energy": null
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "10%",
         "support": "9%",
         "description": "НЕДО С4 ДЖИН, ИЛИ ЖЕ ОГРЫЗОК ТЕНИ? ДЕБАФФ ДЛИТ. 10 сек.",
-        "note": "9% ЭТО ДЛЯ АНИМЕШНИКОВ!\n\n9% И ДЛЯ ДРУГИХ СТИХИЙ, НО С ТЕНЬЮ БАФФ ОЧЕВИДНО СЛАБЕЙ. В % САМО СОБОЙ!\n\nЧЕСТНО ЛУЧШЕ БЫ МС ДАВАЛИ!"
+        "note": "9% ЭТО ДЛЯ АНИМЕШНИКОВ!\n\n9% И ДЛЯ ДРУГИХ СТИХИЙ, НО С ТЕНЬЮ БАФФ ОЧЕВИДНО СЛАБЕЙ. В % САМО СОБОЙ!\n\nЧЕСТНО ЛУЧШЕ БЫ МС ДАВАЛИ!",
+        "energy": null
       }
     }
   },
@@ -3451,37 +3943,43 @@
         "damage": "24%",
         "support": "5 ЭЧ",
         "description": "ЕШКА ИМЕЕТ КД 12 сек. А ЗНАЧИТ ДВЕ ЕШКИ СТАБИЛЬНО!",
-        "note": "НО НАДО НЕ ЗАБЫВАТЬ! ЧТО РОТАЦИЯ ТОЖЕ БУДЕТ ДОЛЬШЕ! И ЕСЛИ ВЫ БУДЕТЕ НАЖИМАТЬ ЕШКУ ПОСЛЕ УЛЬТЫ. ТО ВЫ БУДЕТЕ ТЕРЯТЬ ДЛИТЕЛЬНОСТЬ БАФФА УЛЬТЫ!\n\nТАК ЖЕ В ОТРЫТОМ МИРЕ МЫ НАЧИНАЕМ МЕГА ДАЛЕКО И БЫСТРО ПЕРЕМЕЩАТЬСЯ!"
+        "note": "НО НАДО НЕ ЗАБЫВАТЬ! ЧТО РОТАЦИЯ ТОЖЕ БУДЕТ ДОЛЬШЕ! И ЕСЛИ ВЫ БУДЕТЕ НАЖИМАТЬ ЕШКУ ПОСЛЕ УЛЬТЫ. ТО ВЫ БУДЕТЕ ТЕРЯТЬ ДЛИТЕЛЬНОСТЬ БАФФА УЛЬТЫ!\n\nТАК ЖЕ В ОТРЫТОМ МИРЕ МЫ НАЧИНАЕМ МЕГА ДАЛЕКО И БЫСТРО ПЕРЕМЕЩАТЬСЯ!",
+        "energy": null
       },
       "С2": {
         "damage": "7%",
         "support": "26.5%",
         "description": "БАФФ СТАНОВИТЬСЯ В 2 РАЗА СИЛЬНЕЙ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "11%",
         "support": "10к",
         "description": "УРОН ПОЧТИ НЕ РАСТЁТ, ЗАТО ХИЛЛ СТАНЕТ ЧУТЬ ЛУЧШЕ",
-        "note": "УВЕЛИЧЕНИЕ ОБЩЕГО ХИЛЛА"
+        "note": "УВЕЛИЧЕНИЕ ОБЩЕГО ХИЛЛА",
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "2-6к",
         "description": "ХИЛЛ С ЕШКИ. В ЦЕЛОМ НАДО ТОЛЬКО ПОД ФУРИНУ",
-        "note": "УВЕЛИЧЕНИЕ ОБЩЕГО ХИЛЛА"
+        "note": "УВЕЛИЧЕНИЕ ОБЩЕГО ХИЛЛА",
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "-",
         "description": "НАЧИНАЕТ РАССКРЫВАТЬСЯ ТОЛЬКО НА С6",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "22.05",
         "support": "-",
         "description": "МОЖНО ТАК ЖЕ ПОД УЛЬТОЙ ПОЧТИ БЕСКОНЕЧНО ПРЫГАТЬ В МИРЕ",
-        "note": "УРОН УЛЕТАЕТ В КОСМОС. СТАНОВИТСЯ ЛУЧШИМ ПРЫГУНОМ ИГРЫ! ОНА НА С6 СИЛЬНЕЙ СЯО, И НА РАВНЕ С ВАРЕСОЙ С3, ЭТО ЛЮТАЯ ИМБА!\n\nЭНЕРГИЯ ЗА ЭТИ ЕШКИ НЕ ДАЁТСЯ!\n\n2205% ПРИБАВКА!!!!!"
+        "note": "УРОН УЛЕТАЕТ В КОСМОС. СТАНОВИТСЯ ЛУЧШИМ ПРЫГУНОМ ИГРЫ! ОНА НА С6 СИЛЬНЕЙ СЯО, И НА РАВНЕ С ВАРЕСОЙ С3, ЭТО ЛЮТАЯ ИМБА!\n\nЭНЕРГИЯ ЗА ЭТИ ЕШКИ НЕ ДАЁТСЯ!\n\n2205% ПРИБАВКА!!!!!",
+        "energy": null
       }
     }
   },
@@ -3493,37 +3991,43 @@
         "damage": "11%",
         "support": "-",
         "description": "ПО ОПИСАНИЮ НЕ ПОНЯТНО, А НА ДЕЛЕ УРОН ХОРОШО РАСТЁТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ДЕЛАЕТ БЕСКОНЕЧННЫЙ ЩИТ. ЕСЛИ ЕГО НЕ СБИТЬ ЗА 1 УДАР!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "3к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "В СРЕДНЕМ ЩИТ СТАНОВИТСЯ НА 3к ПРОЧНЕЕ"
+        "note": "В СРЕДНЕМ ЩИТ СТАНОВИТСЯ НА 3к ПРОЧНЕЕ",
+        "energy": null
       },
       "С4": {
         "damage": "5%",
         "support": "❌",
         "description": "КОНСТА МАКСИМАЛЬНО ПОЛЕЗНА В ТАЙЗЕРЕ",
-        "note": "МС ДАЛЕКО НЕ ВСЕГДА ДАЁТ ПРИБАВКУ ПАЧКАМ, С КОТОРЫМИ ИГРАЕТ ЛАНЬКА.\nНАПРИМЕР МОНО ПИРО!\n\nНО ДАЖЕ В ИДЕАЛЬНЫХ ПАЧКАХ, 80 МС МНОГО НЕ ДАСТ. УРОН ВЫРАСТИТ, МАКСИМУМ НА 5% КАЖДОМУ, НАПРИМЕР В ТАЙЗЕРЕ"
+        "note": "МС ДАЛЕКО НЕ ВСЕГДА ДАЁТ ПРИБАВКУ ПАЧКАМ, С КОТОРЫМИ ИГРАЕТ ЛАНЬКА.\nНАПРИМЕР МОНО ПИРО!\n\nНО ДАЖЕ В ИДЕАЛЬНЫХ ПАЧКАХ, 80 МС МНОГО НЕ ДАСТ. УРОН ВЫРАСТИТ, МАКСИМУМ НА 5% КАЖДОМУ, НАПРИМЕР В ТАЙЗЕРЕ",
+        "energy": null
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "53%",
         "support": "-",
         "description": "ВТОРАЯ ЕШКА ИМЕННО ДЛЯ ЛАНЬКИ ЭТО МЕГА ИМБА!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3535,37 +4039,43 @@
         "damage": "27%",
         "support": "-",
         "description": "УСИЛЯЕТ ТОЛЬКО 3 РАССЕИВАНИЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "12%",
         "description": "ЭЛЕМЕНТАЛКА РАСТЁТ ТОЛЬКО У КОМАНДЫ ВО ВРЕМЯ ЕШКИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "6%",
         "support": "-",
         "description": "ЕШКА ЕЩЁ РАССЕИВАНИЕ УСИЛЯЕТ. НО ЧАЩЕ ВСЕГО ТОЛЬКО НАМ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
-        "support": "20Е",
+        "support": "-",
         "description": "ДАЁТ БУКВАЛЬНО МЕГА ИГРАБЕЛЬНЫЙ ВЗРЫВ СТИХИЙ",
-        "note": "20Е В УЛЬТУ.\nА ТАК ЖЕ ХИЛЛ\\УДАР ОДНОВРЕМЕННО. ЧТО СЛОЖНО ПОДСЧИТАТЬ, НО ПРИБАВКА ТОЧНО ОЧЕНЬ ПОЛЕЗНАЯ!"
+        "note": "20Е В УЛЬТУ.\nА ТАК ЖЕ ХИЛЛ\\УДАР ОДНОВРЕМЕННО. ЧТО СЛОЖНО ПОДСЧИТАТЬ, НО ПРИБАВКА ТОЧНО ОЧЕНЬ ПОЛЕЗНАЯ!",
+        "energy": "20Е"
       },
       "С5": {
         "damage": "1%",
         "support": "4,2к",
         "description": "УРОН \\ ХИЛЛ НЕМНОГО РАСТЁТ",
-        "note": "ХИЛЛ РАСТЁТ НА 600 ЗА ТИК\nТИКОВ 7\nЕСЛИ ХИЛЛИТЬ СЕБЯ, ТО НА 1.2к"
+        "note": "ХИЛЛ РАСТЁТ НА 600 ЗА ТИК\nТИКОВ 7\nЕСЛИ ХИЛЛИТЬ СЕБЯ, ТО НА 1.2к",
+        "energy": null
       },
       "С6": {
         "damage": "28%",
         "support": "-",
         "description": "УРОН РАССЕИВ. РАСТЁТ ТОЛЬКО ВО ВРЕМЯ ЕШКИ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3577,37 +4087,43 @@
         "damage": "-",
         "support": "-",
         "description": "ПРОСТО ЛЮТЫЙ КРИНЖ БЕСПЛАТНОГО ПЕРСОНАЖА",
-        "note": "ТАКАЯ ЖЕ КОНСТА ЕСТЬ У ЭМБЕР И ТО БОЛЬШЕ ОТ ЕЁ ПОЛЬЗЫ, ХОТЬ ПО ФАКЕМ ПОПАТЬ ПРОЩЕ..."
+        "note": "ТАКАЯ ЖЕ КОНСТА ЕСТЬ У ЭМБЕР И ТО БОЛЬШЕ ОТ ЕЁ ПОЛЬЗЫ, ХОТЬ ПО ФАКЕМ ПОПАТЬ ПРОЩЕ...",
+        "energy": null
       },
       "С2": {
         "damage": "11%",
         "support": "6-11%",
         "description": "АНЕМО ПОРЕЗКА ЛАДНО, НО ПОДБРОСИТЬ...",
-        "note": "ОПЯТЬ В ЖЕ В МОНО АНЕМО БАФФАЕМ СЯО И ФАРУЗАН"
+        "note": "ОПЯТЬ В ЖЕ В МОНО АНЕМО БАФФАЕМ СЯО И ФАРУЗАН",
+        "energy": null
       },
       "С3": {
         "damage": "12%",
         "support": "-",
         "description": "СТЯЖКА НЕ СТАНОВИТСЯ СИЛЬНЕЙ!!!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "12%",
         "support": "-",
         "description": "ЧАСТИЦЫ ЛОВИМ ВСЕГДА, А ЗНАЧИТ РАБОТАЕТ НА ВЕСЬ НАШ УРОН",
-        "note": "НО ИНОГДА НЕ УСПЕВАЕМ СЛОВИТЬ ЧАСТИЦЫ ДО НАЖАТИЯ ЕШКИ. ИЗ-ЗА ЧЕГО ЕШКА БУДЕТ БЕЗ ЭТОГО БАФФА. НО ЭТО НЕ СТРАШНО! ВЕДЬ ЕШКА СОСТАВЛЯЕТ 15% ВСЕГО УРОНА ВЕНТИ. ПОЭТОМУ БЕЗ СТАБИЛЬНО ДАЁТ!"
+        "note": "НО ИНОГДА НЕ УСПЕВАЕМ СЛОВИТЬ ЧАСТИЦЫ ДО НАЖАТИЯ ЕШКИ. ИЗ-ЗА ЧЕГО ЕШКА БУДЕТ БЕЗ ЭТОГО БАФФА. НО ЭТО НЕ СТРАШНО! ВЕДЬ ЕШКА СОСТАВЛЯЕТ 15% ВСЕГО УРОНА ВЕНТИ. ПОЭТОМУ БЕЗ СТАБИЛЬНО ДАЁТ!",
+        "energy": null
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "12%",
         "support": "11-21%",
         "description": "ДЕБАФФ ДЛИТЬСЯ 10 сек. ПОСЛЕ ПОСЛЕДНЕГО УДАРА",
-        "note": "11% - ЭТО ЕСЛИ МЫ БАФФАЕТ ОДНОГО ПЕРСОНАЖА.\n21% - ЕСЛИ ДВОИХ. НАПРИМЕР СЯО И ФАРУЗАН | АРЛЕКИНО И СЯНКА и тд.\n\nСАМ ПО СЕБЕ ДЕБАФФ ДЛИТЬСЯ 10 сек. И АКТИВИРУЕТСЯ ОТ КАЖДОГО АНЕМО\\ПОГЛОЩЁННОГО ТИКА!\nЭТО ЗНАЧИТ УЛЬТ 8 сек. + 10 сек. = 18 сек. ДЛИТЕЛЬНОСТЬ ПОРЕЗКИ. НО! НО! НО!\nС КАРМАНА ПОРЕЗКА НЕ РАБОТАЕТ, А ЗНАЧИТ ДЛИТЬСЯ ДЕБАФФ ТАК ЖЕ 10 сек. КАК И ТЕНЬ. ВОТ ТАКИЕ ДЕЛА"
+        "note": "11% - ЭТО ЕСЛИ МЫ БАФФАЕТ ОДНОГО ПЕРСОНАЖА.\n21% - ЕСЛИ ДВОИХ. НАПРИМЕР СЯО И ФАРУЗАН | АРЛЕКИНО И СЯНКА и тд.\n\nСАМ ПО СЕБЕ ДЕБАФФ ДЛИТЬСЯ 10 сек. И АКТИВИРУЕТСЯ ОТ КАЖДОГО АНЕМО\\ПОГЛОЩЁННОГО ТИКА!\nЭТО ЗНАЧИТ УЛЬТ 8 сек. + 10 сек. = 18 сек. ДЛИТЕЛЬНОСТЬ ПОРЕЗКИ. НО! НО! НО!\nС КАРМАНА ПОРЕЗКА НЕ РАБОТАЕТ, А ЗНАЧИТ ДЛИТЬСЯ ДЕБАФФ ТАК ЖЕ 10 сек. КАК И ТЕНЬ. ВОТ ТАКИЕ ДЕЛА",
+        "energy": null
       }
     }
   },
@@ -3619,37 +4135,43 @@
         "damage": "-",
         "support": "-",
         "description": "12 ЭНЕРГИИ В РОТАЦИЮ, ИНОГДА 18!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "4%",
         "support": "5-15%",
         "description": "ЕСЛИ ИГРАЕМ В ФУЛЛ ЗАРЯЖКИ. ТО КАЖДЫЙ ПОЛУЧИТ БАФФ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "9%",
         "support": "-",
         "description": "ХИЛЛ СЛАБЫЙ, ПОЭТОМУ ПРИБАВКИ МИЗЕРНАЯ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "2.5%",
         "support": "-",
         "description": "ОЧЕНЬ СЛАБАЯ ПРИБАВКА ВСЕГО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "13%",
         "support": "-",
         "description": "КАЖДЫЙ ВТОРОЙ ВЫСТРЕЛ В ЕШКЕ ДОП. ПУЛЕЙ СТРЕЛЯЕТ",
-        "note": "ТАК ЖЕ ДАЁТ ХОРОШУЮ ПРИБАВКУ В ПЕРЕМЕЩЕНИИ В МИРЕ. ЗА ЧТО БОЛЬШОЙ РЕСПЕКТ!\n\nКАЖДЫЙ ВЫСТРЕЛ С6 ТАК ЖЕ ХИЛЛИТ КАК И ОБЫЧНЫЕ ПУЛИ! ПО 300 ХП"
+        "note": "ТАК ЖЕ ДАЁТ ХОРОШУЮ ПРИБАВКУ В ПЕРЕМЕЩЕНИИ В МИРЕ. ЗА ЧТО БОЛЬШОЙ РЕСПЕКТ!\n\nКАЖДЫЙ ВЫСТРЕЛ С6 ТАК ЖЕ ХИЛЛИТ КАК И ОБЫЧНЫЕ ПУЛИ! ПО 300 ХП",
+        "energy": null
       }
     }
   },
@@ -3661,37 +4183,43 @@
         "damage": "32%",
         "support": "-",
         "description": "УДАР РИКОШЕТИТ И ПО ОДНОЙ ЦЕЛЕ! В СРЕДНЕМ БУДЕТ 15 УДАРОВ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ЧАЩЕ ВСЕГО НУЖНЫ ДЛЯ БОНУСА ХИЛЛА ПОД ФУРИНОЙ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "3%",
         "support": "15к",
         "description": "ПРОСТО ДОП ХИЛЛ",
-        "note": "15к ХИЛА ОТ УЛЬТЫ ДОПОМ"
+        "note": "15к ХИЛА ОТ УЛЬТЫ ДОПОМ",
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "8Е\\12Е В СРЕДНЕМ! НА САМОМ ДЕЛЕ МАЛОВАТО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "20%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "26%",
         "support": "-",
         "description": "БАФФ РАБОТАЕТ НА ВСЮ ПАЧКУ И ДАЖЕ БЕЗ ФУЛЛ ЗАПОЛНЕНИЯ",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3703,37 +4231,43 @@
         "damage": "-",
         "support": "0.5",
         "description": "СТОЙКА ДЛИТЬСЯ ДОЛЬШЕ. А ТАК ЖЕ СТОЙКОСТЬ В САП СТОЙКЕ",
-        "note": "ЭТО СИЛА СТОЙКОСТИ ОТ С1\nСТОЛЬКО ЖЕ ДАЁТ БЭЙ ДОУ С УЛЬТЫ"
+        "note": "ЭТО СИЛА СТОЙКОСТИ ОТ С1\nСТОЛЬКО ЖЕ ДАЁТ БЭЙ ДОУ С УЛЬТЫ",
+        "energy": null
       },
       "С2": {
         "damage": "22%",
         "support": "25-50%",
         "description": "25% - ЭТО МИНИМУМ 1 ПЕРСОНАЖ ПОЛУЧАЕТ ПОЛЬЗУ",
-        "note": "ПРИБАВКЕ СЕБЕ В РАСЧЁТ НЕ ИДЁТ!"
+        "note": "ПРИБАВКЕ СЕБЕ В РАСЧЁТ НЕ ИДЁТ!",
+        "energy": null
       },
       "С3": {
         "damage": "6%",
         "support": "6-18%",
         "description": "6% - ОДИН ДД \\ 18% - ТРИ ДД (НАПРИМЕР + 2 КАРМАНА)",
-        "note": "ВАЖНО ПОМНИТЬ, ЧТО МЫ НЕ ВСЕ СТИХИИ РЕЖЕМ!"
+        "note": "ВАЖНО ПОМНИТЬ, ЧТО МЫ НЕ ВСЕ СТИХИИ РЕЖЕМ!",
+        "energy": null
       },
       "С4": {
         "damage": "16%",
         "support": "12%",
         "description": "ПО ИДЕЕ ЭТО КАЖДОМУ 12%. НО МЫ БУДЕМ ТОЛЬКО ДД БИТЬ",
-        "note": "БАФФ КАЖДОМУ ДАЁТ 6 СТАКОВ. КОТОРЫЕ ДАЮТ ПРИМЕРНО 40-50к ПРИБАВКИ. ЕСЛИ ПРЯМ ПОЛНОСТЬЮ ТРАТИТЬ СТАКИ. \n\nНО ДАЛЕКО НЕ ВСЕГДА ПОЛУЧАЕТСЯ ТЕМИ ЖЕ САПАМИ СДЕЛАТЬ ХОТЯ БЫ БОЛЬШЕ 1 УДАРА. КОРОЧЕ ПРИБАВКА ИНТРЕСНАЯ, НО СЛОЖНО РЕАЛИЗУЕМА"
+        "note": "БАФФ КАЖДОМУ ДАЁТ 6 СТАКОВ. КОТОРЫЕ ДАЮТ ПРИМЕРНО 40-50к ПРИБАВКИ. ЕСЛИ ПРЯМ ПОЛНОСТЬЮ ТРАТИТЬ СТАКИ. \n\nНО ДАЛЕКО НЕ ВСЕГДА ПОЛУЧАЕТСЯ ТЕМИ ЖЕ САПАМИ СДЕЛАТЬ ХОТЯ БЫ БОЛЬШЕ 1 УДАРА. КОРОЧЕ ПРИБАВКА ИНТРЕСНАЯ, НО СЛОЖНО РЕАЛИЗУЕМА",
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "10к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "ХИЛЛ СТАНЕТ СУММАРНО ДАВАТЬ НА 10к БОЛЬШЕ"
+        "note": "ХИЛЛ СТАНЕТ СУММАРНО ДАВАТЬ НА 10к БОЛЬШЕ",
+        "energy": null
       },
       "С6": {
         "damage": "65%",
         "support": "3.5к",
         "description": "МАСС ХИЛЛ ИМБА! И ПРИБАВКА К НАШЕМУ УРОНУ НЕ ХУЖЕ",
-        "note": "МАССОВЫЙ ХИЛЛ КАЖДОМУ ПО 3.5к ТРИ РАЗА. ОДИН РАЗ В 15 сек."
+        "note": "МАССОВЫЙ ХИЛЛ КАЖДОМУ ПО 3.5к ТРИ РАЗА. ОДИН РАЗ В 15 сек.",
+        "energy": null
       }
     }
   },
@@ -3745,37 +4279,43 @@
         "damage": "-",
         "support": "-",
         "description": "18 ЭНЕРГИ и 6 сек. КД ЗВУЧИТ ВКУСНО, НО НА ДЕЛЕ БЕСПОЛЕЗНО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "12%",
         "support": "-",
         "description": "ВЫГЛЯДИТ ПОЛЕЗНО, НО НА ДЕЛЕ ЗАБАЛАНСИТЬ СЛОЖНО...",
-        "note": "НЕ ЗАБЫВАЙТЕ, ЧТО НА С4 УЛЬТА АКТИВИРУЕТ ПОРЕЗКУ, ПРИГОЖДАЕТСЯ, КОГДА ЗАБЫЛИ НАЖАТЬ УЛЬТУ!"
+        "note": "НЕ ЗАБЫВАЙТЕ, ЧТО НА С4 УЛЬТА АКТИВИРУЕТ ПОРЕЗКУ, ПРИГОЖДАЕТСЯ, КОГДА ЗАБЫЛИ НАЖАТЬ УЛЬТУ!",
+        "energy": null
       },
       "С3": {
         "damage": "13%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "12%",
         "support": "12%",
         "description": "БЫЛО БЫ ПОЛЕЗНЕЙ, ЕСЛИ БЫ ВТОРОЙ ГЕО БЫЛ ТОЖЕ ДД",
-        "note": "ПАССИВКА СЕБЯ КРУТО ПОКАЗЫВАЕТ, ТОЛЬКО ВМЕСТЕ С ТИОРИ И ТО ПОЛУЧАЕТСЯ С1..."
+        "note": "ПАССИВКА СЕБЯ КРУТО ПОКАЗЫВАЕТ, ТОЛЬКО ВМЕСТЕ С ТИОРИ И ТО ПОЛУЧАЕТСЯ С1...",
+        "energy": null
       },
       "С5": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "32%",
         "support": "-",
         "description": "ОПЯТЬ ЖЕ НА БУМАГЕ КРУТО, НА ДЕЛЕ ТОЛКУ МАЛО КАК ОТ С6",
-        "note": "Я ТАК ПОНИМАЮ, ЭТА КОНСТА ЗАТОЧЕНА КАК РАЗ НА ТО ЧТО МЫ ПРЯМ РЕАЛЬНО ГЕО САП ДД!\n\nА ЧЕГО? С4 РЕЖЕТ, ЕШКИ ВЫДАЛ БЫСТРО, УЛЬТ ОБНОВИЛ!"
+        "note": "Я ТАК ПОНИМАЮ, ЭТА КОНСТА ЗАТОЧЕНА КАК РАЗ НА ТО ЧТО МЫ ПРЯМ РЕАЛЬНО ГЕО САП ДД!\n\nА ЧЕГО? С4 РЕЖЕТ, ЕШКИ ВЫДАЛ БЫСТРО, УЛЬТ ОБНОВИЛ!",
+        "energy": null
       }
     }
   },
@@ -3787,37 +4327,43 @@
         "damage": "-",
         "support": "-",
         "description": "УРОН НЕ РАСТЁТ, ЛИШЬ ГИБКОСТЬ И УДОБСТВО",
-        "note": "НА САМОМ ДЕЛЕ НЕ ТАК МНОГО ПАЧЕК ДАЁТ...\nВЕДЬ И НА БАЗОВОМ УРОВНЕ САППОРТОВ ПОД ЁЁ ХВАТАЕТ"
+        "note": "НА САМОМ ДЕЛЕ НЕ ТАК МНОГО ПАЧЕК ДАЁТ...\nВЕДЬ И НА БАЗОВОМ УРОВНЕ САППОРТОВ ПОД ЁЁ ХВАТАЕТ",
+        "energy": null
       },
       "С2": {
         "damage": "28%",
         "support": "-",
         "description": "УРОН СИЛЬНО РАСТЁТ, ОСТАЛОСЬ ТОЛЬКО УЛЬТ НАЖИМАТЬ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "20%",
         "support": "-",
         "description": "УРОН РАСТЁТ У ВСЕХ КУКЛ И П1 ТОЖЕ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "33%",
         "support": "-",
         "description": "КАК С2, ТОЛЬКО РАБОТАЕТ СТАБИЛЬНЕЙ И ДАЁТ БОЛЬШЕ ИЗ-ЗА С3",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "84%",
         "support": "-",
         "description": "КОНСТА НЕОБЫЧНАЯ, ВЕДЬ ПО ФАКТУ ИНФУЗИЦИЯ ТЕПЕРЬ ВЕЧНА",
-        "note": "45% ЭТО ПРИБАВКА ВСЕГО ОДНОЙ СЕРИИ УДАРОВ 3 по 2\nТО ЕСТЬ 3 УДАРА ДЭШ 3 УДАРА.\nА ДАЛЬШЕ МЫ ПРОСТО ПЕРЕКЛЮЧАЕМСЯ ОПЯТЬ ЕШКОЙ И ДАМАЖИМ ЖОСКО С КАРМАНА.\nОСТАЛЬНЫЕ 40% ЭТО ПРОДЛЕНИЕ КАРМАНА!"
+        "note": "45% ЭТО ПРИБАВКА ВСЕГО ОДНОЙ СЕРИИ УДАРОВ 3 по 2\nТО ЕСТЬ 3 УДАРА ДЭШ 3 УДАРА.\nА ДАЛЬШЕ МЫ ПРОСТО ПЕРЕКЛЮЧАЕМСЯ ОПЯТЬ ЕШКОЙ И ДАМАЖИМ ЖОСКО С КАРМАНА.\nОСТАЛЬНЫЕ 40% ЭТО ПРОДЛЕНИЕ КАРМАНА!",
+        "energy": null
       }
     }
   },
@@ -3826,40 +4372,46 @@
     "element": "💎",
     "constellations": {
       "С1": {
-        "damage": "9Е",
+        "damage": "-",
         "support": "-",
         "description": "9Е ЗА РОТАЦИЮ ПО ИДЕЕ ДАСТ! ДАЙ БОГ... ПЛЮС СТЯЖКА💎",
-        "note": null
+        "note": null,
+        "energy": "9Е"
       },
       "С2": {
         "damage": "20%",
         "support": "-",
         "description": "ПОЛУЧАЕМ ДОП. УДАРЫ, КАК С КАРМАНА, ТАК И НА ПОЛЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "13%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "5%",
         "support": "3%",
         "description": "ЛЕГКИЙ БАФФ ЗАЩИТЫ...",
-        "note": "ДАЁТ 3% ОДНОМУ ПЕРСОНАЖУ ОТ ЗАЩИТЫ!"
+        "note": "ДАЁТ 3% ОДНОМУ ПЕРСОНАЖУ ОТ ЗАЩИТЫ!",
+        "energy": null
       },
       "С5": {
         "damage": "9%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "36%",
         "support": "-",
         "description": "ГЕО АТЕИСТЫ?! КАК ВАМ? КРИССТАЛЫ ДАМАЖАТ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3871,37 +4423,43 @@
         "damage": "-",
         "support": "-",
         "description": "ВАУ! КД ЕШКИ?! СПАСИБО КИТАЙЦЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "5%",
         "description": "ЛЕГКИЙ БАФФ НЕ ИНАЧЕ...",
-        "note": "1,5% ПРИБАВКИ ДД НАШЕМУ"
+        "note": "1,5% ПРИБАВКИ ДД НАШЕМУ",
+        "energy": null
       },
       "С3": {
         "damage": "8%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "1.5%",
         "description": "У НАС УЛЬТ ОТ СА, ИЗ-ЗА ЧЕГО УРОН НЕ РАСТЁТ...",
-        "note": "РАСТЁТ НАША ЗАЩИТЫ, РАСТЁТ И БАФФ С УЛЬТЫ!\n1,5% ПРИБАВКИ ДД НАШЕМУ"
+        "note": "РАСТЁТ НАША ЗАЩИТЫ, РАСТЁТ И БАФФ С УЛЬТЫ!\n1,5% ПРИБАВКИ ДД НАШЕМУ",
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "3%",
         "description": "НЕМНОГО ЛУЧШЕ БАФФ",
-        "note": "1,5% ПРИБАВКИ ДД НАШЕМУ"
+        "note": "1,5% ПРИБАВКИ ДД НАШЕМУ",
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "❌",
         "description": "ПРОСТО ХОРОШИЙ БАФФ! НО УЖЕ СЛАБОВАТ ПО МЕРКАМ МЕТЫ...",
-        "note": "СКОРОСТЬ АТАКИ ВСЕМ ДАЁТ ПО РАЗНОМУ. КОМУ-ТО МНОГО. КОМУ-ТО КОПЕЙКИ.\nКАК ПОВЕЗЁТ!"
+        "note": "СКОРОСТЬ АТАКИ ВСЕМ ДАЁТ ПО РАЗНОМУ. КОМУ-ТО МНОГО. КОМУ-ТО КОПЕЙКИ.\nКАК ПОВЕЗЁТ!",
+        "energy": null
       }
     }
   },
@@ -3913,37 +4471,43 @@
         "damage": "-",
         "support": "-",
         "description": "-2 сек. КД ЕШКИ? ЗВУЧИТ СИЛЬНО! В МЕЧТАХ РАЗРАБ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "21%",
         "support": "-",
         "description": "УЛЬТ 12 сек.? И ТО ДАЙ БОГ! ВЕДЬ НАДО НЕ МОНО ГЕО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "2%",
         "support": "1%",
         "description": "ТОЛКУ ОТ ЛВЛ МАЛО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "7к",
         "description": "ПРОСТО ПРИЯТНЫЙ ДОП. ХИЛ! ГДЕ ПЕРСОНАЖИ И ТАК ФУЛЛ ЗАЩИТА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "16%%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "26%",
         "support": "10%",
         "description": "БАФФ НА КРИТ. РАБОТАЕТ НА ВСЮ ПАЧКУ!",
-        "note": "10% ЭТО ПРИБАВКА ОДНОМУ ГЕО ПЕРСОНАЖУ!"
+        "note": "10% ЭТО ПРИБАВКА ОДНОМУ ГЕО ПЕРСОНАЖУ!",
+        "energy": null
       }
     }
   },
@@ -3955,37 +4519,43 @@
         "damage": "❌",
         "support": "-",
         "description": "КОНСТА НЕ ДЛЯ ВСЕХ! КОМУ-ТО ПОМОГАЕТ, КОМУ-ТО ТАКОЕ...",
-        "note": "АБСОЛЮТНО У ВСЕХ ПОКАЗЫВАЕТ РАЗНУЮ ПОЛЬЗУ. ОПЯТЬ ЖЕ ЗАВИСИТ ОТ ИГРОКА!"
+        "note": "АБСОЛЮТНО У ВСЕХ ПОКАЗЫВАЕТ РАЗНУЮ ПОЛЬЗУ. ОПЯТЬ ЖЕ ЗАВИСИТ ОТ ИГРОКА!",
+        "energy": null
       },
       "С2": {
-        "damage": "18Е",
+        "damage": "-",
         "support": "-",
         "description": "ЭНЕРГИЯ НАДО 100%, А ОТ КД КОНЕЧНО ТАКОЕ СЕБЕ... НУ ЛАДНО!",
-        "note": null
+        "note": null,
+        "energy": "18Е"
       },
       "С3": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "7%",
         "support": "7%",
         "description": "БАФФ РАБОТАЕТ ТОЛЬКО НА 2ю РОТАЦИЮ. ЗАЩИТУ МЫ ФИКСИРУЕМ!",
-        "note": "В СРЕДНЕМ БАФФАЕТ НА 7% КАЖДОГО, КОМУ НУЖНЫ СА И ЗЩ. НО ОПЯТЬ ЖЕ ДЛИТЬСЯ НЕ ВЕЧНО И РАБОТАЕТ, ТОЛЬКО НА 2ю РОТАЦИЮ!"
+        "note": "В СРЕДНЕМ БАФФАЕТ НА 7% КАЖДОГО, КОМУ НУЖНЫ СА И ЗЩ. НО ОПЯТЬ ЖЕ ДЛИТЬСЯ НЕ ВЕЧНО И РАБОТАЕТ, ТОЛЬКО НА 2ю РОТАЦИЮ!",
+        "energy": null
       },
       "С5": {
         "damage": "12%",
         "support": "-",
         "description": "РАСТЁТ УРОН ВСЕГО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "51%",
         "support": "-",
         "description": "РОТАЦИЯ БУДЕТ ДОЛЬШЕ! ВЕДЬ ЭТО КАЗИНО НЕЛЬЗЯ ОСТАНОВИТЬ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -3994,40 +4564,46 @@
     "element": "💎",
     "constellations": {
       "С1": {
-        "damage": "12Е",
+        "damage": "-",
         "support": "-",
         "description": "12Е ПРИБАВКА ПРИЯТНАЯ! ХОТЯ БЫ УЛЬТ НАЖМЁМ...",
-        "note": null
+        "note": null,
+        "energy": "12Е"
       },
       "С2": {
         "damage": "13%",
         "support": "-",
         "description": "СТАКИ ЛЕГКО НАБРАТЬ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "25%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "9%",
         "description": "БАФФ СЯО? ИЛИ МНЕ НА КЛИ ПРЫГАТЬ?",
-        "note": "БАФФ АКТИВНОГО ПРЫГУНА"
+        "note": "БАФФ АКТИВНОГО ПРЫГУНА",
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "3%",
         "support": "7%",
         "description": "СПОРНО! ОХ КАК СПОРНО! СТАБИЛЬНОСТЬ ПОД ВОПРОСОМ...",
-        "note": "ВЕРИМ ЧТО БАФФ СТАБИЛЬНЫЙ!\nЗАФИКСИРОВАТЬ ЕГО НЕВОЗМОЖНО! СНЕП-ШОТОМ НАПРИМЕР!\n\nКОРОЧЕ БАФФ 1 ПЕРСА ЗАЧАСТУЮ..."
+        "note": "ВЕРИМ ЧТО БАФФ СТАБИЛЬНЫЙ!\nЗАФИКСИРОВАТЬ ЕГО НЕВОЗМОЖНО! СНЕП-ШОТОМ НАПРИМЕР!\n\nКОРОЧЕ БАФФ 1 ПЕРСА ЗАЧАСТУЮ...",
+        "energy": null
       }
     }
   },
@@ -4039,37 +4615,43 @@
         "damage": "9%",
         "support": "-",
         "description": "ЧУТЬ ЧАЩЕ БУДЕТ БИТЬ СТЕЛЛА! +АКТИВАЦИЯ МИЛЕЛЛИТА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "КООП В 1.1 ПРОЦВЕТАЛ ВИДИМО? РАЗ ТУТ ТАКОЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "5.5%",
         "support": "2,2к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "ЩИТ КРЕПЧЕ НА 2.2к"
+        "note": "ЩИТ КРЕПЧЕ НА 2.2к",
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "РАДИУС, КОТОРЫЙ И ТАК НЕ МАЗАЛ. И СТАН КОТОРЫЙ НЕ РАБОТАЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "9%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "ХИЛ ТАМ НЕ БОЛЬШОЙ... А ЧТО ВАЖНЕЙ, А КТО ЩИТ СБИТЬ МОЖЕТ?",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4081,37 +4663,43 @@
         "damage": "-",
         "support": "-",
         "description": "ЧТО? КОГО МАССОВЫЙ? ЭТО КУДА?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "15%",
         "support": "-",
         "description": "ЭНЕРГИИ БОЛЬШЕ НЕ ДАСТ! ТАМ КД ПОЛУЧЕНИЯ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "11%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "ХАХААХ! СЮДА ЭТИ РЕЗИСТЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "16%",
         "support": "-",
         "description": "НЕ ПЛОХО, НО КАК МОЖНО УВИДЕТЬ ПО % НЕ ТАК И МНОГО ДАЁТ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4123,37 +4711,43 @@
         "damage": "-",
         "support": "-",
         "description": "СТАБИЛЬНЫЙ ХИЛ, НУ ЛАДНО... БАЗОВАЯ МЕХАНИКА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ЗАРЯЖКА НЕ ДЛЯ НАС...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "1%",
         "support": "1,5к",
         "description": "ЩИТ ЧУТЬ КРЕПЧЕ + НЕМНОГО ХИЛА!",
-        "note": "ЩИТ СИЛЬНЕЙ НА 1,5к"
+        "note": "ЩИТ СИЛЬНЕЙ НА 1,5к",
+        "energy": null
       },
       "С4": {
         "damage": "13%",
         "support": "-",
         "description": "В ЦЕЛОМ ПОПАСТЬ ЛЕГКО",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "11%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "35%",
         "support": "-",
         "description": "ТЕПЕРЬ МОЖНО ИГРАТЬ КАК ДД!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4165,37 +4759,43 @@
         "damage": "6%",
         "support": "8%",
         "description": "РАБОТАЕТ НА ВСЮ ПАЧКУ! СЛОМ СТЕНЫ БАФФ НЕ СНИМАЕТ!",
-        "note": "ЛЮБОЙ ДД ПОЛУЧАЕТСЯ 8% ПРИБАВКИ"
+        "note": "ЛЮБОЙ ДД ПОЛУЧАЕТСЯ 8% ПРИБАВКИ",
+        "energy": null
       },
       "С2": {
         "damage": "61%",
         "support": "-",
         "description": "КОГДА-ТО ЕШКА ДОСТАНЕТ ВРАГА! КОГДА-ТО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "13%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
-        "damage": "5Е",
+        "damage": "-",
         "support": "-",
         "description": "5Е НЕ БУДЕТ ЛИШНИМ! ПРОТИВ ТОЛПЫ ИЗИ УЛЬТ!",
-        "note": null
+        "note": null,
+        "energy": "5Е"
       },
       "С5": {
         "damage": "17%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "-",
         "support": "-",
         "description": "ЧИСТО БАФФ ДЛЯ С1 И НЕ БОЛЕЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4207,37 +4807,43 @@
         "damage": "20%",
         "support": "-",
         "description": "БАФФ В МИРЕ НА САМОМ ДЕЛЕ ОЧЕНЬ ДАЖЕ ПОЛЕЗНЫЙ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "41%",
         "support": "22%",
         "description": "СИЛЬНАЯ ПРИБАВКА КАК СЕБЕ, ТАК И ВТОРОМУ ДЕНДРО!",
-        "note": "ОДНОМУ ДЕНДРО ПЕРСОНАЖУ.\nВ ТРИПЛ ДЕНДРО МЫ НЕ ИГРАЕМ!\n\nС ДРЕМУЧКОЙ ПРИБАВКА БУДЕТ 13%\n\nБЕЗ ДРЕМУЧКИ 22%"
+        "note": "ОДНОМУ ДЕНДРО ПЕРСОНАЖУ.\nВ ТРИПЛ ДЕНДРО МЫ НЕ ИГРАЕМ!\n\nС ДРЕМУЧКОЙ ПРИБАВКА БУДЕТ 13%\n\nБЕЗ ДРЕМУЧКИ 22%",
+        "energy": null
       },
       "С3": {
         "damage": "22%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "7%",
         "support": "-",
         "description": "В СРЕДНЕМ ДАЁТ 20Е, ЧТО МЕГА МНОГО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "72%",
         "support": "-",
         "description": "РИКОШЕТ РАБОТАЕТ И В ОДНУ ЦЕЛЬ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4249,37 +4855,43 @@
         "damage": "38.5%",
         "support": "-",
         "description": "ПРИБАВКА ДИКАЯ! КОНСТА МЕГА ПОЛЕЗНАЯ И СИЛЬНАЯ!",
-        "note": "НА САМОМ ДЕЛЕ ПРО С1 МОЖНО ГОВОРИТЬ ОЧЕНЬ ДОЛГО!\n\n1.ТЕПЕРЬ НАЖИМАТЬ УЛЬТУ НЕ ВЫГОДНО ДО С4\n2.ПУШКА НАЧИНАЕТ В 2 РАЗА ЧАЩЕ СТРЕЛЯТЬ\n3. ИГРАТЬ В ЦВЕТЕНИЕ СТАЛО ПРОЩЕ\n\nКОРОЧЕ ОДНИ ПЛЮСЫ!\nМОГУ СПОКОЙНО НАЗВАТЬ КОНСТУ КЛЮЧЕВОЙ!\nЛУЧШЕ СИГНЫ 100%"
+        "note": "НА САМОМ ДЕЛЕ ПРО С1 МОЖНО ГОВОРИТЬ ОЧЕНЬ ДОЛГО!\n\n1.ТЕПЕРЬ НАЖИМАТЬ УЛЬТУ НЕ ВЫГОДНО ДО С4\n2.ПУШКА НАЧИНАЕТ В 2 РАЗА ЧАЩЕ СТРЕЛЯТЬ\n3. ИГРАТЬ В ЦВЕТЕНИЕ СТАЛО ПРОЩЕ\n\nКОРОЧЕ ОДНИ ПЛЮСЫ!\nМОГУ СПОКОЙНО НАЗВАТЬ КОНСТУ КЛЮЧЕВОЙ!\nЛУЧШЕ СИГНЫ 100%",
+        "energy": null
       },
       "С2": {
         "damage": "30%",
         "support": "22%",
         "description": "БЕЗ ДРЕМУЧКИ БАФФ ЛУЧШЕ! НО ДРЕМУЧКА ЕСТЬ ВСЕГДА...",
-        "note": "30% БЕЗ ДРЕМУЧКА\n18,5% С ДРЕМУЧКОЙ"
+        "note": "30% БЕЗ ДРЕМУЧКА\n18,5% С ДРЕМУЧКОЙ",
+        "energy": null
       },
       "С3": {
         "damage": "10%",
         "support": "-",
         "description": "УРОН ПУШКИ С П1 НЕ РАСТЁТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "31%",
         "support": "-",
         "description": "ОЧЕНЬ ПОЛЕЗНАЯ КОНСТА! НО ПУШКА РЕЖЕ СТРЕЛЯЕТ...",
-        "note": "ПОЭТОМУ 31% ЭТО ПРИ ЛУЧШИХ РАССКЛАДАХ! ТАК-ТО МОЖЕТ И МЕНЬШЕ БЫТЬ!"
+        "note": "ПОЭТОМУ 31% ЭТО ПРИ ЛУЧШИХ РАССКЛАДАХ! ТАК-ТО МОЖЕТ И МЕНЬШЕ БЫТЬ!",
+        "energy": null
       },
       "С5": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "61%",
         "support": "-",
         "description": "В ЦЕЛОМ ПРИБАВКА ХОРОШАЯ, НО УДАРОВ МАЛОВАТО...",
-        "note": "НЕ ЗАБЫВАЕМ ЧТО КОЛИЧЕСТВО УДАРОВ ПУШКИ РАСТЁТ!"
+        "note": "НЕ ЗАБЫВАЕМ ЧТО КОЛИЧЕСТВО УДАРОВ ПУШКИ РАСТЁТ!",
+        "energy": null
       }
     }
   },
@@ -4291,37 +4903,43 @@
         "damage": "1.5%",
         "support": "6.5%",
         "description": "ВЫНОСЛИВОСТЬ ДАЁТ МНОГО, ДЕНДРО БОНУС ТОЖЕ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
-        "damage": "15Е",
+        "damage": "-",
         "support": "-",
         "description": "ПРОЩЕ НАЖИМАТЬ УЛЬТ",
-        "note": null
+        "note": null,
+        "energy": "15Е"
       },
       "С3": {
         "damage": "1%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "4.5%",
         "support": "-",
         "description": "ПРИБАВКА ХОТЬ И САМАЯ БОЛЬШАЯ, НО ВСЁ РАВНО МИЗЕР",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "2%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "1.5%",
         "support": "-",
         "description": "СТАТУС + ХИЛЛ = ОЧЕНЬ ПОЛЕЗНАЯ КОНСТА. 1 СС ЗА УДАР",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4333,37 +4951,43 @@
         "damage": "21%",
         "support": "-",
         "description": "ДОП. СТАТУ И УРОН. ТАКОЙ НЕДО С4",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "-",
         "support": "-",
         "description": "ВАУ! КООП ЩИТ! СПАСИБО ЗА БАЗОВУЮ МЕХАНИКУ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "2%",
         "support": "3к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "ЩИТ КРЕПЧЕ НА 3к"
+        "note": "ЩИТ КРЕПЧЕ НА 3к",
+        "energy": null
       },
       "С4": {
         "damage": "42%",
         "support": "-",
         "description": "3 ДОП. УДАРА С КАРМАНА = ХОРОШИЙ СТАТУС! (1 СС УДАР)",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "11%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "16%",
         "support": "5%",
         "description": "СТАБИЛЬНЫЙ БАФФ СЕБЕ И ВСЕЙ ПАЧКЕ!",
-        "note": "УРОН ПЕРСОНАЖЕЙ ОТ СВОЕГО УРОНА РАСТЁТ НА 5%\n\nЕСЛИ САП ИЛИ ФУЛЛ МС ПЕРСОНАЖ. ТО ДАЖЕ 1% ПРИБАВКИ НЕ БУДЕТ..."
+        "note": "УРОН ПЕРСОНАЖЕЙ ОТ СВОЕГО УРОНА РАСТЁТ НА 5%\n\nЕСЛИ САП ИЛИ ФУЛЛ МС ПЕРСОНАЖ. ТО ДАЖЕ 1% ПРИБАВКИ НЕ БУДЕТ...",
+        "energy": null
       }
     }
   },
@@ -4375,37 +4999,43 @@
         "damage": "28%",
         "support": "36к",
         "description": "ДВЕ ЕШКИ ЭТО ВСЕГДА ХОРОШО!",
-        "note": "9к ХИЛ ОДНОМУ\nВСЕГО 36к ВСЕМ"
+        "note": "9к ХИЛ ОДНОМУ\nВСЕГО 36к ВСЕМ",
+        "energy": null
       },
       "С2": {
         "damage": "48.5%",
         "support": "6к",
         "description": "С2 СЧИТАЕТСЯ ЕШКА, А ЗНАЧИТ МОЖНО МИЛЛЕТ ТЕПЕРЬ НОСИТЬ!",
-        "note": "ХИЛ ТАМ КОНЕЧНО НЕ БОЛЬШОЙ!\n2к ЗА ТИК"
+        "note": "ХИЛ ТАМ КОНЕЧНО НЕ БОЛЬШОЙ!\n2к ЗА ТИК",
+        "energy": null
       },
       "С3": {
         "damage": "13%",
         "support": "7,2к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "1,2к ДОП ХИЛЛ В УЛЬТ ЗА ТИК\n7,2к ХИЛА ВСЕГО АКТИВНОМУ\n\nТАМ ЕЩЁ ЩИТ ЕСТЬ! ВОТ!\nНО... ТАМ ПРОЧНОСТЬ НАСТОЛЬКО МАЛЕНЬКАЯ, ЧТО НЕ ЧУСТВУЕШЬ БАФФ..."
+        "note": "1,2к ДОП ХИЛЛ В УЛЬТ ЗА ТИК\n7,2к ХИЛА ВСЕГО АКТИВНОМУ\n\nТАМ ЕЩЁ ЩИТ ЕСТЬ! ВОТ!\nНО... ТАМ ПРОЧНОСТЬ НАСТОЛЬКО МАЛЕНЬКАЯ, ЧТО НЕ ЧУСТВУЕШЬ БАФФ...",
+        "energy": null
       },
       "С4": {
         "damage": "1%",
         "support": "8%",
         "description": "БАФФ ПОСЛЕ УЛЬТЫ. ХОТЬ И СЛАБОВАТ КАК ДЛЯ ЛЕГЫ...",
-        "note": "8% ДЛЯ НАХИДЫ И ХАЙТАМА!\nДЛЯ ОБЫЧНЫХ ПЕРСОНАЖЕЙ 4% ПРИБАВКИ ПРИМЕРНО!\nКАЖДОМУ!"
+        "note": "8% ДЛЯ НАХИДЫ И ХАЙТАМА!\nДЛЯ ОБЫЧНЫХ ПЕРСОНАЖЕЙ 4% ПРИБАВКИ ПРИМЕРНО!\nКАЖДОМУ!",
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "16к",
         "description": "УСЛОВИЙ НЕТ",
-        "note": "2к ХИЛА + К ЕШКЕ\nТЕПЕРЬ 8к ВСЕМ\nВСЕГО 16к ВЕДЬ ДВЕ ЕШКИ"
+        "note": "2к ХИЛА + К ЕШКЕ\nТЕПЕРЬ 8к ВСЕМ\nВСЕГО 16к ВЕДЬ ДВЕ ЕШКИ",
+        "energy": null
       },
       "С6": {
         "damage": "89%",
         "support": "-",
         "description": "ТЕПЕРЬ У НАС НА 9 ЩИТОВ БОЛЬШЕ! А ЭТО ТОЖЕ СТАТУС!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4417,37 +5047,43 @@
         "damage": "-",
         "support": "-",
         "description": "ТЕПЕРЬ МЫ В БУТОНАХ ТОЧНО БЕСМЕРТНЫ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "18%",
         "support": "-",
         "description": "НУ В ЦЕЛОМ СКОРОСТЬ АТАКИ НУЖНА. НО! УДАРОВ НЕ ТАК МНОГО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "1%",
         "support": "1%",
         "description": "НЕМНОГО БУДЕТ БАФФ ЛУЧШЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "3%",
         "support": "-",
         "description": "БАФФ ТОЛЬКО НАМ! И ТОТ ТАКОЙ СЕБЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "5.5%",
         "support": "-",
         "description": "НУ ЛОПАТЬ БУТОНЫ ОТ УДАРОВ ОБЫЧНЫХ. НЕ ПЛОХО!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4459,37 +5095,43 @@
         "damage": "-",
         "support": "-",
         "description": "КД ЕШКИ ПОМОГАЕТ ДЕЛАТЬ БЫСТРЫЕ РОТАЦИИ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "15%",
         "support": "-",
         "description": "ЗАЛИТЬ СЕБЕ МС КУЧА! ПОЧЕМУ БЫ НЕТ?",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "16%",
         "support": "9%",
         "description": "ХОРОШИЙ БАФФ СЕБЕ И ВСЕЙ ПАЧКЕ!",
-        "note": "9% ДЛЯ НАХИДЫ!\nДЛЯ ОБЫЧНЫХ ПЕРСОНАЖЕЙ 5% ПРИБАВКИ ПРИМЕРНО!\n\nНО ДО С6 РАБОТАЕТ БАФФ НЕ СРАЗУ. А НА С6 СЧИТАЙ С НУЛЕВОЙ ПОЧТИ..."
+        "note": "9% ДЛЯ НАХИДЫ!\nДЛЯ ОБЫЧНЫХ ПЕРСОНАЖЕЙ 5% ПРИБАВКИ ПРИМЕРНО!\n\nНО ДО С6 РАБОТАЕТ БАФФ НЕ СРАЗУ. А НА С6 СЧИТАЙ С НУЛЕВОЙ ПОЧТИ...",
+        "energy": null
       },
       "С5": {
         "damage": "4.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "90%",
         "support": "-",
         "description": "МОЖНО ПО РАЗНОМУ ИГРАТЬ, НО ПРОЩЕ ВЫДАТЬ УЛЬТ СРАЗУ",
-        "note": "ПРОСТО ВЫЙТИ ПОЛУЧИТЬ 3 ЗЕРКАЛА, СДЕЛАТЬ УДАР ВЫКИНУТЬ УЛЬТ! ТАК БУДЕТ МАКСИМАЛЬНО СИЛЬНО!"
+        "note": "ПРОСТО ВЫЙТИ ПОЛУЧИТЬ 3 ЗЕРКАЛА, СДЕЛАТЬ УДАР ВЫКИНУТЬ УЛЬТ! ТАК БУДЕТ МАКСИМАЛЬНО СИЛЬНО!",
+        "energy": null
       }
     }
   },
@@ -4501,37 +5143,43 @@
         "damage": "10%",
         "support": "-",
         "description": "НА САМОМ ДЕЛЕ В ПИРО МЫ РЕДКО ИГРАЕМ... А ЗНАЧИТ +УРОН",
-        "note": "НУ И КУПОЛ ТЕПЕРЬ ВЕЧНО БУДЕТ СТОЯТЬ ПО ИДЕЕ!"
+        "note": "НУ И КУПОЛ ТЕПЕРЬ ВЕЧНО БУДЕТ СТОЯТЬ ПО ИДЕЕ!",
+        "energy": null
       },
       "С2": {
         "damage": "19.5%",
         "support": "18%",
         "description": "УЛЬТРА БОЛЬШОЙ БАФФ ВСЕЙ ПАЧКЕ! МАСТ ХЭВ В ВЕГЕТАЦИИ!",
-        "note": "В СРЕДНЕМ КАЖДЫЙ ПЕРСОНАЖ ПОЛУЧАЕТ 18% ПРИБАВКУ!\n\nНАПРИМЕР СИНОБУ ТОЖЕ ПОЛУЧИТ ПРИМЕРНО 18,5% ПРИБАВКИ!\n\nКОРОЧЕ ИМБА!"
+        "note": "В СРЕДНЕМ КАЖДЫЙ ПЕРСОНАЖ ПОЛУЧАЕТ 18% ПРИБАВКУ!\n\nНАПРИМЕР СИНОБУ ТОЖЕ ПОЛУЧИТ ПРИМЕРНО 18,5% ПРИБАВКИ!\n\nКОРОЧЕ ИМБА!",
+        "energy": null
       },
       "С3": {
         "damage": "10%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "12%",
         "support": "-",
         "description": "ПРОСТО ДОП. УРОН СЕБЕ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "2.5%",
         "support": "-",
         "description": "НУ ТИПА КАК С1 ТОЛЬКО ХУЖЕ В РАЗА 4",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "72%",
         "support": "-",
         "description": "У ДОП. ТРИКАРМЫ СВОЙ СТАТУС ЗНАЧИТ БУДЕТ СТИМУЛЯЦИЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4543,37 +5191,43 @@
         "damage": "-",
         "support": "-",
         "description": "20% ВЭ С КАРМАНА... НУУУ. ТИПА НЕ ПЛОХО...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "12%",
         "support": "-",
         "description": "ЧУТЬ СТАТУСА И ЧУТЬ УРОНА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "6%",
         "description": "БАФФ НА САМОМ ДЕЛЕ НЕ ПЛОХОЙ!",
-        "note": "6% ДЛЯ НАХИДЫ И ХАЙТАМА!\nДЛЯ ОБЫЧНЫХ ПЕРСОНАЖЕЙ 3% ПРИБАВКИ ПРИМЕРНО!\nКАЖДОМУ!"
+        "note": "6% ДЛЯ НАХИДЫ И ХАЙТАМА!\nДЛЯ ОБЫЧНЫХ ПЕРСОНАЖЕЙ 3% ПРИБАВКИ ПРИМЕРНО!\nКАЖДОМУ!",
+        "energy": null
       },
       "С5": {
         "damage": "10%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "9%",
         "support": "-",
         "description": "ПРИМЕРНО КАК С2, НО МОМЕНТАМИ ДАЖЕ ХУЖЕ...",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   },
@@ -4585,37 +5239,43 @@
         "damage": "7%",
         "support": "-",
         "description": "ПРОСТО ПРИЯТНЫЙ БАФФ",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "9%",
         "support": "-",
         "description": "НЕ ЗАБЫВАЕМ ПРО БАЛАНС СТАТОВ, ВЕДЬ ТЕПЕРЬ АФФИКСА МНОГО",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "4%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "15%",
         "support": "12%",
         "description": "ОЧЕНЬ ПОЛЕЗНАЯ КОНСТА. КАК ДЛЯ НАС, ТАК И ДЛЯ ПАЧКИ!",
-        "note": "В СРЕДНЕМ ДАЁТ 12% КАЖДОМУ ПЕРСОНАЖУ В ПАЧКЕ, КОМУ МС ПОЛЕЗЕН!\nНАПРИМЕР ФИШЛЬ ИЛИ ЯЭ МИКО"
+        "note": "В СРЕДНЕМ ДАЁТ 12% КАЖДОМУ ПЕРСОНАЖУ В ПАЧКЕ, КОМУ МС ПОЛЕЗЕН!\nНАПРИМЕР ФИШЛЬ ИЛИ ЯЭ МИКО",
+        "energy": null
       },
       "С5": {
         "damage": "0.5%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "32%",
         "support": "-",
         "description": "КАЖДЫЙ ДОП. ВЫСТРЕЛ ИМЕЕТ СВОЙ СТАТУС - 1 СС(БЕЗ КД)",
-        "note": "ПЕРЕЗАРЯДКА ВЫСТРЕЛА ПОЗВОЛЯЕТ ИГРАТЬ ПО РАЗНОМУ. НЕ ТОЛЬКО ПО СТАНДАРТУ.\nТО ЕСТЬ ДАЖЕ ПРОСТО СТОЯТЬ И СТРЕЛЯТЬ"
+        "note": "ПЕРЕЗАРЯДКА ВЫСТРЕЛА ПОЗВОЛЯЕТ ИГРАТЬ ПО РАЗНОМУ. НЕ ТОЛЬКО ПО СТАНДАРТУ.\nТО ЕСТЬ ДАЖЕ ПРОСТО СТОЯТЬ И СТРЕЛЯТЬ",
+        "energy": null
       }
     }
   },
@@ -4624,40 +5284,46 @@
     "element": "☘",
     "constellations": {
       "С1": {
-        "damage": "3,5Е",
+        "damage": "-",
         "support": "-",
         "description": "3,5Е ЗА ЕШКУ. НУ ПРОСТО ОК!",
-        "note": null
+        "note": null,
+        "energy": "3,5Е"
       },
       "С2": {
         "damage": "14%",
         "support": "-",
         "description": "3 сек. СТАТУСА И УРОНА = ТОП КОНСТА!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "3%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "-",
         "support": "-",
         "description": "П2 СРАЗУ ДАЁТ 30 МС И МАКС БАФФ НАБИРАЕТСЯ ЗА 5 сек.",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "12%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "8%",
         "support": "6%",
         "description": "ЗАЧАСТУЮ БАФФАЕТ 1го ДЕНДРО И 1го ГИДРО\\ЭЛЕКТРО",
-        "note": "6% ОДНОМУ ПЕРСОНАЖУ!\nЛЮБОЙ ПОДХОДЯЩЕЙ СТИХИИ!"
+        "note": "6% ОДНОМУ ПЕРСОНАЖУ!\nЛЮБОЙ ПОДХОДЯЩЕЙ СТИХИИ!",
+        "energy": null
       }
     }
   },
@@ -4669,37 +5335,43 @@
         "damage": "-",
         "support": "60к",
         "description": "КАЖДЫЙ БУТОН ХИЛИТ 6к АКТИВНОМУ ПЕРСУ, КАЖДЫЕ 2 сек.",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "12%",
         "support": "12-20%",
         "description": "ДЕЛАЕТ БАФФ УЛЬТЫ х2, ЧТО КРУТОЙ БАФФ!",
-        "note": "12-20% ЭТО ПРИБАВКА УРОНА ДЛЯ ОДНОГО СОЗДАТЕЛЯ БУТОНОВ! ВСЁ СИЛЬНО ЗАВИСИТ СКОЛЬКО БУТОВ ОН СОЗДАЁТ!\n\nА ТАК ЖЕ ТАМ ЕСТЬ БАФФ ЛУН. БУТОН НА 40%, НО ЧТО БЫ ПОЛУЧИТЬ ПОЛЬЗУ ОТ ЕГО. НАДО НЕФЕРПИТО! БЕЗ ЕЁ ТОЛКУ МАЛО..."
+        "note": "12-20% ЭТО ПРИБАВКА УРОНА ДЛЯ ОДНОГО СОЗДАТЕЛЯ БУТОНОВ! ВСЁ СИЛЬНО ЗАВИСИТ СКОЛЬКО БУТОВ ОН СОЗДАЁТ!\n\nА ТАК ЖЕ ТАМ ЕСТЬ БАФФ ЛУН. БУТОН НА 40%, НО ЧТО БЫ ПОЛУЧИТЬ ПОЛЬЗУ ОТ ЕГО. НАДО НЕФЕРПИТО! БЕЗ ЕЁ ТОЛКУ МАЛО...",
+        "energy": null
       },
       "С3": {
         "damage": "2%",
         "support": "2-4%",
         "description": "НЕМНОГО ДЕЛАЕТ СИЛЬНЕЙ БУТОНЫ",
-        "note": "2-4% ЭТО ОПЯТЬ ОДНОМУ ПЕРСОНАЖУ!"
+        "note": "2-4% ЭТО ОПЯТЬ ОДНОМУ ПЕРСОНАЖУ!",
+        "energy": null
       },
       "С4": {
-        "damage": "16Е",
+        "damage": "-",
         "support": "-",
         "description": "ТЕПЕРЬ УЛЬТ ТОЧНО БУДЕТ СТАБИЛЬНЫЙ!",
-        "note": null
+        "note": null,
+        "energy": "16Е"
       },
       "С5": {
         "damage": "6%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "70%",
         "support": "8%",
         "description": "70% ЭТО КАРМАН! А ТАМ И НА ПОЛЕ МОЖНО БИТЬ! КОРОЧЕ ИМБА!",
-        "note": "70% ЭТО МЫ С КАРМА ТОЛЬКО ТАМ РАЗГОНЯЕМСЯ.\nА ЕСЛИ СТОЯТЬ И БИТЬ. ТО ТАМ МОЖНО И ЗА 200% ОБЩЕЙ ПРИБАВКИ ПЕРЕБИТЬ!"
+        "note": "70% ЭТО МЫ С КАРМА ТОЛЬКО ТАМ РАЗГОНЯЕМСЯ.\nА ЕСЛИ СТОЯТЬ И БИТЬ. ТО ТАМ МОЖНО И ЗА 200% ОБЩЕЙ ПРИБАВКИ ПЕРЕБИТЬ!",
+        "energy": null
       }
     }
   },
@@ -4711,37 +5383,43 @@
         "damage": "28%",
         "support": "-",
         "description": "ПРИЯТНАЯ ПРИБАВКА. РАБОТАЕТ СТАБИЛЬНО!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С2": {
         "damage": "37%",
         "support": "-",
         "description": "КАКАЯ-ТО ДИКАЯ ПРИБАВКА. ПОКА СЛОЖНО ВЕРИТСЯ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С3": {
         "damage": "23%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С4": {
         "damage": "33.5%",
         "support": "10%",
         "description": "ПРИЯТНЫЙ ПОСТОЯННЫЙ СРЕЗ. ЛИШНИМ НЕ БУДЕТ!",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С5": {
         "damage": "7%",
         "support": "-",
         "description": "УСЛОВИЙ НЕТ...",
-        "note": null
+        "note": null,
+        "energy": null
       },
       "С6": {
         "damage": "74.5%",
         "support": "-",
         "description": "2 ДОП. УДАРА В ЗАРЖЕННУЮ + ДИКИЙ РАЗГОН ЛУН. БУТОН",
-        "note": null
+        "note": null,
+        "energy": null
       }
     }
   }
