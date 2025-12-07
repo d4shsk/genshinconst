@@ -331,12 +331,24 @@
 
             title.innerText = `${char.name} ${char.element}`;
             title.style.color = elColor;
-
+            // ... внутри showDetails ...
             let html = '';
             const keys = Object.keys(char.constellations).sort();
+            
             keys.forEach(key => {
                 const c = char.constellations[key];
                 const highlightStyle = (key === currentSort) ? `background: rgba(78, 204, 163, 0.1); border: 1px solid var(--accent);` : '';
+                
+                // Проверяем, есть ли комментарий
+                let noteHtml = '';
+                if (c.note) {
+                    noteHtml = `
+                        <div style="margin-top: 8px; padding: 8px; background: rgba(255, 200, 0, 0.15); border-radius: 6px; font-size: 0.85rem; color: #ffdb78; border-left: 3px solid #ffdb78;">
+                            <strong>💡 Примечание:</strong> ${c.note}
+                        </div>
+                    `;
+                }
+
                 html += `
                     <div class="const-row" style="border-left-color: ${elColor}; ${highlightStyle}">
                         <div class="const-header"><span>${key}</span></div>
@@ -345,9 +357,11 @@
                             <div><span style="color:#aaa">Саппорт:</span> <span class="stat-val">${c.support}</span></div>
                         </div>
                         <div style="line-height:1.4; color: #ddd;">${c.description}</div>
+                        ${noteHtml} 
                     </div>
                 `;
             });
+            // ...
             content.innerHTML = html;
             modal.style.display = 'flex';
             document.body.style.overflow = 'hidden';
